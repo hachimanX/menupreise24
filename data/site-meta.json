@@ -2,6 +2,8 @@
   "siteName": "SpeisekartenPreise.de",
   "tagline": "Aktuelle Speisekarten & Preise in Deutschland (2026)",
   "baseUrl": "https://speisekartenpreise.de",
+  "customDomain": "speisekartenpreise.de",
+  "googleVerificationCode": "",
   "githubUrl": "https://github.com/speisekartenpreise/speisekartenpreise.github.io",
   "language": "de-DE",
   "year": 2026,

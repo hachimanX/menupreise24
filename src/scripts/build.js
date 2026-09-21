@@ -100,6 +100,11 @@ function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content
   <meta name="twitter:title" content="${title} | ${siteMeta.siteName}">
   <meta name="twitter:description" content="${description}">
   
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍽️</text></svg>">
+
+  ${siteMeta.googleVerificationCode ? `<meta name="google-site-verification" content="${siteMeta.googleVerificationCode}">` : ''}
+
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/assets/css/styles.css">
   
@@ -183,6 +188,19 @@ function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content
       </div>
     </div>
   </footer>
+
+  <!-- Cookie Notice (DSGVO / GDPR) -->
+  <div id="cookieBanner" class="cookie-banner" role="dialog" aria-live="polite">
+    <div class="cookie-banner-inner">
+      <div>
+        <strong>🍪 Datenschutz & Cookies:</strong> Wir nutzen Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien bereitzustellen und Zugriffe auf unsere Website zu analysieren. Weitere Informationen finden Sie in unserer <a href="/datenschutz/" style="color: #ffffff; text-decoration: underline;">Datenschutzerklärung</a>.
+      </div>
+      <div class="cookie-btn-group">
+        <button id="cookieAcceptBtn" class="cookie-btn-accept">Alle akzeptieren</button>
+        <button id="cookieDeclineBtn" class="cookie-btn-decline">Nur essenzielle</button>
+      </div>
+    </div>
+  </div>
 
   <!-- Search & Interactive Scripts -->
   <script src="/assets/js/search.js" defer></script>
@@ -828,6 +846,12 @@ Sitemap: ${siteMeta.baseUrl}/sitemap.xml
 `;
 fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robotsTxt.trim(), 'utf-8');
 console.log('✓ Generated robots.txt.');
+
+// 7. Generate CNAME if customDomain is configured
+if (siteMeta.customDomain) {
+  fs.writeFileSync(path.join(DIST_DIR, 'CNAME'), siteMeta.customDomain.trim(), 'utf-8');
+  console.log(`✓ Generated CNAME for ${siteMeta.customDomain}.`);
+}
 
 console.log('\n=============================================');
 console.log('🎉 BUILD COMPLETED SUCCESSFULLY!');
