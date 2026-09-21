@@ -1,5 +1,5 @@
 {
-  "name": "speisekarten-portal",
+  "name": "menupreise24",
   "version": "1.0.0",
   "description": "Deutschlands aktuellste Speisekarten und Preisverzeichnisse für Fast Food & Restaurants",
   "main": "src/scripts/build.js",
@@ -17,6 +17,6 @@
     "fast food",
     "deutschland"
   ],
-  "author": "SpeisekartenPreise",
+  "author": "MenüPreise24",
   "license": "MIT"
 }

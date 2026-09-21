@@ -501,7 +501,7 @@ function renderCategoryPage(cat) {
       </section>
 
       <section class="quick-answer-card">
-        <div class="quick-answer-title">📌 Warum SpeisekartenPreise.de?</div>
+        <div class="quick-answer-title">📌 Warum MenüPreise24.de?</div>
         <p class="quick-answer-text">
           Wir vergleichen die Preise der wichtigsten Ketten und Restaurants in Deutschland. Alle Preisangaben stammen aus offiziellen Menü-Aushängen, Restaurant-Besuchen und verifizierten Lieferdiensten.
         </p>
@@ -633,14 +633,14 @@ function renderLegalPage(type) {
 
   if (type === 'impressum') {
     title = "Impressum";
-    metaDesc = "Impressum und rechtliche Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz) für SpeisekartenPreise.de.";
+    metaDesc = "Impressum und rechtliche Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz) für MenüPreise24.de.";
     bodyHtml = `
       <h1>Impressum</h1>
       <p style="margin-bottom: 1rem;">Angaben gemäß § 5 DDG (ehemals TMG):</p>
       
       <h3>Betreiber der Website:</h3>
       <p>
-        <strong>SpeisekartenPreise Media</strong><br>
+        <strong>MenüPreise24 Media</strong><br>
         Postfach / Anschrift: Musterstraße 123<br>
         10115 Berlin, Deutschland<br>
         E-Mail: <a href="mailto:${siteMeta.contactEmail}">${siteMeta.contactEmail}</a><br>
@@ -649,7 +649,7 @@ function renderLegalPage(type) {
 
       <h3 style="margin-top: 1.5rem;">Verantwortlich für redaktionelle Inhalte:</h3>
       <p>
-        Redaktion SpeisekartenPreise.de<br>
+        Redaktion MenüPreise24.de<br>
         Musterstraße 123, 10115 Berlin
       </p>
 
@@ -665,7 +665,7 @@ function renderLegalPage(type) {
     `;
   } else if (type === 'datenschutz') {
     title = "Datenschutzerklärung (DSGVO)";
-    metaDesc = "Datenschutzerklärung gemäß EU-Datenschutz-Grundverordnung (DSGVO) für SpeisekartenPreise.de.";
+    metaDesc = "Datenschutzerklärung gemäß EU-Datenschutz-Grundverordnung (DSGVO) für MenüPreise24.de.";
     bodyHtml = `
       <h1>Datenschutzerklärung</h1>
       <p>Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Nachfolgend informieren wir Sie über die Verarbeitung personenbezogener Daten bei Nutzung unserer Website.</p>
@@ -684,12 +684,12 @@ function renderLegalPage(type) {
     `;
   } else if (type === 'haftungsausschluss') {
     title = "Haftungsausschluss & Marken-Disclaimer";
-    metaDesc = "Haftungsausschluss und Markendistanzierung für SpeisekartenPreise.de.";
+    metaDesc = "Haftungsausschluss und Markendistanzierung für MenüPreise24.de.";
     bodyHtml = `
       <h1>Haftungsausschluss & Markendistanzierung</h1>
       <div class="quick-answer-card" style="margin-top: 1rem;">
         <p class="quick-answer-text">
-          <strong>Wichtige Klarstellung:</strong> SpeisekartenPreise.de ist ein vollständig unabhängiges Informationsportal. Wir stehen in keiner vertraglichen, partnerschaftlichen oder wirtschaftlichen Verbindung zu den auf dieser Website genannten Unternehmen oder Ketten (darunter McDonald's Deutschland LLC, Burger King Deutschland GmbH, Deutsche Bahn AG, Starbucks Coffee Deutschland GmbH etc.).
+          <strong>Wichtige Klarstellung:</strong> MenüPreise24.de ist ein vollständig unabhängiges Informationsportal. Wir stehen in keiner vertraglichen, partnerschaftlichen oder wirtschaftlichen Verbindung zu den auf dieser Website genannten Unternehmen oder Ketten (darunter McDonald's Deutschland LLC, Burger King Deutschland GmbH, Deutsche Bahn AG, Starbucks Coffee Deutschland GmbH etc.).
         </p>
       </div>
 
@@ -700,16 +700,16 @@ function renderLegalPage(type) {
     `;
   } else if (type === 'ueber-uns') {
     title = "Über uns";
-    metaDesc = "Über SpeisekartenPreise.de: Unsere Mission für Preistransparenz in der deutschen Gastronomie.";
+    metaDesc = "Über MenüPreise24.de: Unsere Mission für Preistransparenz in der deutschen Gastronomie.";
     bodyHtml = `
-      <h1>Über SpeisekartenPreise.de</h1>
+      <h1>Über MenüPreise24.de</h1>
       <p style="font-size: 1.15rem; color: #334155; line-height: 1.7; margin: 1rem 0;">
         Fast-Food-Preise und Restaurantkarten ändern sich in Zeiten dynamischer Inflation häufig. Viele offizielle Websites von Restaurantketten machen es Nutzern jedoch schwer, vor dem Besuch oder der Fahrt verlässliche Preise einzusehen – sie verstecken Preislisten hinter mobilen Apps oder umständlichen PDF-Downloads.
       </p>
       <div class="quick-answer-card">
         <div class="quick-answer-title">Unsere Mission: 100 % Preistransparenz</div>
         <p class="quick-answer-text">
-          SpeisekartenPreise.de bereitet Speisekarten führender Ketten in schnellen, übersichtlichen, mobiltauglichen Tabellen auf. Ob im ICE-Zug, vor der Drive-In-Schlange oder beim Planen des Familienessens: Bei uns siehst du auf einen Klick, was dein Lieblingsburger oder Menü heute kostet.
+          MenüPreise24.de bereitet Speisekarten führender Ketten in schnellen, übersichtlichen, mobiltauglichen Tabellen auf. Ob im ICE-Zug, vor der Drive-In-Schlange oder beim Planen des Familienessens: Bei uns siehst du auf einen Klick, was dein Lieblingsburger oder Menü heute kostet.
         </p>
       </div>
     `;

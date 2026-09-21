@@ -1,4 +1,4 @@
-// SpeisekartenPreise.de - Interactive Live Search, Table Filter & Cookie Consent Engine
+// MenüPreise24.de - Interactive Live Search, Table Filter & Cookie Consent Engine
 document.addEventListener('DOMContentLoaded', function () {
   // 1. Cookie Consent Banner (DSGVO / GDPR)
   const cookieBanner = document.getElementById('cookieBanner');
@@ -6,21 +6,21 @@ document.addEventListener('DOMContentLoaded', function () {
   const cookieDecline = document.getElementById('cookieDeclineBtn');
 
   if (cookieBanner) {
-    const hasConsent = localStorage.getItem('speisekarten_cookie_consent');
+    const hasConsent = localStorage.getItem('menupreise24_cookie_consent');
     if (!hasConsent) {
       cookieBanner.style.display = 'block';
     }
 
     if (cookieAccept) {
       cookieAccept.addEventListener('click', function () {
-        localStorage.setItem('speisekarten_cookie_consent', 'accepted');
+        localStorage.setItem('menupreise24_cookie_consent', 'accepted');
         cookieBanner.style.display = 'none';
       });
     }
 
     if (cookieDecline) {
       cookieDecline.addEventListener('click', function () {
-        localStorage.setItem('speisekarten_cookie_consent', 'declined');
+        localStorage.setItem('menupreise24_cookie_consent', 'declined');
         cookieBanner.style.display = 'none';
       });
     }

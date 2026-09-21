@@ -1,4 +1,4 @@
-# SpeisekartenPreise.de 🍽️
+# MenüPreise24.de 🍽️
 
 > **Deutschlands schnellstes und modernstes Speisekarten- und Preisverzeichnis (2026)**
 > 100 % statisch generiert, blitzschnell (100/100 Core Web Vitals), vollständig indexierbar für Googlebot & KI-Crawler (Perplexity, ChatGPT, Claude) mit interaktiver Tabellen-Suche, Kalorienangaben, Frühstückszeiten und strukturiertem Schema-Markup (`FAQPage`, `FastFoodRestaurant`, `Menu`, `BreadcrumbList`).
@@ -40,7 +40,7 @@
 
 ```bash
 # 1. In das Projektverzeichnis wechseln
-cd speisekarten-portal
+cd menupreise24
 
 # 2. Alle 79 Seiten frisch generieren
 npm run build
@@ -55,7 +55,7 @@ npm run serve
 ## 🌐 Auf GitHub hochladen & GitHub Pages aktivieren
 
 ### Schritt 1: GitHub Repository erstellen
-1. Erstelle auf [github.com/new](https://github.com/new) ein neues Repository (z. B. `speisekarten-portal` oder `deine-domain.de`).
+1. Erstelle auf [github.com/new](https://github.com/new) ein neues Repository (z. B. `menupreise24` oder `deine-domain.de`).
 2. Führe im Projektordner folgende Befehle aus:
 
 ```bash
@@ -72,7 +72,7 @@ git push -u origin main
 2. Wähle unter **Build and deployment** > **Source** die Option: **GitHub Actions**.
 3. Der hinterlegte Workflow `.github/workflows/deploy.yml` baut die Seite automatisch bei jedem `git push` und schaltet sie live!
 
-### Schritt 3: Eigene Domain (z. B. `speisekartenpreise.de`) verknüpfen
+### Schritt 3: Eigene Domain (z. B. `menupreise24.de`) verknüpfen
 1. Kaufe deine Wunschdomain bei Namecheap, Strato, Cloudflare oder IONOS.
 2. Hinterlege in GitHub Pages unter **Custom domain** deine Domain.
 3. Setze bei deinem Domain-Anbieter die DNS CNAME- oder A-Records auf GitHub Pages:

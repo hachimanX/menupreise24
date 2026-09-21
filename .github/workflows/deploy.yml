@@ -1,4 +1,4 @@
-name: Deploy SpeisekartenPreise to GitHub Pages
+name: Deploy MenüPreise24 to GitHub Pages
 
 on:
   push:
