@@ -553,9 +553,60 @@ a:hover {
   font-size: 0.8rem;
 }
 
+/* Cookie Notice Banner (DSGVO / GDPR Compliant) */
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #0f172a;
+  color: #f8fafc;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.2);
+  z-index: 9999;
+  display: none;
+  font-size: 0.88rem;
+}
+.cookie-banner-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.cookie-btn-group {
+  display: flex;
+  gap: 0.5rem;
+}
+.cookie-btn-accept {
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.cookie-btn-accept:hover {
+  background: var(--primary-dark);
+}
+.cookie-btn-decline {
+  background: transparent;
+  color: #94a3b8;
+  border: 1px solid #475569;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.cookie-btn-decline:hover {
+  color: #fff;
+}
+
 /* Print Stylesheet for PDF Export */
 @media print {
-  .site-header, .menu-controls, .ad-slot-wrapper, .faq-section, .related-grid, .site-footer, .breadcrumbs {
+  .site-header, .menu-controls, .ad-slot-wrapper, .faq-section, .related-grid, .site-footer, .breadcrumbs, .cookie-banner {
     display: none !important;
   }
   body {

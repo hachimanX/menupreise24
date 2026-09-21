@@ -1,5 +1,32 @@
-// SpeisekartenPreise.de - Interactive Live Search & Table Filter Engine
+// SpeisekartenPreise.de - Interactive Live Search, Table Filter & Cookie Consent Engine
 document.addEventListener('DOMContentLoaded', function () {
+  // 1. Cookie Consent Banner (DSGVO / GDPR)
+  const cookieBanner = document.getElementById('cookieBanner');
+  const cookieAccept = document.getElementById('cookieAcceptBtn');
+  const cookieDecline = document.getElementById('cookieDeclineBtn');
+
+  if (cookieBanner) {
+    const hasConsent = localStorage.getItem('speisekarten_cookie_consent');
+    if (!hasConsent) {
+      cookieBanner.style.display = 'block';
+    }
+
+    if (cookieAccept) {
+      cookieAccept.addEventListener('click', function () {
+        localStorage.setItem('speisekarten_cookie_consent', 'accepted');
+        cookieBanner.style.display = 'none';
+      });
+    }
+
+    if (cookieDecline) {
+      cookieDecline.addEventListener('click', function () {
+        localStorage.setItem('speisekarten_cookie_consent', 'declined');
+        cookieBanner.style.display = 'none';
+      });
+    }
+  }
+
+  // 2. Table Item Search & Filter
   const searchInput = document.getElementById('menuSearchInput');
   const filterPills = document.querySelectorAll('.pill-btn');
   const printBtn = document.getElementById('printPdfBtn');
@@ -17,14 +44,11 @@ document.addEventListener('DOMContentLoaded', function () {
       const priceText = row.querySelector('.item-price')?.textContent || '';
       const dietBadge = row.querySelector('.diet-badge')?.textContent.toLowerCase() || '';
       
-      // Parse numeric price in Euro
       const priceMatch = priceText.match(/(\d+[,.]\d+)/);
       const priceNum = priceMatch ? parseFloat(priceMatch[1].replace(',', '.')) : 999;
 
-      // Search match
       const matchesSearch = !searchTerm || nameCol.includes(searchTerm) || dietBadge.includes(searchTerm);
 
-      // Pill filter match
       let matchesPill = true;
       if (activeFilter === 'vegan') {
         matchesPill = dietBadge.includes('vegan');
@@ -44,7 +68,6 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     });
 
-    // Hide or show entire sections if no rows match
     menuSections.forEach(section => {
       const rowsInSection = section.querySelectorAll('tbody tr');
       let sectionHasVisibleRows = false;
@@ -54,7 +77,6 @@ document.addEventListener('DOMContentLoaded', function () {
       section.style.display = sectionHasVisibleRows ? '' : 'none';
     });
 
-    // Update result count message if present
     const countEl = document.getElementById('searchCountBadge');
     if (countEl) {
       if (searchTerm || activeFilter !== 'all') {
@@ -88,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // FAQ Accordion Toggle
+  // 3. FAQ Accordion Toggle
   const faqQuestions = document.querySelectorAll('.faq-question');
   faqQuestions.forEach(q => {
     q.addEventListener('click', function () {
@@ -100,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  // Global Home Search Bar
+  // 4. Global Home Search Bar
   const globalSearchInput = document.getElementById('globalSearchInput');
   const globalCards = document.querySelectorAll('.brand-search-card');
   if (globalSearchInput && globalCards.length > 0) {
