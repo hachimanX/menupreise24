@@ -1,0 +1,57 @@
+{
+  "slug": "smileys-pizza-preise",
+  "name": "Smiley's Pizza Profis",
+  "category": "pizza-pasta",
+  "seoTitle": "Smiley's Pizza Speisekarte Preise 2026 – Ringos, Pizza & Pasta",
+  "metaDescription": "Aktuelle Smiley's Pizza Preise 2026 in Deutschland: Pizza Größen, gefüllte Pizzabrötchen (Ringos), Pasta & Croques im Tabellen-Überblick.",
+  "heroSubtitle": "Der norddeutsche Pizza-Favorit: Alle Smiley's Preise für Pizza, Pasta und die berühmten Ringos.",
+  "quickAnswer": "Bei Smiley's Pizza Profis kostet eine 25-cm-Pizza ca. 9,45 €, eine 32-cm-Pizza ca. 14,95 €. Die beliebten gefüllten Pizzabrötchen ('Ringos' 8er Box mit Dip) liegen bei ca. 6,95 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:00 Uhr geöffnet",
+    "hoursWeekend": "Ab 11:00 Uhr",
+    "note": "Lieferung und Take-Away."
+  },
+  "savingTips": [
+    "Smiley's Mittags-Gutscheine bieten unter der Woche günstige Menüs."
+  ],
+  "history": "1988 in Hamburg gegründet, steht Smiley's vor allem in Nord- und Westdeutschland für Pizza mit frischem Hefeteig und Gouda-Käse.",
+  "menuCategories": [
+    {
+      "categoryName": "Pizza & Ringos",
+      "items": [
+        {
+          "name": "Pizza Chicago (Salami)",
+          "price": "9,45 € (25cm) | 14,95 € (32cm)",
+          "calories": "3.100 kJ / 741 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Smiley's Ringos 8er (mit Käse & Schinken)",
+          "price": "6,95 €",
+          "calories": "2.280 kJ / 545 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Margherita",
+          "price": "7,95 € (25cm) | 12,45 € (32cm)",
+          "calories": "2.550 kJ / 609 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was sind Ringos bei Smiley's?",
+      "a": "Ringos sind frisch gebackene, gefüllte Pizzateig-Rollen mit Käse, Salami oder Gemüse, serviert mit einem Dip nach Wahl."
+    }
+  ],
+  "tags": [
+    "pizza-pasta",
+    "smiley's pizza profis",
+    "preise",
+    "speisekarte"
+  ]
+}

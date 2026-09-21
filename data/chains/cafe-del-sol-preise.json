@@ -1,0 +1,63 @@
+{
+  "slug": "cafe-del-sol-preise",
+  "name": "Café Del Sol",
+  "category": "deutsch-regional",
+  "seoTitle": "Café Del Sol Speisekarte Preise 2026 – Schnitzel, Brunch & Cocktails",
+  "metaDescription": "Aktuelle Café Del Sol Preise 2026 in Deutschland: Schnitzel, Burger, Pizza, Frühstücksbuffet, Sonntagsbrunch & Cocktails im Tabellen-Überblick.",
+  "heroSubtitle": "Kolonialstil-Villa und Urlaubsflair: Alle Speisen, Getränke und Brunch-Preise.",
+  "quickAnswer": "Bei Café Del Sol kostet ein Schnitzel Wiener Art ca. 14,90 €, Burger liegen bei ca. 12,50 € bis 15,50 € und das beliebte Wochenend-Frühstücksbuffet kostet rund 17,90 € pro Person.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Mo – Sa: 09:00 – 12:00 Uhr",
+    "hoursWeekend": "So & Feiertage (Brunch): 09:00 – 14:00 Uhr",
+    "note": "Großes Frühstücksbuffet mit Rührei, Waffeln, Brötchen und Aufschnitt."
+  },
+  "savingTips": [
+    "Happy Hour für Cocktails ab 17:00 Uhr nutzen."
+  ],
+  "history": "Café Del Sol wurde 2001 in Hildesheim gegründet und betreibt über 30 freistehende Freizeithäuser im Kolonialstil.",
+  "menuCategories": [
+    {
+      "categoryName": "Schnitzel & Hauptgerichte",
+      "items": [
+        {
+          "name": "Schnitzel Wiener Art mit Pommes",
+          "price": "14,90 €",
+          "calories": "3.450 kJ / 824 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Jägerschnitzel mit Champignonrahmsauce",
+          "price": "16,90 €",
+          "calories": "3.890 kJ / 929 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Frühstücksbuffet (Samstags)",
+          "price": "15,50 €",
+          "calories": "variiert",
+          "diet": "Buffet"
+        },
+        {
+          "name": "Sonntagsbrunch Schlemmerbuffet",
+          "price": "18,90 €",
+          "calories": "variiert",
+          "diet": "Buffet"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet das Frühstücksbuffet im Café Del Sol?",
+      "a": "Samstags liegt das Buffet bei ca. 15,50 €, der große Sonntagsbrunch bei ca. 18,90 €."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "café del sol",
+    "preise",
+    "speisekarte"
+  ]
+}

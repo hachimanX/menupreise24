@@ -1,0 +1,205 @@
+{
+  "slug": "db-speisekarte",
+  "name": "Deutsche Bahn (ICE Bordbistro)",
+  "category": "bahn-reise",
+  "seoTitle": "Deutsche Bahn Speisekarte 2026 – Preise im ICE Bordbistro & Bordrestaurant",
+  "metaDescription": "Aktuelle Deutsche Bahn Speisekarte 2026: Alle Preise im ICE Bordbistro & Bordrestaurant für Kaffee, Currywurst, Frühstück, Bier & Snacks in übersichtlicher Tabelle.",
+  "heroSubtitle": "Die offizielle Preisliste der DB Bordgastronomie im ICE und Intercity mit allen Speisen, Heißgetränken und Reisemenüs.",
+  "quickAnswer": "Im ICE Bordbistro der Deutschen Bahn kostet eine Tasse Fairtrade-Kaffee 2026 ca. 3,90 €, ein Cappuccino ca. 4,30 €. Der beliebte Bordbistro-Klassiker 'Original Berliner Currywurst' mit Brötchen liegt bei ca. 8,20 €, während ein warmes Hauptgericht zwischen 9,90 € und 14,50 € kostet. In der 1. Klasse gibt es zudem Am-Platz-Service.",
+  "priceLevel": "€€€ (Reise-Gastronomie)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ganztägig verfügbar, solange der Vorrat reicht",
+    "hoursWeekend": "Ganztägig verfügbar",
+    "note": "Das kleine und große Bahn-Frühstück (Croissant, Brötchen, Butter, Konfitüre & Heißgetränk) ist ab Fahrtbeginn im Zug erhältlich."
+  },
+  "savingTips": [
+    "Mit einer BahnCard gibt es zeitweise Rabattaktionen oder Bonuspunkte beim Kauf in der Bordgastronomie.",
+    "Kombiniere Heißgetränk und Gebäck als Pausen-Menü (z. B. Kaffee + Buttercroissant), um gegenüber dem Einzelkauf 1,00–1,50 € zu sparen.",
+    "In Zügen mit Bordbistro (statt Restaurant) sind die Preise identisch, Speisen werden jedoch im praktischen To-Go-Behälter ausgegeben."
+  ],
+  "history": "Die DB Bordgastronomie blickt auf eine lange Tradition zurück, die bis zur MITROPA (Mitteleuropäische Schlafwagen- und Speisewagen-Aktiengesellschaft) von 1916 reicht. Heute serviert die Deutsche Bahn in rund 400 ICE-Zügen pro Jahr über 3 Millionen Tassen Kaffee und Hunderttausende Portionen Currywurst.",
+  "menuCategories": [
+    {
+      "categoryName": "Warme Speisen & Zug-Klassiker",
+      "items": [
+        {
+          "name": "Original Berliner Currywurst mit Brötchen",
+          "price": "8,20 €",
+          "calories": "2.480 kJ / 592 kcal",
+          "diet": "Schweinefleisch"
+        },
+        {
+          "name": "Chili con Carne mit Sauerrahm & Brötchen",
+          "price": "9,90 €",
+          "calories": "2.190 kJ / 523 kcal",
+          "diet": "Rindfleisch"
+        },
+        {
+          "name": "Veganes Kichererbsen-Kokos-Curry mit Reis",
+          "price": "10,90 €",
+          "calories": "1.920 kJ / 458 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Käsespätzle mit Röstzwiebeln",
+          "price": "10,50 €",
+          "calories": "2.750 kJ / 657 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Bayerischer Leberkäse mit Kartoffelsalat",
+          "price": "9,50 €",
+          "calories": "2.610 kJ / 624 kcal",
+          "diet": "Schweinefleisch"
+        },
+        {
+          "name": "Gulaschsuppe mit Rindfleisch & Brötchen",
+          "price": "7,50 €",
+          "calories": "1.520 kJ / 363 kcal",
+          "diet": "Rindfleisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Frühstück & Bäckerei",
+      "items": [
+        {
+          "name": "Kleines Frühstück (Croissant, Butter, Marmelade)",
+          "price": "4,90 €",
+          "calories": "1.450 kJ / 346 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Großes Genießer-Frühstück (Brötchen, Käse, Schinken, Ei)",
+          "price": "8,90 €",
+          "calories": "2.350 kJ / 561 kcal",
+          "diet": "Kombination"
+        },
+        {
+          "name": "Buttercroissant frisch gebacken",
+          "price": "2,60 €",
+          "calories": "980 kJ / 234 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Frische Laugenbrezel",
+          "price": "2,40 €",
+          "calories": "890 kJ / 212 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Belegtes Baguette Salami & Käse",
+          "price": "5,60 €",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Kombination"
+        }
+      ]
+    },
+    {
+      "categoryName": "Heißgetränke & Kaffee (Fairtrade)",
+      "items": [
+        {
+          "name": "Fairtrade Kaffee Crema (Tasse)",
+          "price": "3,90 €",
+          "calories": "15 kJ / 4 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Großer Kaffee Crema (Pott)",
+          "price": "4,60 €",
+          "calories": "20 kJ / 5 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Cappuccino",
+          "price": "4,30 €",
+          "calories": "480 kJ / 115 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Latte Macchiato",
+          "price": "4,60 €",
+          "calories": "620 kJ / 148 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Heiße Schokolade",
+          "price": "4,20 €",
+          "calories": "890 kJ / 213 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Bio-Tee (verschiedene Sorten)",
+          "price": "3,80 €",
+          "calories": "5 kJ / 1 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    },
+    {
+      "categoryName": "Kühle Getränke & Bier",
+      "items": [
+        {
+          "name": "Bitburger Pils frisch gezapft (0,5 l)",
+          "price": "5,20 €",
+          "calories": "850 kJ / 203 kcal",
+          "diet": "Alkoholhaltig"
+        },
+        {
+          "name": "Erdinger Weißbier (0,5 l Flasche)",
+          "price": "5,40 €",
+          "calories": "920 kJ / 220 kcal",
+          "diet": "Alkoholhaltig"
+        },
+        {
+          "name": "Alkoholfreies Bier (0,33 l)",
+          "price": "4,20 €",
+          "calories": "320 kJ / 76 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Mineralwasser Still / Spritzig (0,5 l)",
+          "price": "3,60 €",
+          "calories": "0 kJ / 0 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Coca-Cola / Coca-Cola Zero (0,5 l)",
+          "price": "3,90 €",
+          "calories": "890 kJ / 212 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie viel kostet ein Kaffee im ICE Bordbistro der Deutschen Bahn?",
+      "a": "Eine normale Tasse Fairtrade-Kaffee kostet im ICE 3,90 €. Ein großer Kaffee-Pott kostet 4,60 €, und Spezialitäten wie Cappuccino oder Latte Macchiato liegen bei 4,30 € bis 4,60 €."
+    },
+    {
+      "q": "Was kostet die Currywurst im Bordrestaurant der Deutschen Bahn?",
+      "a": "Die 'Original Berliner Currywurst' mit Brötchen kostet aktuell 8,20 € im Bordbistro und Bordrestaurant."
+    },
+    {
+      "q": "Kann man im ICE Bordrestaurant mit Karte bezahlen?",
+      "a": "Ja, die Deutsche Bahn akzeptiert im Bordbistro und Bordrestaurant bargeldlose Zahlung (Girocard, Visa, Mastercard, American Express, Apple Pay, Google Pay) sowie Bargeld."
+    },
+    {
+      "q": "Gibt es im ICE Am-Platz-Service?",
+      "a": "Reisende in der 1. Klasse können Speisen und Getränke direkt an ihren Sitzplatz bestellen. In der 2. Klasse holt man Speisen im Bordbistro oder Bordrestaurant ab."
+    },
+    {
+      "q": "Gibt es vegane Gerichte auf der Speisekarte der Bahn?",
+      "a": "Ja, die Deutsche Bahn erweitert ihr pflanzliches Angebot laufend. Beliebt ist das vegane Kichererbsen-Curry sowie vegane Hafermilch als laktosefreie Alternative für alle Kaffees."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "bahn-reise",
+    "deutsche bahn (ice bordbistro)",
+    "preise",
+    "speisekarte"
+  ]
+}

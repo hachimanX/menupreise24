@@ -1,0 +1,94 @@
+{
+  "slug": "pizza-hut-preise",
+  "name": "Pizza Hut",
+  "category": "pizza-pasta",
+  "seoTitle": "Pizza Hut Speisekarte Preise 2026 – Pan Pizza & All You Can Eat",
+  "metaDescription": "Aktuelle Pizza Hut Preise 2026 in Deutschland: Pan Pizza, Cheezy Crust, Pizza Buffet (All You Can Eat), Pasta & Knoblauchbrot im Tabellen-Überblick.",
+  "heroSubtitle": "Alle Preise für Pan Pizza, Cheezy Crust Kruste, Pasta und das legendäre Pizza Hut Mittagsbuffet.",
+  "quickAnswer": "Bei Pizza Hut Deutschland kostet eine Pan Pizza (Normal 23 cm) ca. 11,90 €, in der Large-Größe (33 cm) ca. 18,50 €. Der beliebte Käserand 'Cheezy Crust' kostet rund 3,50 € Aufpreis. Das bekannte Pizza Hut Mittags-Buffet (All You Can Eat) liegt werktags je nach Standort bei ca. 12,90 € bis 14,90 € pro Person.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Mo – Fr ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Sa – So ab 12:00 Uhr geöffnet",
+    "note": "Mittagsbuffet in teilnehmenden Dine-In Restaurants meist von 11:30 bis 14:30 Uhr."
+  },
+  "savingTips": [
+    "Nutze das Mittagsbuffet unter der Woche: Für rund 13 € kannst du so viel Pizza, Pasta und Salat essen, wie du möchtest.",
+    "Im Lieferdienst gibt es häufig '2 Pizzen zum Sparpreis' Aktionen am Dienstag oder Donnerstag."
+  ],
+  "history": "Pizza Hut wurde 1958 von den Brüdern Dan und Frank Carney in Kansas gegründet. Die erste deutsche Filiale eröffnete 1983. Die Kette ist weltweit berühmt für ihre goldbraun in der Pfanne gebackene Pan Pizza mit luftig-dickem Teig.",
+  "menuCategories": [
+    {
+      "categoryName": "Pan Pizza & Cheezy Crust (Klassiker)",
+      "items": [
+        {
+          "name": "Pan Pizza Salami (Normal 23cm | Large 33cm)",
+          "price": "11,90 € | 18,50 €",
+          "calories": "3.100 kJ / 740 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pan Pizza Margherita (Normal | Large)",
+          "price": "9,90 € | 15,90 €",
+          "calories": "2.650 kJ / 633 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pan Pizza Texas Supreme (Rind, Zwiebeln, Paprika)",
+          "price": "13,50 € | 20,50 €",
+          "calories": "3.480 kJ / 831 kcal",
+          "diet": "Rindfleisch"
+        },
+        {
+          "name": "Pan Pizza Tuna & Onions",
+          "price": "12,90 € | 19,50 €",
+          "calories": "2.980 kJ / 712 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Cheezy Crust Käserand-Aufpreis",
+          "price": "+ 3,50 €",
+          "calories": "980 kJ / 234 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Buffet & Vorspeisen",
+      "items": [
+        {
+          "name": "Mittags-Buffet All You Can Eat (Mo–Fr)",
+          "price": "13,90 €",
+          "calories": "variiert",
+          "diet": "Buffet"
+        },
+        {
+          "name": "Knoblauchbrot Classic (Garlic Bread)",
+          "price": "4,20 €",
+          "calories": "1.120 kJ / 268 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Knoblauchbrot mit Mozzarella überbacken",
+          "price": "5,40 €",
+          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet das Pizza Hut All You Can Eat Buffet in Deutschland?",
+      "a": "Das Mittagsbuffet kostet in den meisten teilnehmenden Pizza Hut Restaurants wochentags zwischen 12,90 € und 14,90 € pro Person inklusive Pizza, Pasta und Salatbar."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "pizza-pasta",
+    "pizza hut",
+    "preise",
+    "speisekarte"
+  ]
+}

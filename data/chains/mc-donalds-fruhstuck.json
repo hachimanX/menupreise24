@@ -1,0 +1,79 @@
+{
+  "slug": "mc-donalds-fruhstuck",
+  "name": "McDonald's Frühstück",
+  "category": "fast-food",
+  "seoTitle": "McDonald's Frühstück Preise 2026 – Zeiten & McMuffin Menüs",
+  "metaDescription": "Aktuelle McDonald's Frühstück Preise 2026 in Deutschland: McMuffin Bacon & Egg, Fresh Chicken, Croissants, Kaffee & genaue Frühstückszeiten im Überblick.",
+  "heroSubtitle": "Wann gibt es Frühstück bei McDonald's? Alle Zeiten, McMuffins, Rührei und Kaffeespezialitäten mit Preisen.",
+  "quickAnswer": "Das McDonald's Frühstück wird montags bis freitags von 06:00 bis 10:30 Uhr serviert, an Wochenenden und Feiertagen bis 11:30 Uhr. Ein einzelner McMuffin Bacon & Egg kostet ca. 3,49 €, im Frühstücksmenü mit Heißgetränk und Hash Brown ca. 5,99 €.",
+  "priceLevel": "€ (Günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Mo – Fr: 06:00 – 10:30 Uhr",
+    "hoursWeekend": "Sa – So: 06:00 – 11:30 Uhr",
+    "note": "Gültig in allen teilnehmenden Filialen deutschlandweit."
+  },
+  "savingTips": [
+    "Das Frühstücks-Duo (z. B. McMuffin + Heißgetränk) spart bis zu 25 % gegenüber dem Einzelkauf."
+  ],
+  "history": "Das Frühstückskonzept von McDonald's wurde in den 1970er Jahren mit der Erfindung des Egg McMuffin in den USA geboren und gehört heute fest zur Morgenroutine von Millionen Pendlern in Deutschland.",
+  "menuCategories": [
+    {
+      "categoryName": "McMuffins & Warme Klassiker",
+      "items": [
+        {
+          "name": "McMuffin Bacon & Egg",
+          "price": "3,49 €",
+          "calories": "1.520 kJ / 363 kcal",
+          "diet": "Schwein/Ei"
+        },
+        {
+          "name": "McMuffin Fresh Chicken",
+          "price": "3,69 €",
+          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "McMuffin Sausage & Egg",
+          "price": "3,49 €",
+          "calories": "1.790 kJ / 428 kcal",
+          "diet": "Schwein/Ei"
+        },
+        {
+          "name": "McToast Schinken & Käse",
+          "price": "2,29 €",
+          "calories": "1.120 kJ / 268 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Rührei mit Bacon & Brötchen",
+          "price": "4,79 €",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Schwein/Ei"
+        },
+        {
+          "name": "Hash Brown (Kartoffelrösti)",
+          "price": "1,99 €",
+          "calories": "580 kJ / 139 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bis wie viel Uhr gibt es bei McDonald's Frühstück?",
+      "a": "Unter der Woche (Mo–Fr) endet das Frühstück um 10:30 Uhr. Am Samstag, Sonntag und an Feiertagen endet es um 11:30 Uhr."
+    },
+    {
+      "q": "Was kostet ein McMuffin bei McDonald's?",
+      "a": "Ein McMuffin kostet einzeln zwischen 3,29 € und 3,69 €. Im Frühstücksmenü mit Beilage und Kaffee liegt der Preis bei ca. 5,99 €."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "mcdonald's frühstück",
+    "preise",
+    "speisekarte"
+  ]
+}

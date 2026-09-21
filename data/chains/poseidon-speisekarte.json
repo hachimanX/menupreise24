@@ -1,0 +1,52 @@
+{
+  "slug": "poseidon-speisekarte",
+  "name": "Restaurant Poseidon",
+  "category": "deutsch-regional",
+  "seoTitle": "Poseidon Speisekarte Preise 2026 – Griechische Küche & Grillteller",
+  "metaDescription": "Aktuelle Poseidon Speisekarte 2026: Gyros Spezialitäten, Suflaki, Lammkoteletts, Calamari & Meze im Tabellen-Überblick.",
+  "hero_sub": "Griechische Meeresfrüchte und Spezialitäten vom Holzkohlegrill.",
+  "quickAnswer": "Im Restaurant Poseidon kostet ein Gyros-Teller ca. 15,20 €, Lammkoteletts vom Grill ca. 21,90 € und gebratene Calamari mit Tsatsiki ca. 16,50 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Ab 11:30 Uhr",
+    "note": "Mittagstisch mit Ouzo zur Begrüßung."
+  },
+  "savingTips": [
+    "Günstiger Mittagstisch von Dienstag bis Freitag."
+  ],
+  "history": "Poseidon ist einer der traditionsreichsten Namen für griechische Gastronomie in ganz Deutschland.",
+  "menuCategories": [
+    {
+      "categoryName": "Grill & Gyros",
+      "items": [
+        {
+          "name": "Poseidon Grillteller (Gyros, Souvlaki, Lammkrone, Tsatsiki)",
+          "price": "19,90 €",
+          "calories": "4.950 kJ / 1.183 kcal",
+          "diet": "Fleisch"
+        },
+        {
+          "name": "Gyros in Metaxasauce mit Käse überbacken",
+          "price": "16,50 €",
+          "calories": "4.120 kJ / 984 kcal",
+          "diet": "Schwein"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Grillteller bei Poseidon?",
+      "a": "Ein gemischter Grillteller kostet ca. 19,90 € inklusive Beilagen und Salat."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "poseidon",
+    "griechisch",
+    "speisekarte",
+    "preise"
+  ]
+}

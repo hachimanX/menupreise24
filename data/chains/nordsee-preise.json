@@ -1,0 +1,110 @@
+{
+  "slug": "nordsee-preise",
+  "name": "Nordsee",
+  "category": "fast-food",
+  "seoTitle": "Nordsee Speisekarte Preise 2026 – Fischbrötchen & Tellergerichte",
+  "metaDescription": "Aktuelle Nordsee Speisekarte 2026 in Deutschland: Preise für Backfisch-Baguette, Bremer, Matjes, Lachsfilet, Fish & Chips im Tabellen-Überblick.",
+  "heroSubtitle": "Alle Preise für Fischbrötchen, Meeresfrüchte, Tellergerichte und Boxen bei Nordsee Deutschland.",
+  "quickAnswer": "Bei Nordsee kostet das legendäre Backfisch-Baguette 2026 ca. 5,29 €, der beliebte Bremer (Frikadelle im Brötchen) ca. 3,79 € und Fish & Chips mit Sauce rund 8,99 €. Tellergerichte im Restaurant wie gebratenes Lachsfilet liegen zwischen 12,90 € und 16,50 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 08:00 Uhr Snack-Verkauf",
+    "hoursWeekend": "Ab 09:00 Uhr",
+    "note": "Frische Fischbrötchen und belegte Snacks sind direkt ab Ladenöffnung an der Theke verfügbar."
+  },
+  "savingTips": [
+    "Lade die Nordsee App herunter: Dort gibt es regelmäßig 2-für-1 Gutscheine für Fischbrötchen oder Snack-Boxen.",
+    "Der 'Snack des Monats' bietet wechselnde Brötchen-Klassiker mit bis zu 30 % Preisnachlass an der Theke."
+  ],
+  "history": "Nordsee wurde 1896 von Bremerhavener Fischern gegründet. Das Traditionsunternehmen wuchs zur bekanntesten Fisch-Fast-Food-Kette im deutschsprachigen Raum heran und betreibt heute über 250 Standorte in Deutschland und Österreich.",
+  "menuCategories": [
+    {
+      "categoryName": "Fischbrötchen & Snacks To-Go",
+      "items": [
+        {
+          "name": "Backfisch-Baguette (mit Remoulade)",
+          "price": "5,29 €",
+          "calories": "2.210 kJ / 528 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Bremer (Fischfrikadelle im Brötchen)",
+          "price": "3,79 €",
+          "calories": "1.740 kJ / 416 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Bismarckhering-Baguette",
+          "price": "4,49 €",
+          "calories": "1.580 kJ / 377 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Nordischer Matjes im Brötchen",
+          "price": "4,69 €",
+          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Räucherlachs-Bagel mit Frischkäse",
+          "price": "5,99 €",
+          "calories": "1.820 kJ / 435 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Garnelen-Box (paniert mit Dip)",
+          "price": "6,49 €",
+          "calories": "1.490 kJ / 356 kcal",
+          "diet": "Meeresfrüchte"
+        }
+      ]
+    },
+    {
+      "categoryName": "Warme Tellergerichte & Menüs",
+      "items": [
+        {
+          "name": "Fish & Chips mit Sauce Tartare",
+          "price": "8,99 €",
+          "calories": "3.120 kJ / 745 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Gebratenes Lachsfilet mit Petersilienkartoffeln",
+          "price": "15,49 €",
+          "calories": "2.680 kJ / 640 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Schollenfilet Müllerin Art mit Kartoffelsalat",
+          "price": "13,99 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Seelachsfilet gebacken mit Remouladensauce",
+          "price": "11,49 €",
+          "calories": "2.950 kJ / 705 kcal",
+          "diet": "Fisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Backfisch-Baguette bei Nordsee 2026?",
+      "a": "Das klassische Backfisch-Baguette mit Remouladensauce kostet aktuell ca. 5,29 € an der Nordsee-Theke."
+    },
+    {
+      "q": "Gibt es bei Nordsee vegetarische oder vegane Optionen?",
+      "a": "Ja, Nordsee hat 'Plant-based' Fischalternativen eingeführt, darunter das pflanzliche Visch-Baguette sowie Meeresalgen-Salate."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "fast-food",
+    "nordsee",
+    "preise",
+    "speisekarte"
+  ]
+}

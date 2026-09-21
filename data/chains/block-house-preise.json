@@ -1,0 +1,93 @@
+{
+  "slug": "block-house-preise",
+  "name": "Block House",
+  "category": "steakhouse-bbq",
+  "seoTitle": "Block House Speisekarte Preise 2026 – Steaks & Menü Preisliste",
+  "metaDescription": "Aktuelle Block House Speisekarte 2026 mit Preisen: Rumpsteak, Rib-Eye, Filetsteak, Knoblauchbrot, Baked Potato & Mittagstisch im Tabellen-Überblick.",
+  "heroSubtitle": "Deutschlands bekannteste Steakhouse-Kette: Alle Fleischsorten, Beilagen und Mittagsangebote mit Preisen.",
+  "quickAnswer": "Bei Block House kostet ein 180g Rumpsteak ca. 24,90 €, ein 250g Rib-Eye Mastercut ca. 29,80 € und das zarte Filet Mignon (180g) ca. 32,50 €. Zu allen Steaks serviert Block House traditionell das berühmte Block House Knoblauchbrot.",
+  "priceLevel": "€€€ (Gehoben)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Mo – Fr ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Sa – So ab 12:00 Uhr geöffnet",
+    "note": "Mittagskarte werktags bis 15:00 Uhr."
+  },
+  "savingTips": [
+    "Der 'Block House Mittagstisch' (Mo–Fr 11:30 bis 15:00 Uhr) bietet vollwertige Steak- und Pfannengerichte mit bis zu 25 % Preisvorteil gegenüber der Abendkarte."
+  ],
+  "history": "Gegründet 1968 von Eugen Block in Hamburg, revolutionierte Block House das Konzept des hochwertigen und bezahlbaren Steaks in Deutschland. Heute betreibt die Gruppe über 40 Steakhäuser in Deutschland und Europa.",
+  "menuCategories": [
+    {
+      "categoryName": "Steaks vom Lavasteingrill (Inkl. Block House Brot)",
+      "items": [
+        {
+          "name": "Hereford Rumpsteak (180g)",
+          "price": "24,90 €",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Hereford Rumpsteak (250g)",
+          "price": "29,50 €",
+          "calories": "2.450 kJ / 585 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Rib-Eye Steak / Entrecôte (250g)",
+          "price": "29,80 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Filet Mignon (180g)",
+          "price": "32,50 €",
+          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "American Tenderloin Filet (250g)",
+          "price": "39,90 €",
+          "calories": "2.150 kJ / 514 kcal",
+          "diet": "Rind"
+        }
+      ]
+    },
+    {
+      "categoryName": "Beilagen & Vorspeisen",
+      "items": [
+        {
+          "name": "Original Block House Knoblauchbrot (2 Stück)",
+          "price": "3,40 €",
+          "calories": "980 kJ / 234 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Baked Potato mit Sauerrahm (Sour Cream)",
+          "price": "4,90 €",
+          "calories": "1.320 kJ / 315 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Knackiger Block House Salat mit Dressing",
+          "price": "6,50 €",
+          "calories": "480 kJ / 115 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Steak bei Block House?",
+      "a": "Ein 180g Rumpsteak startet bei 24,90 €. Größere Zuschnitte wie das 250g Rib-Eye liegen bei 29,80 €."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "steakhouse-bbq",
+    "block house",
+    "preise",
+    "speisekarte"
+  ]
+}

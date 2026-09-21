@@ -1,0 +1,57 @@
+{
+  "slug": "borchardt-berlin-preise",
+  "name": "Restaurant Borchardt Berlin",
+  "category": "deutsch-regional",
+  "seoTitle": "Borchardt Berlin Speisekarte Preise 2026 – Schnitzel & Klassiker",
+  "metaDescription": "Aktuelle Borchardt Berlin Preise 2026: Das legendäre Wiener Schnitzel, Austern, Tartar, Weine & Promi-Klassiker am Gendarmenmarkt.",
+  "heroSubtitle": "Berlins berühmtestes Prominenten-Restaurant am Gendarmenmarkt: Alle aktuellen Preise.",
+  "quickAnswer": "Im Restaurant Borchardt in Berlin kostet das legendäre 'Original Wiener Schnitzel' vom Kalb mit lauwarmem Kartoffel-Gurken-Salat ca. 34,00 €. Vorspeisen wie Rindertartar liegen bei ca. 19,50 € und Austern bei ca. 4,50 € bis 6,00 € pro Stück.",
+  "priceLevel": "€€€€ (Premium / Fine Dining)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Mo – Fr ab 12:00 Uhr geöffnet",
+    "hoursWeekend": "Sa – So ab 12:00 Uhr",
+    "note": "Mittagstisch und gehobenes Dinner."
+  },
+  "savingTips": [
+    "Der Business-Lunch zur Mittagszeit bietet ein 2-Gänge-Menü zum günstigeren Festpreis."
+  ],
+  "history": "1853 als Delikatessenhandlung von August F. W. Borchardt gegründet, ist das Borchardt an der Französischen Straße heute Berlins legendärster Treffpunkt für Politik, Hollywood-Stars und Wirtschaft.",
+  "menuCategories": [
+    {
+      "categoryName": "Borchardt Legenden",
+      "items": [
+        {
+          "name": "Original Wiener Schnitzel vom Kalb mit Kartoffel-Gurkensalat",
+          "price": "34,00 €",
+          "calories": "3.850 kJ / 920 kcal",
+          "diet": "Kalb"
+        },
+        {
+          "name": "Borchardt Rindertartar klassisch mariniert",
+          "price": "19,50 €",
+          "calories": "1.890 kJ / 451 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Austern Fines de Claire (6 Stück)",
+          "price": "27,00 €",
+          "calories": "420 kJ / 100 kcal",
+          "diet": "Meeresfrüchte"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet das Schnitzel im Borchardt Berlin?",
+      "a": "Das weltberühmte Wiener Schnitzel vom Kalb kostet 2026 im Borchardt 34,00 €."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "restaurant borchardt berlin",
+    "preise",
+    "speisekarte"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "hans-im-glueck-preise",
+  "name": "Hans im Glück",
+  "category": "burger",
+  "seoTitle": "Hans im Glück Speisekarte Preise 2026 – Burger & Mittagsmenü",
+  "metaDescription": "Aktuelle Hans im Glück Preise 2026: Burger-Klassiker, Sauerteig- und Mehrkornbrötchen, vegane Burger, Fritten & Mittagsmenü im Tabellen-Überblick.",
+  "heroSubtitle": "Die bekannte Burger- und Cocktail-Kette mit Birkenwald-Flair: Alle Preise und Menü-Upgrades.",
+  "quickAnswer": "Bei Hans im Glück kosten Burger zwischen 9,90 € und 13,90 €. Das Mittagsmenü (bis 17:00 Uhr) beinhaltet für einen Aufpreis von ca. 6,90 € eine Beilage nach Wahl, einen Durstlöscher und ein Heißgetränk.",
+  "priceLevel": "€€€ (Gehoben Casual)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:30 Uhr geöffnet",
+    "note": "Mittagsmenü werktags bis 17:00 Uhr."
+  },
+  "savingTips": [
+    "Das 'Mittagsmenü' bis 17:00 Uhr und das 'Abendmenü' ab 17:00 Uhr (mit Cocktail) bieten spürbare Rabatte im Vergleich zu Einzelbestellungen."
+  ],
+  "history": "2010 von Thomas Hirschberger in München gegründet, expandierte Hans im Glück mit seinem ikonischen Birkenstamm-Interieur rasant auf über 90 Burgerbars in Deutschland, Österreich und der Schweiz.",
+  "menuCategories": [
+    {
+      "categoryName": "Rindfleisch Burger (Saftiges Rindfleisch)",
+      "items": [
+        {
+          "name": "Klassik (Salat, rote Zwiebeln, Tomaten, Glücks-Sauce)",
+          "price": "9,90 €",
+          "calories": "2.450 kJ / 585 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Heumilch (mit herzhaftem Heumilchkäse)",
+          "price": "10,90 €",
+          "calories": "2.790 kJ / 667 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Wilder Westen (Heumilchkäse, Grillbacon, BBQ-Sauce)",
+          "price": "11,90 €",
+          "calories": "3.120 kJ / 745 kcal",
+          "diet": "Rind & Bacon"
+        },
+        {
+          "name": "Geißbock (Ziegenkäse, Feigensauce, Bacon)",
+          "price": "12,50 €",
+          "calories": "3.250 kJ / 776 kcal",
+          "diet": "Rind & Bacon"
+        }
+      ]
+    },
+    {
+      "categoryName": "Vegane Burger (100% Pflanzlich)",
+      "items": [
+        {
+          "name": "Jugendstil (Pflanzliches Patty, vegane Scheibe, Tomaten)",
+          "price": "10,90 €",
+          "calories": "2.280 kJ / 545 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Fabelhafter (Weizenpatty, Avocado-Creme, Salat)",
+          "price": "11,50 €",
+          "calories": "2.420 kJ / 578 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet das Mittagsmenü bei Hans im Glück?",
+      "a": "Das Mittagsmenü bis 17:00 Uhr kostet den gewählten Burgerpreis zzgl. ca. 6,90 € und beinhaltet Pommes oder Salat, ein Kaltgetränk sowie einen Kaffee."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "burger",
+    "hans im glück",
+    "preise",
+    "speisekarte"
+  ]
+}

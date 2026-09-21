@@ -1,0 +1,63 @@
+{
+  "slug": "burger-king-spielzeug",
+  "name": "Burger King King Jr. Meal",
+  "category": "fast-food",
+  "seoTitle": "Burger King Spielzeug 2026 – King Jr. Meal Preise & Inhalt",
+  "metaDescription": "Aktuelles Burger King Spielzeug 2026 im King Jr. Meal: Preise, Menü-Zusammenstellung, aktuelle Aktionen und Figuren im Überblick.",
+  "heroSubtitle": "Alles zum King Jr. Meal: Aktuelle Spielzeug-Kollektionen und Menü-Bestandteile für Kids.",
+  "quickAnswer": "Das Burger King King Jr. Meal kostet 2026 ca. 4,99 € bis 5,29 €. Es enthält einen Kids Burger (oder 4er King Nuggets / Plant-based Nuggets), eine kleine Portion Pommes, einen Frucht-Drink oder Softdrink sowie das aktuelle Spielzeug der Monatsaktion.",
+  "priceLevel": "€ (Günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:00 Uhr",
+    "hoursWeekend": "Ab 11:00 Uhr",
+    "note": "Ganztägig bestellbar."
+  },
+  "savingTips": [
+    "In der BK App gibt es gelegentlich 'Family Bundles', bei denen das King Jr. Meal rabattiert ist."
+  ],
+  "history": "Das King Jr. Meal ist Burger Kings Gegenstück zum Happy Meal und begeistert Kinder mit wechselnden Lizenzen aus Zeichentrick, Gaming und Film.",
+  "menuCategories": [
+    {
+      "categoryName": "King Jr. Meal Optionen",
+      "items": [
+        {
+          "name": "King Jr. Meal mit Hamburger",
+          "price": "4,99 €",
+          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Kindermenü"
+        },
+        {
+          "name": "King Jr. Meal mit Cheeseburger",
+          "price": "5,19 €",
+          "calories": "1.820 kJ / 435 kcal",
+          "diet": "Kindermenü"
+        },
+        {
+          "name": "King Jr. Meal mit 4er Nuggets",
+          "price": "4,99 €",
+          "calories": "1.580 kJ / 378 kcal",
+          "diet": "Kindermenü"
+        },
+        {
+          "name": "King Jr. Meal mit Plant-based Nuggets",
+          "price": "4,99 €",
+          "calories": "1.490 kJ / 356 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein King Jr. Meal bei Burger King?",
+      "a": "Das Kindermenü kostet durchschnittlich zwischen 4,99 € und 5,29 €."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "burger king king jr. meal",
+    "preise",
+    "speisekarte"
+  ]
+}

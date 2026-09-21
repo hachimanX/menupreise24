@@ -1,0 +1,57 @@
+{
+  "slug": "buddha-lounge-flensburg-speisekarte",
+  "name": "Buddha Lounge Flensburg",
+  "category": "deutsch-regional",
+  "seoTitle": "Buddha Lounge Flensburg Speisekarte Preise 2026 – Sushi & Wok",
+  "metaDescription": "Aktuelle Buddha Lounge Flensburg Preise 2026: Sushi Platten, knusprige Ente, Wok-Curries & asiatische Spezialitäten im Tabellen-Überblick.",
+  "heroSubtitle": "Das beliebte asiatische Restaurant in Flensburg: Alle Preise für Sushi und Wokgerichte.",
+  "quickAnswer": "In der Buddha Lounge Flensburg kosten Hauptgerichte aus dem Wok (z. B. knusprige Ente oder Hähnchen mit Thai-Curry) ca. 13,50 € bis 17,90 €. Sushi-Rollen und Maki-Sets starten bei ca. 8,50 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 12:00 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 12:00 Uhr",
+    "note": "Mittagsangebote Mo–Fr von 12:00 bis 15:00 Uhr."
+  },
+  "savingTips": [
+    "Der Mittagstisch unter der Woche spart bis zu 25 % auf Wokgerichte."
+  ],
+  "history": "Die Buddha Lounge Flensburg hat sich zu einer beliebten Adresse für asiatische Fusionsküche und frisches Sushi an der Förde etabliert.",
+  "menuCategories": [
+    {
+      "categoryName": "Wok-Spezialitäten & Sushi",
+      "items": [
+        {
+          "name": "Knusprige Ente mit rotem Thai-Curry & Gemüse",
+          "price": "16,90 €",
+          "calories": "3.250 kJ / 776 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Gebratene Nudeln mit Hähnchenbrust",
+          "price": "12,50 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Buddha Sushi Set (18 gemischte Teile)",
+          "price": "19,90 €",
+          "calories": "2.450 kJ / 585 kcal",
+          "diet": "Fisch/Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gibt es vegetarische Gerichte in der Buddha Lounge?",
+      "a": "Ja, fast alle Curries und Nudelgerichte können mit Tofu statt Fleisch bestellt werden."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "buddha lounge flensburg",
+    "preise",
+    "speisekarte"
+  ]
+}

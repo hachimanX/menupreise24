@@ -1,0 +1,92 @@
+{
+  "slug": "kalorientabelle",
+  "name": "Fast Food Kalorientabelle 2026",
+  "category": "fast-food",
+  "seoTitle": "Fast Food Kalorientabelle 2026 – Alle Kalorien (kJ & kcal) im Vergleich",
+  "metaDescription": "Fast Food Kalorientabelle 2026: Kalorien (kcal & kJ) von McDonald's, Burger King, Subway, Pizza Hut & Five Guys. Kalorienbomben und gesunde Alternativen.",
+  "hero_sub": "Wissen, was drinsteckt: Kalorien, Nährwerte und die leichtesten Optionen bekannter Fast-Food-Ketten.",
+  "quickAnswer": "Der Burger mit den meisten Kalorien im regulären Fast-Food-Angebot ist der Big Tasty Bacon (McDonald's) mit 912 kcal bzw. der Big King XXL (Burger King) mit 992 kcal. Zu den kalorienärmsten Optionen zählen der Standard-Hamburger (ca. 253 kcal), das Subway 15cm Veggie Delite (ca. 234 kcal) und der Snack Salad Classic (ca. 19 kcal ohne Dressing).",
+  "priceLevel": "Nährwert-Guide",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "-",
+    "hoursWeekend": "-",
+    "note": "Kalorien aller Speisen."
+  },
+  "savingTips": [
+    "Wer Kalorien sparen möchte, tauscht zuckerhaltige Softdrinks gegen Zero-Getränke oder Wasser – das spart auf einen Schlag 170 bis 210 kcal pro Becher."
+  ],
+  "history": "In Deutschland sind Fast-Food-Ketten verpflichtet, Nährwerttabellen bereitzuhalten. Seit einigen Jahren weisen Ketten wie McDonald's und Burger King die Brennwerte in kJ und kcal direkt an den Menütafeln aus.",
+  "menuCategories": [
+    {
+      "categoryName": "Top Kalorienbomben vs. Leichte Alternativen",
+      "items": [
+        {
+          "name": "Big King XXL (Burger King)",
+          "price": "8,79 €",
+          "calories": "4.150 kJ / 992 kcal",
+          "diet": "Sehr kalorienreich ⚠️"
+        },
+        {
+          "name": "Big Tasty Bacon (McDonald's)",
+          "price": "8,19 €",
+          "calories": "3.808 kJ / 912 kcal",
+          "diet": "Sehr kalorienreich ⚠️"
+        },
+        {
+          "name": "Bacon Cheeseburger (Five Guys)",
+          "price": "12,95 €",
+          "calories": "4.430 kJ / 1.060 kcal",
+          "diet": "Sehr kalorienreich ⚠️"
+        },
+        {
+          "name": "Whopper (Burger King)",
+          "price": "6,49 €",
+          "calories": "2.685 kJ / 642 kcal",
+          "diet": "Mittel"
+        },
+        {
+          "name": "Big Mac (McDonald's)",
+          "price": "5,99 €",
+          "calories": "2.115 kJ / 505 kcal",
+          "diet": "Mittel"
+        },
+        {
+          "name": "McChicken Classic (McDonald's)",
+          "price": "5,69 €",
+          "calories": "1.870 kJ / 446 kcal",
+          "diet": "Mittel"
+        },
+        {
+          "name": "Hamburger (McDonald's)",
+          "price": "1,99 €",
+          "calories": "1.060 kJ / 253 kcal",
+          "diet": "Kalorienarm ✅"
+        },
+        {
+          "name": "Subway 15cm Veggie Delite",
+          "price": "5,49 €",
+          "calories": "980 kJ / 234 kcal",
+          "diet": "Kalorienarm ✅"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Welcher Burger hat die meisten Kalorien?",
+      "a": "In Deutschland gehören der Big King XXL von Burger King (992 kcal) und der Five Guys Bacon Cheeseburger (1.060 kcal) zu den Spitzenreitern."
+    },
+    {
+      "q": "Wie viele Kalorien hat ein Big Mac?",
+      "a": "Ein McDonald's Big Mac hat in Deutschland exakt 2.115 kJ bzw. 505 kcal."
+    }
+  ],
+  "tags": [
+    "kalorien",
+    "naehrwerte",
+    "fast food",
+    "diaet",
+    "gesund"
+  ]
+}

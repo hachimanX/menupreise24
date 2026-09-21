@@ -1,0 +1,73 @@
+{
+  "slug": "hello-fresh-preise",
+  "name": "HelloFresh",
+  "category": "fast-food",
+  "seoTitle": "HelloFresh Preise Deutschland 2026 – Kosten pro Mahlzeit & Box",
+  "metaDescription": "Was kostet HelloFresh 2026 in Deutschland? Preise pro Portion, Boxen für 2 bis 4 Personen, Versandkosten & aktuelle Rabatte im Überblick.",
+  "heroSubtitle": "Der Kochboxen-Marktführer in Deutschland: Alle Kosten pro Portion und Boxengröße berechnet.",
+  "quickAnswer": "Bei HelloFresh Deutschland liegt der Preis pro Portion 2026 zwischen 4,50 € und 7,99 €, abhängig von der Personenzahl (2, 3 oder 4 Personen) und der Anzahl der Gerichte pro Woche (3 bis 5 Mahlzeiten). Hinzu kommen Versandkosten von ca. 5,99 € pro Lieferung.",
+  "priceLevel": "€€ (Mittel / Abonnement)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Wöchentliche Kochbox-Lieferung",
+    "hoursWeekend": "Wöchentliche Lieferung",
+    "note": "Wählbare Liefertage von Dienstag bis Samstag."
+  },
+  "savingTips": [
+    "Neukunden erhalten mit Gutscheincodes oft bis zu 90 € Rabatt verteilt auf die ersten 4 bis 5 Boxen."
+  ],
+  "history": "2011 in Berlin gegründet, stieg HelloFresh zum weltweiten Marktführer für Kochboxen auf und liefert Millionen vorportionierte Mahlzeiten pro Monat aus.",
+  "menuCategories": [
+    {
+      "categoryName": "Kochboxen Preisübersicht (nach Portionsanzahl)",
+      "items": [
+        {
+          "name": "Box für 2 Personen (3 Gerichte = 6 Portionen)",
+          "price": "44,99 € (ca. 7,50 € / Port.)",
+          "calories": "variiert",
+          "diet": "Kochbox"
+        },
+        {
+          "name": "Box für 2 Personen (5 Gerichte = 10 Portionen)",
+          "price": "59,99 € (ca. 6,00 € / Port.)",
+          "calories": "variiert",
+          "diet": "Kochbox"
+        },
+        {
+          "name": "Box für 4 Personen (3 Gerichte = 12 Portionen)",
+          "price": "67,99 € (ca. 5,66 € / Port.)",
+          "calories": "variiert",
+          "diet": "Familienbox"
+        },
+        {
+          "name": "Box für 4 Personen (4 Gerichte = 16 Portionen)",
+          "price": "79,99 € (ca. 5,00 € / Port.)",
+          "calories": "variiert",
+          "diet": "Familienbox"
+        },
+        {
+          "name": "Versandkosten pro Kochbox-Lieferung",
+          "price": "5,99 €",
+          "calories": "-",
+          "diet": "Versand"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie viel kostet eine Portion bei HelloFresh?",
+      "a": "Eine Portion kostet zwischen 4,50 € (bei großen 4-Personen-Boxen mit 5 Gerichten) und 7,99 € (bei kleineren 2-Personen-Boxen)."
+    },
+    {
+      "q": "Kann man HelloFresh jederzeit kündigen?",
+      "a": "Ja, das Abonnement ist flexibel und kann wöchentlich pausiert oder vor dem wöchentlichen Bestellschluss gekündigt werden."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "hellofresh",
+    "preise",
+    "speisekarte"
+  ]
+}

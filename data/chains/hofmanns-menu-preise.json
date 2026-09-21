@@ -1,0 +1,63 @@
+{
+  "slug": "hofmanns-menu-preise",
+  "name": "Hofmanns Menü",
+  "category": "deutsch-regional",
+  "seoTitle": "Hofmanns Menü Manufaktur Preise 2026 – Speisekarte & Katalog",
+  "metaDescription": "Aktuelle Hofmanns Menü Preise 2026: Katalog Preisliste für Tiefkühlmenüs, Mittagstisch, Seniorenmenüs & Betriebsgastronomie im Überblick.",
+  "heroSubtitle": "Traditionelle Menü-Manufaktur für Gemeinschaftsverpflegung und Senioren: Alle Menüpreise im Katalog.",
+  "quickAnswer": "Ein Einzelmenü aus dem Hofmanns Katalog kostet 2026 je nach Kategorie zwischen 6,50 € und 9,80 €. Die Menüs zeichnen sich durch handwerkliche Zubereitung und Verzicht auf geschmacksverstärkende Zusatzstoffe aus.",
+  "priceLevel": "€€ (Günstig bis Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Lieferdienst & Vorbestellung",
+    "hoursWeekend": "Lieferdienst",
+    "note": "Tiefkühl- und Heißanlieferung."
+  },
+  "savingTips": [
+    "Wochen- und Monatsabonnements bieten gestaffelte Mengenrabatte."
+  ],
+  "history": "Seit 1960 steht die Hofmann Menü-Manufaktur aus Boxberg-Schweigern für hochwertige Fertigmenüs für Firmen, Heime und Privathaushalte.",
+  "menuCategories": [
+    {
+      "categoryName": "Menü-Klassiker aus dem Katalog",
+      "items": [
+        {
+          "name": "Rinderroulade 'Hausfrauen Art' mit Rotkohl & Klößen",
+          "price": "9,20 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Königsberger Klopse mit Kapernsauce & Reis",
+          "price": "7,90 €",
+          "calories": "2.450 kJ / 585 kcal",
+          "diet": "Kombination"
+        },
+        {
+          "name": "Hähnchengeschnetzeltes mit Spätzle",
+          "price": "8,10 €",
+          "calories": "2.510 kJ / 600 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Vegetarische Gemüselasagne",
+          "price": "7,40 €",
+          "calories": "2.150 kJ / 514 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Hofmann Menü?",
+      "a": "Im Schnitt liegen die Menüs zwischen 7,00 € und 9,50 € pro Portion."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "hofmanns menü",
+    "preise",
+    "speisekarte"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "mc-donalds-happy-meal",
+  "name": "McDonald's Happy Meal",
+  "category": "fast-food",
+  "seoTitle": "McDonald's Happy Meal Preis 2026 – Spielzeug, Menü & Inhalt",
+  "metaDescription": "Aktuelles McDonald's Happy Meal 2026 in Deutschland: Preise, Auswahl an Hauptgerichten, Beilagen, Spielzeug & Kinderbuch im Überblick.",
+  "heroSubtitle": "Alles zum Happy Meal für Kinder: Aktuelle Preise, Spielzeug-Serien und gesunde Beilagen-Optionen.",
+  "quickAnswer": "Das McDonald's Happy Meal kostet 2026 in Deutschland zwischen 4,99 € und 5,49 €. Es umfasst ein Hauptgericht (Hamburger, Cheeseburger, 4er McNuggets oder 4er McPlant Nuggets), eine Beilage (kleine Pommes oder Bio-Apfeltüte), ein Getränk sowie ein Spielzeug oder Buch.",
+  "priceLevel": "€ (Günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 10:30 Uhr",
+    "hoursWeekend": "Täglich ab 11:30 Uhr",
+    "note": "Verfügbar während der regulären Verkaufszeiten."
+  },
+  "savingTips": [
+    "Statt des Plastikspielzeugs kann immer auch ein hochwertiges Kinderbuch gewählt werden."
+  ],
+  "history": "Eingeführt 1979 in den USA, ist das Happy Meal das weltweit erfolgreichste Kindermenü der Gastronomiegeschichte und vermittelt mit Kooperationen (Pokémon, Disney, Hot Wheels) generationsübergreifenden Spielspaß.",
+  "menuCategories": [
+    {
+      "categoryName": "Happy Meal Bausteine & Optionen",
+      "items": [
+        {
+          "name": "Happy Meal mit 4er Chicken McNuggets",
+          "price": "5,19 €",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Kindermenü"
+        },
+        {
+          "name": "Happy Meal mit Hamburger",
+          "price": "4,99 €",
+          "calories": "1.780 kJ / 425 kcal",
+          "diet": "Kindermenü"
+        },
+        {
+          "name": "Happy Meal mit Cheeseburger",
+          "price": "5,29 €",
+          "calories": "1.980 kJ / 473 kcal",
+          "diet": "Kindermenü"
+        },
+        {
+          "name": "Happy Meal mit 4er McPlant Nuggets",
+          "price": "5,19 €",
+          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Beilage: Bio-Frucht-Tüte (Apfel/Traube)",
+          "price": "Inklusive",
+          "calories": "180 kJ / 43 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie viel kostet ein Happy Meal bei McDonald's in Deutschland?",
+      "a": "Der Preis für ein Happy Meal liegt 2026 je nach Restaurant zwischen 4,99 € und 5,49 €."
+    },
+    {
+      "q": "Kann man das Happy Meal Spielzeug einzeln kaufen?",
+      "a": "In vielen Filialen kann das Spielzeug auf Nachfrage an der Kasse für ca. 2,50 € bis 3,00 € separat erworben werden."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "mcdonald's happy meal",
+    "preise",
+    "speisekarte"
+  ]
+}

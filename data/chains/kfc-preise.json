@@ -1,0 +1,98 @@
+{
+  "slug": "kfc-preise",
+  "name": "KFC",
+  "category": "fast-food",
+  "seoTitle": "KFC Speisekarte Preise 2026 – Buckets, Boxen & Gutscheine",
+  "metaDescription": "Aktuelle KFC Preise 2026 in Deutschland: Bucket Preise, Crispys, Hot Wings, Zinger Burger, Box-Menüs & Gutscheine im vollständigen Tabellen-Überblick.",
+  "heroSubtitle": "Alle Preise für KFC Buckets, Hähnchenteile, Burger und Sparmenüs in Deutschland.",
+  "quickAnswer": "Bei KFC Deutschland kostet ein 6er Hot Wings Menü ca. 8,99 €, ein Zinger Burger ca. 5,99 € und der beliebte Colonel All Star Bucket für 2 Personen rund 19,99 €. Für Familien und Gruppen bieten die Buckets (z. B. 20 Hot Wings oder Crispy Box) den günstigsten Stückpreis.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
+    "note": "KFC bietet in Deutschland kein separates Frühstück an."
+  },
+  "savingTips": [
+    "Der 'Dienstags-Bucket' (Tuesday Bucket) ist der bekannteste Spartipp bei KFC: Viele Filialen bieten dienstags einen Sonder-Bucket für rund 11–13 € an.",
+    "KFC Gutscheine (Gutscheinbogen) sind dauerhaft in der KFC App verfügbar und bieten bis zu 35 % Rabatt auf Menüs."
+  ],
+  "history": "Kentucky Fried Chicken wurde 1930 von Harland D. Sanders ('Colonel Sanders') in den USA gegründet. Das Erfolgsgeheimnis ist die geheime Rezeptur aus 11 Kräutern und Gewürzen. Das erste Restaurant in Deutschland eröffnete 1968 in Frankfurt am Main.",
+  "menuCategories": [
+    {
+      "categoryName": "KFC Buckets (Ideal zum Teilen)",
+      "items": [
+        {
+          "name": "Bucket für 2 (6 Crispys + 6 Hot Wings + 2 Pommes)",
+          "price": "18,99 €",
+          "calories": "4.890 kJ / 1.168 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Hot Wings Bucket (20 Hot Wings)",
+          "price": "19,49 €",
+          "calories": "4.320 kJ / 1.032 kcal",
+          "diet": "Scharf"
+        },
+        {
+          "name": "Crispy Strips Bucket (15 Crispys + 3 Dips)",
+          "price": "19,99 €",
+          "calories": "4.150 kJ / 992 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Family Bucket (8 Hähnchenteile + 8 Wings + 4 Pommes)",
+          "price": "27,99 €",
+          "calories": "7.890 kJ / 1.885 kcal",
+          "diet": "Geflügel"
+        }
+      ]
+    },
+    {
+      "categoryName": "Burger & Twister Wraps",
+      "items": [
+        {
+          "name": "Zinger Burger (Scharfes Hähnchenfilet)",
+          "price": "5,99 €",
+          "calories": "2.120 kJ / 506 kcal",
+          "diet": "Pikant"
+        },
+        {
+          "name": "Colonel Burger Original",
+          "price": "5,79 €",
+          "calories": "2.050 kJ / 490 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Twister Wrap Classic",
+          "price": "6,19 €",
+          "calories": "2.190 kJ / 523 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Veggie Tenders Burger (Plant-based)",
+          "price": "5,79 €",
+          "calories": "1.920 kJ / 458 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Bucket bei KFC in Deutschland?",
+      "a": "Die Preise für KFC Buckets starten bei rund 18,99 € für den 2-Personen-Bucket und reichen bis ca. 27,99 € für den großen Family Bucket."
+    },
+    {
+      "q": "Gibt es den KFC Dienstags-Bucket noch?",
+      "a": "Ja, der Tuesday Bucket wird von den meisten teilnehmenden deutschen KFC-Restaurants als wöchentlicher Aktionstag geführt."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "fast-food",
+    "kfc",
+    "preise",
+    "speisekarte"
+  ]
+}

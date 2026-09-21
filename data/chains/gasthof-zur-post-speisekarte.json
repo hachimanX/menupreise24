@@ -1,0 +1,57 @@
+{
+  "slug": "gasthof-zur-post-speisekarte",
+  "name": "Gasthof zur Post",
+  "category": "deutsch-regional",
+  "seoTitle": "Gasthof zur Post Speisekarte Preise 2026 – Bayerische Schmankerl",
+  "metaDescription": "Aktuelle Gasthof zur Post Preise 2026: Bayerischer Schweinsbraten, Knödel, Helles vom Fass, Schnitzel & bayerische Wirtshaus-Klassiker.",
+  "heroSubtitle": "Urbayerische Wirtshaustradition: Alle Preise für Schweinsbraten, Knödel und Bierspezialitäten.",
+  "quickAnswer": "Im Gasthof zur Post kostet eine krosse Schweinsbraten-Portion mit Dunkelbiersauce und Kartoffelknödel ca. 15,90 €. Ein Schnitzel 'Wiener Art' liegt bei ca. 14,50 € und eine Maß bayerisches Helles Bier bei ca. 8,80 € bis 9,80 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 07:00 Uhr",
+    "hoursWeekend": "Ab 07:30 Uhr Weißwurstfrühstück",
+    "note": "Klassisches Weißwurstfrühstück mit Brezen und süßem Senf."
+  },
+  "savingTips": [
+    "Das Weißwurstfrühstück vor 12 Uhr mittags ist ein bayerischer Preis-Hit."
+  ],
+  "history": "Gasthöfe mit dem Namen 'Zur Post' markierten historisch die Postkutschenstationen Bayerns und bewahren bis heute authentische Gemütlichkeit.",
+  "menuCategories": [
+    {
+      "categoryName": "Bayerische Wirtshausküche",
+      "items": [
+        {
+          "name": "Knuspriger Schweinskrustenbraten mit Dunkelbiersauce & Knödel",
+          "price": "15,90 €",
+          "calories": "3.890 kJ / 929 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Zwei Münchner Weißwürste mit Breze & Händlmaier Senf",
+          "price": "6,90 €",
+          "calories": "1.890 kJ / 451 kcal",
+          "diet": "Kalb/Schwein"
+        },
+        {
+          "name": "Gebackener Leberkäse mit Spiegelei & Bratkartoffeln",
+          "price": "11,50 €",
+          "calories": "3.120 kJ / 745 kcal",
+          "diet": "Schwein"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet der Schweinsbraten im Gasthof zur Post?",
+      "a": "Der Krustenschweinsbraten mit Knödel und Biersauce kostet ca. 15,90 €."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "gasthof zur post",
+    "preise",
+    "speisekarte"
+  ]
+}

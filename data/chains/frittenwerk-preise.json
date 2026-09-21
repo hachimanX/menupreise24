@@ -1,0 +1,70 @@
+{
+  "slug": "frittenwerk-preise",
+  "name": "Frittenwerk",
+  "category": "doener-streetfood",
+  "seoTitle": "Frittenwerk Speisekarte Preise 2026 – Poutines, Pommes & Kalorien",
+  "metaDescription": "Aktuelle Frittenwerk Speisekarte 2026 in Deutschland: Preise für Poutine Klassiker, Pommes Spezialitäten, Dips & Churros im Tabellen-Überblick.",
+  "heroSubtitle": "Die Kult-Pommesmanufaktur aus Düsseldorf: Alle Poutines, loaded Fries und Saucen im Preisüberblick.",
+  "quickAnswer": "Bei Frittenwerk kostet die klassische 'Quebec Poutine' (Pommes, vegetarische Bratensauce & Mozzarella Cheese Curds) ca. 7,90 €. Aufwändigere Loaded-Fries wie 'Tijuana Street Fries' (mit Guacamole & Sour Cream) oder 'Chili Cheese Fries' kosten zwischen 8,90 € und 10,90 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:30 Uhr geöffnet",
+    "note": "Kein Frühstück."
+  },
+  "savingTips": [
+    "Frittenwerk bietet Portionsgrößen, die als vollwertige Hauptmahlzeit sättigen. Ein Poutine-Gericht reicht meist völlig aus."
+  ],
+  "history": "Frittenwerk startete 2014 im Düsseldorfer Medienhafen mit der Vision, kanadisches Streetfood (Poutine) mit nachhaltigen Pommes nach Deutschland zu bringen. Heute gibt es über 40 Standorte bundesweit.",
+  "menuCategories": [
+    {
+      "categoryName": "Poutines & Loaded Fries",
+      "items": [
+        {
+          "name": "Quebec Poutine (Bratensauce & Cheese Curds)",
+          "price": "7,90 €",
+          "calories": "2.850 kJ / 680 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Tijuana Street Fries (Guacamole, Tomaten, Sour Cream)",
+          "price": "8,90 €",
+          "calories": "2.980 kJ / 712 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pulled Pork Poutine (mit BBQ-Sauce & Krautsalat)",
+          "price": "10,90 €",
+          "calories": "3.850 kJ / 920 kcal",
+          "diet": "Schweinefleisch"
+        },
+        {
+          "name": "Pink Persian Poutine (mit Falafel & Rote-Bete-Hummus)",
+          "price": "9,90 €",
+          "calories": "2.710 kJ / 648 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Chili Cheese Fries",
+          "price": "8,90 €",
+          "calories": "3.150 kJ / 753 kcal",
+          "diet": "Pikant"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was ist eine Poutine bei Frittenwerk?",
+      "a": "Poutine ist eine kanadische Spezialität aus knusprigen Pommes Frites, Käsebruch (Cheese Curds) und heißer vegetarischer Bratensauce, die den Käse leicht anschmelzen lässt."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "doener-streetfood",
+    "frittenwerk",
+    "preise",
+    "speisekarte"
+  ]
+}

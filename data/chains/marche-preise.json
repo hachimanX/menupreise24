@@ -1,0 +1,57 @@
+{
+  "slug": "marche-preise",
+  "name": "Marché Mövenpick",
+  "category": "bahn-reise",
+  "seoTitle": "Marché Speisekarte Preise 2026 – Raststätten & Flughafen Buffet",
+  "metaDescription": "Aktuelle Marché Mövenpick Preise 2026: Schweizer Rösti, Frische-Buffet, Salatteller & Kaffeespezialitäten an Autobahn und Flughafen.",
+  "heroSubtitle": "Frischeküche an Raststätten und Flughäfen: Alle Preise der Schweizer Marktküche.",
+  "quickAnswer": "Bei Marché Mövenpick kostet ein großer Salatteller vom Frischebuffet ca. 11,90 €, originale Schweizer Rösti mit Spiegelei ca. 12,50 € und frisch gepresste Säfte (0,3 l) ca. 4,80 €.",
+  "priceLevel": "€€€ (Reise-Gastronomie)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 06:00 Uhr Frühstücksbuffet",
+    "hoursWeekend": "Ab 06:00 Uhr",
+    "note": "Reichhaltiges Marktplatz-Frühstück."
+  },
+  "savingTips": [
+    "Sanifair-Wertbons von der Autobahntoilette können bei Marché voll angerechnet werden."
+  ],
+  "history": "Marché Mövenpick steht seit den 1980ern für das Konzept des offenen Marktplatzes mit Front-Cooking an Raststätten und Verkehrsknotenpunkten.",
+  "menuCategories": [
+    {
+      "categoryName": "Marktplatz Klassiker",
+      "items": [
+        {
+          "name": "Original Schweizer Rösti mit Käse überbacken",
+          "price": "12,90 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Großer Salatteller zur freien Auswahl",
+          "price": "11,90 €",
+          "calories": "variiert",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Frisch gepresster Orangensaft (0,3 l)",
+          "price": "4,80 €",
+          "calories": "520 kJ / 124 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kann man Sanifair-Bons bei Marché einlösen?",
+      "a": "Ja, die Sanifair 50-Cent-Wertbons von Autobahnraststätten werden bei Marché als Zahlungsmittel akzeptiert."
+    }
+  ],
+  "tags": [
+    "bahn-reise",
+    "marché mövenpick",
+    "preise",
+    "speisekarte"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "backwerk-preise",
+  "name": "BackWerk",
+  "category": "kaffee-baeckerei",
+  "seoTitle": "BackWerk Speisekarte Preise 2026 – Snacks, Belegte Brötchen & Kaffee",
+  "metaDescription": "Aktuelle BackWerk Preise 2026 in Deutschland: Belegte Brötchen, Hot Dogs, Börek, Brezeln & günstige Kaffeespezialitäten im Tabellen-Überblick.",
+  "heroSubtitle": "Deutschlands führender Backgastronom mit SB-Konzept: Alle Preise für Snacks und Heißgetränke.",
+  "quickAnswer": "Bei BackWerk kosten belegte Brötchen zwischen 2,40 € und 3,80 €, warme Hot Dogs ca. 2,90 € und frischer Kaffee Crema startet bereits ab 1,80 €. BackWerk gilt als einer der preiswertesten Snack-Anbieter an deutschen Bahnhöfen.",
+  "priceLevel": "€ (Sehr günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Mo – Fr ab 06:00 Uhr",
+    "hoursWeekend": "Sa – So ab 07:00 Uhr",
+    "note": "Frisches Gebäck und warmer Kaffee ab den frühen Morgenstunden."
+  },
+  "savingTips": [
+    "Kombi-Angebote nutzen: Belegtes Brötchen + Heißgetränk ist oft rabattiert."
+  ],
+  "history": "2001 gegründet, revolutionierte BackWerk den deutschen Bäckereimarkt als erste Selbstbedienungs-Bäckerei. Heute betreibt das zur Valora-Gruppe gehörende Franchise über 300 Filialen.",
+  "menuCategories": [
+    {
+      "categoryName": "Belegte Brötchen & Herzhafte Snacks",
+      "items": [
+        {
+          "name": "Rustiko Schinken-Käse",
+          "price": "3,40 €",
+          "calories": "1.780 kJ / 425 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Fitnessbrötchen Pute",
+          "price": "3,60 €",
+          "calories": "1.520 kJ / 363 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Hot Dog Classic",
+          "price": "2,90 €",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Börekstange Spinat-Hirtenkäse",
+          "price": "2,40 €",
+          "calories": "1.420 kJ / 339 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Butterbrezel",
+          "price": "1,90 €",
+          "calories": "1.210 kJ / 289 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Kaffeespezialitäten (Fairtrade)",
+      "items": [
+        {
+          "name": "Kaffee Crema Normal",
+          "price": "1,80 €",
+          "calories": "15 kJ / 4 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Cappuccino Normal",
+          "price": "2,30 €",
+          "calories": "380 kJ / 91 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Latte Macchiato Groß",
+          "price": "2,80 €",
+          "calories": "580 kJ / 139 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie viel kostet ein Kaffee bei BackWerk?",
+      "a": "Ein normaler Kaffee Crema kostet bei BackWerk ca. 1,80 €. Cappuccino liegt bei ca. 2,30 €."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "kaffee-baeckerei",
+    "backwerk",
+    "preise",
+    "speisekarte"
+  ]
+}

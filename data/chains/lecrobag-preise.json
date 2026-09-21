@@ -1,0 +1,63 @@
+{
+  "slug": "lecrobag-preise",
+  "name": "LeCrobag",
+  "category": "kaffee-baeckerei",
+  "seoTitle": "LeCrobag Speisekarte Preise 2026 – Croissants & Baguettes an Bahnhöfen",
+  "metaDescription": "Aktuelle LeCrobag Preise 2026: Buttercroissant, Faluche, belegte Baguettes & Kaffee an deutschen Bahnhöfen im Tabellen-Überblick.",
+  "heroSubtitle": "Französischer Genuss für Reisende: Alle LeCrobag Preise an Bahnhöfen und Reisezentren.",
+  "quickAnswer": "Bei LeCrobag kostet ein frisches Buttercroissant ca. 2,10 €, belegte französische Baguettes (z. B. Camembert oder Salami) ca. 4,90 € bis 6,20 € und ein Milchkaffee ca. 3,60 €.",
+  "priceLevel": "€€ (Mittel / Reise-Lage)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Mo – Fr ab 05:30 Uhr",
+    "hoursWeekend": "Sa – So ab 06:00 Uhr",
+    "note": "Frisch gebackene Croissants für frühe Pendler."
+  },
+  "savingTips": [
+    "Frühstücks-Kombi aus Croissant + Heißgetränk spart ca. 1,00 €."
+  ],
+  "history": "Seit 1981 bringt LeCrobag originales französisches Baguette- und Croissant-Handwerk an die Hauptbahnhöfe Deutschlands.",
+  "menuCategories": [
+    {
+      "categoryName": "Viennoiserie & Baguettes",
+      "items": [
+        {
+          "name": "Original Buttercroissant",
+          "price": "2,10 €",
+          "calories": "1.120 kJ / 268 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Schoko-Croissant (Pain au Chocolat)",
+          "price": "2,40 €",
+          "calories": "1.390 kJ / 332 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Baguette Camembert mit Feigensenf",
+          "price": "5,40 €",
+          "calories": "2.100 kJ / 502 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Baguette Putenbrust & Remoulade",
+          "price": "5,60 €",
+          "calories": "2.050 kJ / 490 kcal",
+          "diet": "Geflügel"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Croissant bei LeCrobag?",
+      "a": "Ein klassisches französisches Buttercroissant kostet 2026 ca. 2,10 €."
+    }
+  ],
+  "tags": [
+    "kaffee-baeckerei",
+    "lecrobag",
+    "preise",
+    "speisekarte"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "akropolis-speisekarte",
+  "name": "Restaurant Akropolis",
+  "category": "deutsch-regional",
+  "seoTitle": "Akropolis Speisekarte Preise 2026 – Griechische Spezialitäten",
+  "metaDescription": "Aktuelle Akropolis Preise 2026 in Deutschland: Gyros Teller, Bifteki, Souvlaki, Calamari, Tsatsiki & Ouzo im vollständigen Tabellen-Überblick.",
+  "heroSubtitle": "Griechische Gastfreundschaft in Deutschland: Alle Preise für Gyros, Grillteller und Meeresfrüchte.",
+  "quickAnswer": "Im Restaurant Akropolis kostet ein klassischer Gyros-Teller mit Tsatsiki, Pommes und Tomatenreis ca. 14,50 € bis 16,50 €. Der gemischte Akropolis-Grillteller liegt bei ca. 18,90 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Ab 11:30 Uhr geöffnet",
+    "note": "Mittagstisch werktags bis 14:30 Uhr."
+  },
+  "savingTips": [
+    "Der griechische Mittagstisch unter der Woche beinhaltet oft eine kostenlose Tagessuppe oder Salat."
+  ],
+  "history": "Griechische Restaurants namens Akropolis sind seit den 1970er Jahren eine feste und beliebte Institution in fast jeder deutschen Stadt.",
+  "menuCategories": [
+    {
+      "categoryName": "Grillspezialitäten vom Drehspieß",
+      "items": [
+        {
+          "name": "Gyros Teller mit Tsatsiki, Zwiebeln, Pommes & Reis",
+          "price": "15,50 €",
+          "calories": "4.150 kJ / 992 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Bifteki mit Schafskäse gefüllt, Pommes & Salat",
+          "price": "16,90 €",
+          "calories": "3.850 kJ / 920 kcal",
+          "diet": "Hackfleisch"
+        },
+        {
+          "name": "Akropolis Platte (Gyros, Souvlaki, Steak, Tsatsiki)",
+          "price": "19,50 €",
+          "calories": "5.100 kJ / 1.218 kcal",
+          "diet": "Grillteller"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Gyros-Teller bei Akropolis?",
+      "a": "Ein vollständiger Gyros-Teller mit Beilagen und Tsatsiki kostet ca. 15,50 €."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "restaurant akropolis",
+    "preise",
+    "speisekarte"
+  ]
+}

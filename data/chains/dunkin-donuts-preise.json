@@ -1,0 +1,64 @@
+{
+  "slug": "dunkin-donuts-preise",
+  "name": "Dunkin' Donuts",
+  "category": "kaffee-baeckerei",
+  "seoTitle": "Dunkin' Donuts Preise Deutschland 2026 – Einzeln & 6er/12er Box",
+  "metaDescription": "Aktuelle Dunkin' Donuts Preise 2026 in Deutschland: Einzelner Donut, 6er Box, 12er Box, Iced Coffee, Boston Kreme & Sorten im Tabellen-Überblick.",
+  "heroSubtitle": "Alle Preise für einzelne Donuts, 6er und 12er Vorratsboxen sowie Kaffeespezialitäten bei Dunkin' Deutschland.",
+  "quickAnswer": "Bei Dunkin' Donuts Deutschland kostet ein einzelner Donut 2026 ca. 2,49 €. Eine 6er-Box liegt bei rund 12,99 € (ca. 2,16 € pro Donut) und die große 12er-Party-Box bei etwa 22,99 € (ca. 1,91 € pro Donut).",
+  "priceLevel": "€€ (Günstig bis Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 07:00 Uhr geöffnet",
+    "hoursWeekend": "Ab 08:00 Uhr geöffnet",
+    "note": "Frische Donuts und heißer Kaffee ab Ladenöffnung."
+  },
+  "savingTips": [
+    "Kaufe immer mindestens eine 6er- oder 12er-Box, um bis zu 25 % pro Donut im Vergleich zum Einzelpreis zu sparen."
+  ],
+  "history": "1950 in Massachusetts gegründet, zählt Dunkin' heute zu den weltweit größten Coffee-and-Baked-Goods-Ketten. In Deutschland gibt es über 70 Filialen.",
+  "menuCategories": [
+    {
+      "categoryName": "Donuts & Boxen",
+      "items": [
+        {
+          "name": "Klassischer Donut Einzeln (Boston Kreme, Strawberry Frosted)",
+          "price": "2,49 €",
+          "calories": "1.150 kJ / 275 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Premium Donut Einzeln (Nutella, Apple Crumble)",
+          "price": "2,89 €",
+          "calories": "1.420 kJ / 339 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "6er Box Donuts nach Wahl",
+          "price": "12,99 €",
+          "calories": "6.900 kJ / 1.650 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "12er Box Donuts nach Wahl",
+          "price": "22,99 €",
+          "calories": "13.800 kJ / 3.300 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet eine 6er Box bei Dunkin' Donuts?",
+      "a": "Eine 6er Box Donuts nach freier Wahl kostet 2026 in Deutschland ca. 12,99 €."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "kaffee-baeckerei",
+    "dunkin' donuts",
+    "preise",
+    "speisekarte"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "landgasthof-adler-speisekarte",
+  "name": "Landgasthof Adler",
+  "category": "deutsch-regional",
+  "seoTitle": "Landgasthof Adler Speisekarte Preise 2026 – Schwäbische Küche",
+  "metaDescription": "Aktuelle Landgasthof Adler Preise 2026: Zwiebelrostbraten, hausgemachte Maultaschen, Kässpätzle & gutbürgerliche deutsche Klassiker.",
+  "heroSubtitle": "Traditionelle schwäbische und süddeutsche Gastlichkeit: Alle Speisen und Preise.",
+  "quickAnswer": "Im traditionsreichen Landgasthof Adler kostet ein schwäbischer Zwiebelrostbraten mit handgemachten Spätzle ca. 24,50 €. Hausgemachte Maultaschen in der Brühe oder geschmälzt liegen bei ca. 12,90 € bis 14,50 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Für Hotelgäste ab 07:00 Uhr",
+    "hoursWeekend": "Ab 08:00 Uhr",
+    "note": "Regionales Landfrühstück mit Bauernbrot."
+  },
+  "savingTips": [
+    "Saisonale Aktionen wie die Spargel- oder Wildwochen bieten lokale Köstlichkeiten."
+  ],
+  "history": "Der Name 'Adler' steht in Süddeutschland für jahrhundertealte Wirtshauskultur mit frischen Zutaten aus der Region.",
+  "menuCategories": [
+    {
+      "categoryName": "Schwäbische Traditionsgerichte",
+      "items": [
+        {
+          "name": "Schwäbischer Zwiebelrostbraten mit Trollingersauce & Spätzle",
+          "price": "24,50 €",
+          "calories": "3.650 kJ / 872 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Hausgemachte Maultaschen 'geschmälzt' mit Kartoffelsalat",
+          "price": "13,90 €",
+          "calories": "2.750 kJ / 657 kcal",
+          "diet": "Schwein/Rind"
+        },
+        {
+          "name": "Allgäuer Kässpätzle mit Röstzwiebeln & grünem Salat",
+          "price": "12,90 €",
+          "calories": "3.100 kJ / 741 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet der Zwiebelrostbraten im Landgasthof Adler?",
+      "a": "Der Zwiebelrostbraten mit hausgemachten Spätzle kostet 2026 rund 24,50 €."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "landgasthof adler",
+    "preise",
+    "speisekarte"
+  ]
+}

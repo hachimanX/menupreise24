@@ -1,0 +1,64 @@
+{
+  "slug": "losteria-preise",
+  "name": "L'Osteria",
+  "category": "pizza-pasta",
+  "seoTitle": "L'Osteria Speisekarte Preise 2026 – Riesen-Pizza & Pasta",
+  "metaDescription": "Aktuelle L'Osteria Preise 2026 in Deutschland: Berühmte 45cm Riesen-Pizza, Pasta d'Amore, Salate & Dolci im Tabellen-Überblick.",
+  "heroSubtitle": "Berühmt für die 45 cm Riesen-Pizza mit zwei unterschiedlich belegten Hälften: Alle L'Osteria Preise.",
+  "quickAnswer": "Bei L'Osteria kostet die riesige 45-cm-Pizza Margherita ca. 12,50 €, eine Pizza Salami ca. 14,50 €. Praktischer Tipp: Eine Pizza kann mit zwei unterschiedlich belegten Hälften bestellt und problemlos zu zweit geteilt werden.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Ab 12:00 Uhr geöffnet",
+    "note": "Kein Frühstück."
+  },
+  "savingTips": [
+    "Teilt euch eine Pizza zu zweit! Mit 45 cm Durchmesser ragt die Pizza weit über den Tellerrand hinaus."
+  ],
+  "history": "1999 in Nürnberg gegründet, wuchs L'Osteria durch ihre überdimensionalen Pizzen zu einer der beliebtesten italienischen Gastronomie-Ketten im deutschsprachigen Raum heran.",
+  "menuCategories": [
+    {
+      "categoryName": "Die berühmte 45 cm Pizza",
+      "items": [
+        {
+          "name": "Pizza Margherita (45 cm)",
+          "price": "12,50 €",
+          "calories": "4.200 kJ / 1.003 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Salami (45 cm)",
+          "price": "14,50 €",
+          "calories": "4.890 kJ / 1.168 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Prosciutto e Funghi (45 cm)",
+          "price": "14,90 €",
+          "calories": "4.750 kJ / 1.135 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza BBQ Chicken (45 cm)",
+          "price": "15,50 €",
+          "calories": "4.950 kJ / 1.183 kcal",
+          "diet": "Geflügel"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie groß ist die Pizza bei L'Osteria?",
+      "a": "Die Pizza bei L'Osteria hat einen Durchmesser von 45 cm. Sie kann mit zwei unterschiedlichen Hälften belegt werden."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "pizza-pasta",
+    "l'osteria",
+    "preise",
+    "speisekarte"
+  ]
+}

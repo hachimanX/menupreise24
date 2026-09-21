@@ -1,0 +1,81 @@
+{
+  "slug": "gosch-sylt-preise",
+  "name": "Gosch Sylt",
+  "category": "deutsch-regional",
+  "seoTitle": "Gosch Sylt Speisekarte Preise 2026 – Fischbrötchen & Meeresfrüchte",
+  "metaDescription": "Aktuelle Gosch Sylt Preise 2026: Krabbenbrötchen, Matjes, Lachs, Thai-Curry, Bouillabaisse & Weine im vollständigen Tabellen-Überblick.",
+  "heroSubtitle": "Die nördlichste Fischbude Deutschlands: Alle Gosch Preise auf Sylt und in allen Filialen bundesweit.",
+  "quickAnswer": "Bei Gosch Sylt kostet das legendäre Nordseekrabben-Brötchen ca. 9,50 € bis 11,50 € (tagesfangabhängig). Ein warmes Backfisch-Brötchen liegt bei ca. 6,50 €, und die berühmte Gosch Fischsuppe (Bouillabaisse) bei rund 9,90 €.",
+  "priceLevel": "€€€ (Gehoben)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
+    "note": "Snacks und Fischbrötchen ab 11:00 Uhr."
+  },
+  "savingTips": [
+    "Die Matjesbrötchen bieten das beste Preis-Leistungs-Verhältnis aller Fischbrötchen bei Gosch."
+  ],
+  "history": "Jürgen Gosch eröffnete 1972 am Lister Hafen auf Sylt seine erste Imbissbude. Heute ist Gosch eine Kultmarke mit über 40 Standorten bundesweit, inklusive Bahnhöfen und Kreuzfahrtschiffen.",
+  "menuCategories": [
+    {
+      "categoryName": "Fischbrötchen & Schnelle Happen",
+      "items": [
+        {
+          "name": "Nordseekrabben-Brötchen (frisch gepult)",
+          "price": "10,50 €",
+          "calories": "1.450 kJ / 346 kcal",
+          "diet": "Meeresfrüchte"
+        },
+        {
+          "name": "Original Gosch Backfisch im Brötchen",
+          "price": "6,50 €",
+          "calories": "2.280 kJ / 545 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Matjesbrötchen 'Hausfrauen Art'",
+          "price": "5,20 €",
+          "calories": "1.680 kJ / 401 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Räucherlachs im Brötchen",
+          "price": "6,90 €",
+          "calories": "1.790 kJ / 428 kcal",
+          "diet": "Fisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Warme Spezialitäten",
+      "items": [
+        {
+          "name": "Gosch Edelfischsuppe mit Baguette",
+          "price": "9,90 €",
+          "calories": "1.520 kJ / 363 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Gebratenes Zanderfilet auf Rahmsauerkraut",
+          "price": "19,50 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Fisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Krabbenbrötchen bei Gosch?",
+      "a": "Ein frisches Nordseekrabben-Brötchen bei Gosch kostet 2026 je nach Tagesfang und Saison zwischen 9,50 € und 11,50 €."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "deutsch-regional",
+    "gosch sylt",
+    "preise",
+    "speisekarte"
+  ]
+}

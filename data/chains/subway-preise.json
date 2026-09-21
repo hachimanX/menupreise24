@@ -1,0 +1,123 @@
+{
+  "slug": "subway-preise",
+  "name": "Subway",
+  "category": "fast-food",
+  "seoTitle": "Subway Preise Deutschland 2026 – 15cm & 30cm Footlong Preisliste",
+  "metaDescription": "Aktuelle Subway Preise 2026 in Deutschland: 15 cm Sub, 30 cm Footlong, Menü-Upgrades, Cookies & Salate mit allen Preisen im Tabellen-Überblick.",
+  "heroSubtitle": "Die komplette Subway Preisliste für 15cm Subs, 30cm Footlong Sandwiches, Wraps und Menüs in Deutschland.",
+  "quickAnswer": "Bei Subway Deutschland kostet ein 15 cm Sub 2026 durchschnittlich zwischen 5,99 € und 7,99 €, während das doppelt so große 30 cm Footlong Sub zwischen 9,99 € und 12,99 € liegt. Für ca. 3,20 € Aufpreis gibt es das Menü-Upgrade mit 0,5 l Softdrink und Cookie oder Chips.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Reguläre Öffnung meist ab 09:00 oder 10:00 Uhr",
+    "hoursWeekend": "Ab 10:00 Uhr geöffnet",
+    "note": "Ausgewählte Filialen bieten morgens belegte Toast-Sandwiches und frischen Kaffee an."
+  },
+  "savingTips": [
+    "Bestelle immer das 30 cm Footlong Sub, wenn du mit Freunden teilst – der Preis pro Zentimeter ist rund 25 % günstiger als bei zwei 15 cm Subs.",
+    "Der 'Sub des Tages' war lange Zeit der beste Spar-Tipp; heute bieten die meisten Filialen wechselnde Monats-Deals in der Subway Rewards App an.",
+    "Mit der Subway Rewards Karte sammelst du Punkte für Gratis-Subs und Cookies."
+  ],
+  "history": "Subway wurde 1965 von Fred DeLuca und Peter Buck in den USA gegründet. Die erste Filiale in Deutschland öffnete 1999 in Berlin. Heute gibt es rund 650 Subway-Standorte in Deutschland, die für individuell belegte Sandwiches auf frischem Brot bekannt sind.",
+  "menuCategories": [
+    {
+      "categoryName": "Klassische Subs (15 cm & 30 cm Footlong)",
+      "items": [
+        {
+          "name": "Italian B.M.T. (Salami, Peperoni, Schinken)",
+          "price": "6,99 € (15cm) | 11,49 € (30cm)",
+          "calories": "1.740 kJ / 416 kcal",
+          "diet": "Schwein/Rind"
+        },
+        {
+          "name": "Chicken Teriyaki",
+          "price": "7,49 € (15cm) | 12,29 € (30cm)",
+          "calories": "1.520 kJ / 363 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Tuna (Thunfischcreme)",
+          "price": "6,79 € (15cm) | 11,19 € (30cm)",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Turkey, Ham & Bacon",
+          "price": "7,29 € (15cm) | 11,99 € (30cm)",
+          "calories": "1.610 kJ / 385 kcal",
+          "diet": "Kombination"
+        },
+        {
+          "name": "Philly Beef & Cheese",
+          "price": "7,99 € (15cm) | 12,99 € (30cm)",
+          "calories": "1.790 kJ / 428 kcal",
+          "diet": "Rindfleisch"
+        },
+        {
+          "name": "Spicy Italian",
+          "price": "6,49 € (15cm) | 10,79 € (30cm)",
+          "calories": "1.980 kJ / 473 kcal",
+          "diet": "Pikant"
+        },
+        {
+          "name": "Veggie Delite (Frisches Gemüse)",
+          "price": "5,49 € (15cm) | 8,99 € (30cm)",
+          "calories": "980 kJ / 234 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Plant-based Teriyaki",
+          "price": "7,49 € (15cm) | 12,29 € (30cm)",
+          "calories": "1.580 kJ / 378 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    },
+    {
+      "categoryName": "Menü-Upgrades & Beilagen",
+      "items": [
+        {
+          "name": "Menü-Upgrade (Sub + 0,5 l Drink + Cookie/Chips)",
+          "price": "+ 3,20 €",
+          "calories": "variiert",
+          "diet": "Menü"
+        },
+        {
+          "name": "Subway Cookie (Chocolate Chunk, White Choc Macadamia)",
+          "price": "1,49 €",
+          "calories": "920 kJ / 220 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "3er Cookie Box",
+          "price": "3,99 €",
+          "calories": "2.760 kJ / 660 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Lay's Chips Beutel",
+          "price": "1,99 €",
+          "calories": "680 kJ / 162 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein 30 cm Sub bei Subway in Deutschland?",
+      "a": "Ein 30 cm Footlong Sub kostet 2026 in Deutschland zwischen 9,99 € (Veggie Delite) und 12,99 € (Philly Beef oder Chicken Teriyaki)."
+    },
+    {
+      "q": "Wie viel kostet ein Cookie bei Subway?",
+      "a": "Ein einzelner Subway Cookie kostet ca. 1,49 €. Im 3er-Pack liegt der Preis meist bei 3,99 €."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "fast-food",
+    "subway",
+    "preise",
+    "speisekarte"
+  ]
+}

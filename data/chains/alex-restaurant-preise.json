@@ -1,0 +1,57 @@
+{
+  "slug": "alex-restaurant-preise",
+  "name": "Alex Restaurant",
+  "category": "deutsch-regional",
+  "seoTitle": "Alex Restaurant Speisekarte Preise 2026 – Brunch, Burger & Pasta",
+  "metaDescription": "Aktuelle Alex Restaurant Preise 2026: Das berühmte Alex Frühstücksbuffet, Sonntagsbrunch, Burger, Bowls & Cocktails im Tabellen-Überblick.",
+  "heroSubtitle": "Das beliebte Ganztages-Gastronomiekonzept in deutschen Innenstädten: Alle Speise- und Buffetpreise.",
+  "quickAnswer": "Im Alex Restaurant kostet das tägliche Frühstücksbuffet werktags ca. 14,50 €, an Sonn- und Feiertagen ca. 19,50 €. Burger und Bowls auf der Abendkarte liegen zwischen 12,90 € und 17,50 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Mo – Sa: 08:00 – 12:00 Uhr",
+    "hoursWeekend": "So: 09:00 – 14:30 Uhr (Brunch)",
+    "note": "Großes Schlemmerbuffet mit warmen und kalten Speisen."
+  },
+  "savingTips": [
+    "Unter der Woche ist das Frühstücksbuffet deutlich günstiger als am Sonntag."
+  ],
+  "history": "Alex Gaststätten gehören zur Mitchells & Butlers Gruppe und sind an zentralen Plätzen in über 35 deutschen Städten vertreten.",
+  "menuCategories": [
+    {
+      "categoryName": "Frühstücksbuffet & Schlemmen",
+      "items": [
+        {
+          "name": "Alex Frühstücksbuffet (Mo–Sa)",
+          "price": "14,50 €",
+          "calories": "variiert",
+          "diet": "Buffet"
+        },
+        {
+          "name": "Großer Sonntagsbrunch",
+          "price": "19,50 €",
+          "calories": "variiert",
+          "diet": "Buffet"
+        },
+        {
+          "name": "Alex Classic Cheeseburger mit Pommes",
+          "price": "14,90 €",
+          "calories": "3.650 kJ / 872 kcal",
+          "diet": "Rind"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet der Brunch bei Alex?",
+      "a": "Der Sonntagsbrunch liegt 2026 bei ca. 19,50 € pro Person exklusive Heißgetränke."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "alex restaurant",
+    "preise",
+    "speisekarte"
+  ]
+}

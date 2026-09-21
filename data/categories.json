@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "fast-food",
+    "name": "Fast Food Ketten",
+    "icon": "🍔",
+    "description": "Aktuelle Speisekarten, Menüpreise und Sparaktionen der größten Fast-Food-Ketten in Deutschland.",
+    "h1": "Fast Food Speisekarten & Preise Deutschland 2026",
+    "metaDescription": "Alle Fast Food Preise in Deutschland auf einen Blick: McDonald's, Burger King, Subway, KFC und mehr mit aktuellen Preislisten und Kalorien."
+  },
+  {
+    "slug": "burger",
+    "name": "Burger & Grill",
+    "icon": "🥩",
+    "description": "Klassische Burger-Ketten und Premium-Burgerbars im direkten Preis- und Geschmacksvergleich.",
+    "h1": "Burger Speisekarten & Menüpreise 2026",
+    "metaDescription": "Entdecke Speisekarten von Peter Pane, Hans im Glück, Five Guys, Burger King und weiteren Burger-Spezialisten mit Preislisten."
+  },
+  {
+    "slug": "bahn-reise",
+    "name": "Bahn & Reisen",
+    "icon": "🚆",
+    "description": "Speisekarten für unterwegs: ICE Bordbistro, Bordrestaurant, Flughäfen und Autobahnraststätten.",
+    "h1": "Speisekarten für Bahn & Reise-Gastronomie 2026",
+    "metaDescription": "Was kostet der Kaffee im ICE? Alle Preise für Deutsche Bahn Bordbistro, Bordrestaurant und Reise-Gastronomie in Deutschland."
+  },
+  {
+    "slug": "pizza-pasta",
+    "name": "Pizza & Pasta",
+    "icon": "🍕",
+    "description": "Preise von beliebten Pizzerien, Lieferdiensten und italienischen Restaurantketten.",
+    "h1": "Pizza & Pasta Speisekarten & Lieferdienst-Preise 2026",
+    "metaDescription": "Vapiano, L'Osteria, Pizza Hut, Domino's und Call a Pizza Preise im praktischen Tabellenüberblick."
+  },
+  {
+    "slug": "kaffee-baeckerei",
+    "name": "Kaffee & Bäckerei",
+    "icon": "☕",
+    "description": "Kaffee-Preise, Heißgetränke, Donuts und Snacks von Starbucks, Dunkin' Donuts, BackWerk und Kamps.",
+    "h1": "Kaffee & Bäckerei Preislisten Deutschland 2026",
+    "metaDescription": "Aktuelle Preise für Starbucks Frappuccino, Latte Macchiato, Dunkin' Donuts Boxen und Bäckerei-Snacks in Deutschland."
+  },
+  {
+    "slug": "steakhouse-bbq",
+    "name": "Steakhouse & BBQ",
+    "icon": "🍖",
+    "description": "Speisekarten führender Steak- und BBQ-Restaurants wie Block House und Timberjacks.",
+    "h1": "Steakhouse & BBQ Speisekarten mit Preisen 2026",
+    "metaDescription": "Block House, Timberjacks und Grill-Spezialisten: Preise für Rumpsteak, Rib-Eye, Beilagen und Menüs."
+  },
+  {
+    "slug": "doener-streetfood",
+    "name": "Döner & Street Food",
+    "icon": "🥙",
+    "description": "Kult-Streetfood in Deutschland: Haus des Döners, Frittenwerk und trendige Streetfood-Ketten.",
+    "h1": "Döner & Streetfood Preise Deutschland 2026",
+    "metaDescription": "Preise für Haus des Döners, Frittenwerk Poutine, Pommes-Spezialitäten und Trend-Streetfood."
+  },
+  {
+    "slug": "deutsch-regional",
+    "name": "Deutsche & Regionale Küche",
+    "icon": "🥨",
+    "description": "Traditionelle Gasthöfe, Fisch-Spezialitäten von Gosch Sylt, Brauhäuser und beliebte Lokale.",
+    "h1": "Deutsche & Regionale Speisekarten mit Preisen 2026",
+    "metaDescription": "Speisekarten für Gosch Sylt, Traditionshäuser wie Borchardt Berlin, Gasthof zur Post und beliebte Landgasthöfe."
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "slug": "burger-king-fruhstuck",
+  "name": "Burger King Frühstück",
+  "category": "fast-food",
+  "seoTitle": "Burger King Frühstück Preise 2026 – Zeiten, King Toast & Kaffee",
+  "metaDescription": "Aktuelle Burger King Frühstück Preise 2026: King Toast, Toasties, Rührei, Kaffeespezialitäten & genaue Frühstückszeiten im Tabellen-Überblick.",
+  "heroSubtitle": "Alle Informationen zum Frühstücksangebot bei Burger King Deutschland mit Menüpreisen und Uhrzeiten.",
+  "quickAnswer": "Das Burger King Frühstück wird in teilnehmenden Restaurants wochentags von 06:00 bis 10:30 Uhr und sonntags bis 11:00 Uhr angeboten. Beliebt sind die 'King Toasties' (ab ca. 2,99 €) sowie das King Breakfast Menü mit Kaffee und Hash Browns für ca. 5,49 €.",
+  "priceLevel": "€ (Günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Mo – Fr: 06:00 – 10:30 Uhr",
+    "hoursWeekend": "Sa – So: 06:00 – 11:00 Uhr",
+    "note": "Prüfe vorab in der BK-App, ob deine Filiale Frühstück anbietet."
+  },
+  "savingTips": [
+    "Mit BK-Coupons gibt es das Frühstücks-Menü oft zum halben Preis."
+  ],
+  "history": "Burger King hat sein Frühstück in Deutschland mehrfach überarbeitet und fokussiert sich heute auf warme Toasts, gegrillte Patties und erstklassigen Röstkaffee.",
+  "menuCategories": [
+    {
+      "categoryName": "King Toasties & Frühstücks-Klassiker",
+      "items": [
+        {
+          "name": "King Toastie Bacon & Cheese",
+          "price": "2,99 €",
+          "calories": "1.420 kJ / 339 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "King Toastie Ham & Cheese",
+          "price": "2,99 €",
+          "calories": "1.380 kJ / 330 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Breakfast Burger (mit Spiegelei & Bacon)",
+          "price": "4,29 €",
+          "calories": "2.120 kJ / 507 kcal",
+          "diet": "Rind/Ei"
+        },
+        {
+          "name": "Röststi (Hash Browns 2er)",
+          "price": "1,89 €",
+          "calories": "620 kJ / 148 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bis wann gibt es Frühstück bei Burger King?",
+      "a": "In der Regel montags bis freitags bis 10:30 Uhr und samstags sowie sonntags bis 11:00 Uhr."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "burger king frühstück",
+    "preise",
+    "speisekarte"
+  ]
+}

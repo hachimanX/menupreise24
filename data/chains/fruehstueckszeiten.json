@@ -1,0 +1,80 @@
+{
+  "slug": "fruehstueckszeiten",
+  "name": "Frühstückszeiten aller Fast Food Ketten 2026",
+  "category": "fast-food",
+  "seoTitle": "Frühstückszeiten 2026: McDonald's, Burger King & Co. im Überblick",
+  "metaDescription": "Bis wann gibt es Frühstück bei McDonald's, Burger King & Co.? Alle Frühstückszeiten für Werktage, Samstage, Sonntage & Feiertage in Deutschland.",
+  "hero_sub": "Nie wieder das Frühstück verpassen: Alle Uhrzeiten, wann Frühstück serviert wird und wann die reguläre Speisekarte startet.",
+  "quickAnswer": "Bei McDonald's gibt es Frühstück werktags von 06:00 bis 10:30 Uhr, an Wochenenden und Feiertagen bis 11:30 Uhr. Burger King bietet Frühstück meist bis 10:30 Uhr (werktags) bzw. 11:00 Uhr (sonntags) an. In der Deutschen Bahn (ICE Bordbistro) ist Frühstück ganztägig erhältlich, solange der Vorrat reicht.",
+  "priceLevel": "Übersichts-Guide",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Siehe Tabelle unten",
+    "hoursWeekend": "Siehe Tabelle unten",
+    "note": "Übersicht aller Anbieter."
+  },
+  "savingTips": [
+    "Wer kurz vor Frühstücksende bestellt, kann oft sowohl Frühstücks- als auch reguläre Burger zeitgleich kombinieren."
+  ],
+  "history": "In Deutschland haben die großen Fast-Food-Ketten ihre Frühstückszeiten in den letzten Jahren am Wochenende verlängert, um Langschläfern entgegenzukommen.",
+  "menuCategories": [
+    {
+      "categoryName": "Frühstückszeiten im direkten Vergleich",
+      "items": [
+        {
+          "name": "McDonald's Deutschland",
+          "price": "Mo–Fr: 06:00 – 10:30 Uhr",
+          "calories": "Sa, So & Feiertag: bis 11:30 Uhr",
+          "diet": "McMuffin, Rührei"
+        },
+        {
+          "name": "Burger King Deutschland",
+          "price": "Mo–Fr: 06:00 – 10:30 Uhr",
+          "calories": "Sa & So: bis 11:00 Uhr",
+          "diet": "King Toasties"
+        },
+        {
+          "name": "Deutsche Bahn ICE Bordbistro",
+          "price": "Ganztägig ab Zugabfahrt",
+          "calories": "Solange Vorrat reicht",
+          "diet": "Großes Frühstück"
+        },
+        {
+          "name": "Café Del Sol (Frühstücksbuffet)",
+          "price": "Mo–Sa: 09:00 – 12:00 Uhr",
+          "calories": "Sonntagsbrunch: bis 14:00 Uhr",
+          "diet": "Buffet (ca. 15,50–18,90 €)"
+        },
+        {
+          "name": "Alex Restaurant (Brunch)",
+          "price": "Mo–Sa: 08:00 – 12:00 Uhr",
+          "calories": "Sonn- & Feiertag: bis 14:30 Uhr",
+          "diet": "Schlemmerbuffet"
+        },
+        {
+          "name": "BackWerk & Bäckereien",
+          "price": "Täglich ab 05:30 / 06:00 Uhr",
+          "calories": "Ganztägig belegte Snacks",
+          "diet": "Kaffee & Brezeln"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bis wann gibt es sonntags Frühstück bei McDonald's?",
+      "a": "Sonntags und an Feiertagen wird das McDonald's Frühstück bis 11:30 Uhr serviert."
+    },
+    {
+      "q": "Gibt es Burger während der Frühstückszeit?",
+      "a": "In der Regel nicht: Die Grillflächen sind während der Frühstückszeit für Rührei, Bacon und McMuffin-Patties reserviert. Die reguläre Burgerkarte startet exakt nach dem Frühstück."
+    }
+  ],
+  "tags": [
+    "fruehstueck",
+    "zeiten",
+    "mcdonalds",
+    "burger king",
+    "deutsche bahn"
+  ]
+}

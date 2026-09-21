@@ -1,0 +1,24 @@
+{
+  "siteName": "SpeisekartenPreise.de",
+  "tagline": "Aktuelle Speisekarten & Preise in Deutschland (2026)",
+  "baseUrl": "https://speisekartenpreise.de",
+  "githubUrl": "https://github.com/speisekartenpreise/speisekartenpreise.github.io",
+  "language": "de-DE",
+  "year": 2026,
+  "currency": "EUR",
+  "currencySymbol": "€",
+  "contactEmail": "kontakt@speisekartenpreise.de",
+  "adSenseId": "ca-pub-XXXXXXXXXXXXXXXX",
+  "metaDescription": "Aktuelle Speisekarten und Preise führender Restaurants und Fast-Food-Ketten in Deutschland: McDonald's, Burger King, Deutsche Bahn ICE Bordbistro, Subway, Starbucks & mehr mit Nährwerten.",
+  "navLinks": [
+    { "title": "Startseite", "url": "/" },
+    { "title": "McDonald's", "url": "/mcdonalds-preise/" },
+    { "title": "DB Speisekarte", "url": "/db-speisekarte/" },
+    { "title": "Burger King", "url": "/burger-king-preise/" },
+    { "title": "Subway", "url": "/subway-preise/" },
+    { "title": "Starbucks", "url": "/starbucks-preise/" },
+    { "title": "Kategorien", "url": "#kategorien" },
+    { "title": "Preisvergleich", "url": "/fast-food-preisvergleich/" }
+  ],
+  "disclaimerText": "Hinweis: SpeisekartenPreise.de ist ein unabhängiges Verbraucher- und Informationsportal und steht in keiner geschäftlichen oder gesellschaftsrechtlichen Verbindung zu den genannten Marken, Unternehmen oder Restaurantketten (wie McDonald's, Burger King, Deutsche Bahn AG etc.). Alle genannten Markenzeichen und Logos sind Eigentum der jeweiligen Rechteinhaber. Preise und Nährwerte können je nach Standort, Filiale, Franchise-Nehmer oder Lieferdienst variieren. Stand: 2026."
+}

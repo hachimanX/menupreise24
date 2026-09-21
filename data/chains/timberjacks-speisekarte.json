@@ -1,0 +1,57 @@
+{
+  "slug": "timberjacks-speisekarte",
+  "name": "Timberjacks",
+  "category": "steakhouse-bbq",
+  "seoTitle": "Timberjacks Speisekarte Preise 2026 – Beef, BBQ & Motel",
+  "metaDescription": "Aktuelle Timberjacks Speisekarte 2026 in Deutschland: Preise für Steaks, BBQ Ribs, Burger, Mexican Food & Desserts in Kassel, Göttingen & Köln.",
+  "heroSubtitle": "Das beliebte American-Style BBQ Restaurant & Motel: Alle Preise und Fleischspezialitäten.",
+  "quickAnswer": "Bei Timberjacks kostet ein Premium-Burger ca. 14,50 € bis 18,90 €, BBQ Spare Ribs liegen bei ca. 22,50 € und US-Steaks (z. B. 250g Rumpsteak) starten bei rund 28,90 €.",
+  "priceLevel": "€€€ (Gehoben)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 08:00 Uhr",
+    "hoursWeekend": "Ab 08:00 Uhr",
+    "note": "Reichhaltiges amerikanisches Frühstücksbuffet."
+  },
+  "savingTips": [
+    "Die Lunch-Angebote unter der Woche bieten günstige Einstiegspreise."
+  ],
+  "history": "Timberjacks kombiniert rustikales Blockhaus-Ambiente (Log Cabin), offenes Feuer, American Beef und Motels in Städten wie Göttingen, Kassel, Siegen und Köln.",
+  "menuCategories": [
+    {
+      "categoryName": "Steaks & BBQ Ribs",
+      "items": [
+        {
+          "name": "Timberjacks BBQ Ribs (Full Rack)",
+          "price": "22,50 €",
+          "calories": "4.200 kJ / 1.003 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "US Rumpsteak (250g)",
+          "price": "28,90 €",
+          "calories": "2.450 kJ / 585 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Timberjacks Bacon Burger",
+          "price": "16,90 €",
+          "calories": "3.550 kJ / 848 kcal",
+          "diet": "Rind/Bacon"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet Essen bei Timberjacks?",
+      "a": "Hauptgerichte liegen meist zwischen 15 € und 35 € je nach Fleischzuschnitt."
+    }
+  ],
+  "tags": [
+    "steakhouse-bbq",
+    "timberjacks",
+    "preise",
+    "speisekarte"
+  ]
+}

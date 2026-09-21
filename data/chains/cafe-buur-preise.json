@@ -1,0 +1,57 @@
+{
+  "slug": "cafe-buur-preise",
+  "name": "Café Buur",
+  "category": "deutsch-regional",
+  "seoTitle": "Café Buur Speisekarte Preise 2026 – Brunch in Köln & Düsseldorf",
+  "metaDescription": "Aktuelle Café Buur Preise 2026: Pancakes, Shakshuka, Eggs Benedict, Avocado Toast & Instagram-Brunch-Highlights im Tabellen-Überblick.",
+  "heroSubtitle": "Der angesagteste Brunch-Hotspot in Köln, Düsseldorf und Frankfurt: Alle Preise.",
+  "quickAnswer": "Bei Café Buur kosten Eggs Benedict ca. 13,90 €, Shakshuka ca. 12,50 € und die riesigen Signature Pancakes mit Nutella oder Früchten zwischen 12,90 € und 15,90 €.",
+  "priceLevel": "€€€ (Gehoben Casual)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Täglich 09:00 – 18:00 Uhr All Day Brunch",
+    "hoursWeekend": "Täglich 09:00 – 18:00 Uhr",
+    "note": "All Day Breakfast & Brunch den ganzen Tag."
+  },
+  "savingTips": [
+    "Früh kommen, da vor den Filialen in Köln und Düsseldorf oft lange Schlangen stehen."
+  ],
+  "history": "Café Buur startete im Kölner Belgischen Viertel und wurde über Social Media mit opulent dekorierten Brunch-Tellern deutschlandweit bekannt.",
+  "menuCategories": [
+    {
+      "categoryName": "All Day Breakfast & Brunch",
+      "items": [
+        {
+          "name": "Eggs Benedict mit pochierten Eiern & Sauce Hollandaise",
+          "price": "13,90 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Vegetarisch/Ei"
+        },
+        {
+          "name": "Buur's Shakshuka mit Feta & Brot",
+          "price": "12,50 €",
+          "calories": "2.450 kJ / 585 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Lotus Biscoff Pancakes Tower",
+          "price": "14,90 €",
+          "calories": "3.890 kJ / 930 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss man bei Café Buur reservieren?",
+      "a": "Café Buur arbeitet meist nach dem Prinzip 'First come, first served' ohne Tischreservierung."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "café buur",
+    "preise",
+    "speisekarte"
+  ]
+}

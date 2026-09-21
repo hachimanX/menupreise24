@@ -1,0 +1,64 @@
+{
+  "slug": "dominos-pizza-preise",
+  "name": "Domino's Pizza",
+  "category": "pizza-pasta",
+  "seoTitle": "Domino's Pizza Preise Deutschland 2026 – Speisekarte & Lieferpreise",
+  "metaDescription": "Aktuelle Domino's Pizza Preise 2026 in Deutschland: Classic, Medium, Large, Pizza Brötchen, Pasta & Cheesy Bread im Tabellen-Überblick.",
+  "heroSubtitle": "Die vollständige Speisekarte von Domino's Pizza Deutschland für Abholung und Lieferung.",
+  "quickAnswer": "Bei Domino's Pizza Deutschland startet eine Medium-Pizza (28 cm) bei ca. 8,99 € (Margherita) bis 13,99 € (Spezialitäten). Bei Selbstabholung gewährt Domino's in vielen Filialen dauerhaft Abholrabatte von bis zu 30 %.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
+    "note": "Lieferung und Abholung bis spät abends."
+  },
+  "savingTips": [
+    "Selbstabholer sparen: Domino's bietet fast immer exklusive 'Pick-up' Rabatte an."
+  ],
+  "history": "Domino's Pizza übernahm in Deutschland die Ketten Joey's Pizza und Hallo Pizza und wurde so zum unangefochtenen Marktführer für Pizza-Lieferdienste mit über 400 Stores.",
+  "menuCategories": [
+    {
+      "categoryName": "Beliebte Pizzen (Classic 25cm | Medium 28cm | Large 32cm)",
+      "items": [
+        {
+          "name": "Pizza Salami",
+          "price": "7,99 € | 10,99 € | 14,99 €",
+          "calories": "3.100 kJ / 741 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Margherita",
+          "price": "6,99 € | 8,99 € | 12,99 €",
+          "calories": "2.650 kJ / 633 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Boston (mit Sauce Hollandaise & Schinken)",
+          "price": "8,99 € | 12,49 € | 16,99 €",
+          "calories": "3.480 kJ / 832 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Waikiki (Schinken & Ananas)",
+          "price": "8,49 € | 11,99 € | 15,99 €",
+          "calories": "3.050 kJ / 729 kcal",
+          "diet": "Schwein"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet eine Pizza bei Domino's?",
+      "a": "Eine Classic-Pizza (25 cm) startet bei ca. 6,99 € für Margherita. Beliebte Sorten wie Salami liegen bei ca. 10,99 € in der Medium-Größe (28 cm)."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "pizza-pasta",
+    "domino's pizza",
+    "preise",
+    "speisekarte"
+  ]
+}

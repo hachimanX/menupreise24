@@ -1,0 +1,75 @@
+{
+  "slug": "edmondo-speisekarte",
+  "name": "Edmondo Hamburg",
+  "category": "pizza-pasta",
+  "seoTitle": "Edmondo Hamburg Speisekarte Preise 2026 – Big Mamma Group",
+  "metaDescription": "Aktuelle Edmondo Hamburg Speisekarte 2026: Trüffelpasta, neapolitanische Pizza, Tiramisu & Cocktail-Preise des Big Mamma Restaurants am Hohen Wall.",
+  "hero_sub": "Das spektakuläre italienische Restaurant der Big Mamma Group in Hamburg: Alle Speisen und Preise.",
+  "quickAnswer": "Im Restaurant Edmondo in Hamburg kostet die berühmte Trüffelpasta (Mafaldine al Tartufo) ca. 21,50 €, eine neapolitanische Pizza Margherita ca. 13,00 € und hausgemachtes Tiramisu rund 8,50 €.",
+  "priceLevel": "€€€ (Gehoben Casual)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Mo – Fr ab 12:00 Uhr",
+    "hoursWeekend": "Sa – So ab 12:00 Uhr",
+    "note": "Lunch und Dinner."
+  },
+  "savingTips": [
+    "Mittags gibt es ein wechselndes Lunch-Menü mit hervorragendem Preis-Leistungs-Verhältnis."
+  ],
+  "history": "Edmondo ist das erste Hamburger Restaurant der erfolgreichen europäischen Big Mamma Group (u. a. Circolo Popolare London, Pink Mamma Paris) in einem opulenten ehemaligen Bankgebäude.",
+  "menuCategories": [
+    {
+      "categoryName": "Antipasti & Pizza Napoletana",
+      "items": [
+        {
+          "name": "Burrata pugliese mit Pesto",
+          "price": "14,50 €",
+          "calories": "2.100 kJ / 502 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Margherita DOP (San Marzano Tomaten, Fior di Latte)",
+          "price": "13,00 €",
+          "calories": "3.100 kJ / 741 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Queen Tartufo (Frische Trüffel & Ricotta)",
+          "price": "21,00 €",
+          "calories": "3.650 kJ / 872 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Pasta Fresca & Dolci",
+      "items": [
+        {
+          "name": "Mafaldine al Tartufo (Frische Trüffelpasta)",
+          "price": "21,50 €",
+          "calories": "3.450 kJ / 824 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Il Tiramisù tradizionale",
+          "price": "8,50 €",
+          "calories": "1.890 kJ / 452 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet die Trüffelpasta im Edmondo Hamburg?",
+      "a": "Die beliebte Mafaldine al Tartufo mit frischen Sommertrüffeln kostet 2026 ca. 21,50 €."
+    }
+  ],
+  "tags": [
+    "pizza-pasta",
+    "edmondo",
+    "hamburg",
+    "speisekarte",
+    "preise"
+  ]
+}

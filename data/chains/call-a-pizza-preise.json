@@ -1,0 +1,57 @@
+{
+  "slug": "call-a-pizza-preise",
+  "name": "Call a Pizza",
+  "category": "pizza-pasta",
+  "seoTitle": "Call a Pizza Speisekarte Preise 2026 – Pizza, Burger & Fingerfood",
+  "metaDescription": "Aktuelle Call a Pizza Preise 2026 in Deutschland: Single, Jumbo, Gigant Pizzen, Burger, Chicken Wings & Sparmenüs im Tabellen-Überblick.",
+  "heroSubtitle": "Einer der traditionsreichsten Pizza-Lieferdienste Deutschlands: Alle Größen und Preise.",
+  "quickAnswer": "Bei Call a Pizza kostet eine Single-Pizza (26 cm) ca. 9,90 €, eine Jumbo-Pizza (32 cm) ca. 14,90 € und die riesige Gigant-Pizza (ca. 45 cm) rund 23,90 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:00 Uhr",
+    "note": "Lieferdienst bis spät in die Nacht."
+  },
+  "savingTips": [
+    "Tagesangebote auf der Website und Abholrabatte von bis zu 20 % nutzen."
+  ],
+  "history": "1984 in München gegründet, gehört Call a Pizza mit dem Slogan 'Mehr als Pizza' zu den Pionieren der deutschen Liefergastronomie.",
+  "menuCategories": [
+    {
+      "categoryName": "Pizzen (Single 26cm | Jumbo 32cm)",
+      "items": [
+        {
+          "name": "Pizza Salami",
+          "price": "9,90 € | 14,90 €",
+          "calories": "3.150 kJ / 752 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Margherita",
+          "price": "8,50 € | 12,90 €",
+          "calories": "2.680 kJ / 640 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Tonno (Thunfisch & Zwiebeln)",
+          "price": "10,90 € | 15,90 €",
+          "calories": "3.220 kJ / 769 kcal",
+          "diet": "Fisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie groß sind die Pizzen bei Call a Pizza?",
+      "a": "Single hat ca. 26 cm, Jumbo ca. 32 cm und Gigant ca. 45 cm Durchmesser."
+    }
+  ],
+  "tags": [
+    "pizza-pasta",
+    "call a pizza",
+    "preise",
+    "speisekarte"
+  ]
+}

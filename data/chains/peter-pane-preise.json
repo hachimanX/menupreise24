@@ -1,0 +1,81 @@
+{
+  "slug": "peter-pane-preise",
+  "name": "Peter Pane",
+  "category": "burger",
+  "seoTitle": "Peter Pane Speisekarte Preise 2026 – Burger, Fritten & Cocktails",
+  "metaDescription": "Aktuelle Peter Pane Preise 2026 in Deutschland: Burger Klassiker, vegane Burger, Fritten, Mittagsmenü & Cocktails im Tabellen-Überblick.",
+  "heroSubtitle": "Das beliebte Burgergrill-Konzept: Alle Burger, Menüs und vegane Kreationen im Preisüberblick.",
+  "quickAnswer": "Bei Peter Pane kostet ein klassischer Rindfleisch-Burger (z. B. 'Der Klassiker' oder 'Doppelter Peter') zwischen 9,90 € und 13,90 €. Das beliebte Peter-Menü (Burger + Fritten nach Wahl + Getränk + Heißgetränk) bietet bis 17:00 Uhr einen Sparvorteil von rund 4,50 €.",
+  "priceLevel": "€€€ (Gehoben Casual)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:30 Uhr geöffnet",
+    "note": "Mittagsmenü werktags bis 17:00 Uhr."
+  },
+  "savingTips": [
+    "Das Mittagsmenü bis 17:00 Uhr spart bares Geld: Fritten und Getränke sind stark vergünstigt im Kombi-Paket."
+  ],
+  "history": "Peter Pane entstand 2016 aus den norddeutschen Standorten der Paniceus Gastro Gruppe rund um Patrick Junge. Die Kette hat heute über 50 Standorte und ist bekannt für märchenhaftes Ambiente und eine riesige vegane Burger-Auswahl.",
+  "menuCategories": [
+    {
+      "categoryName": "Burger Kreationen (Rindfleisch aus Deutschland)",
+      "items": [
+        {
+          "name": "Der Klassiker (Rindfleisch, Salat, Tomate, rote Zwiebeln)",
+          "price": "9,90 €",
+          "calories": "2.550 kJ / 610 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Käsebruder (Rindfleisch, Cheddar-Käse, Gurken)",
+          "price": "10,90 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Doppelter Peter (2x Rindfleisch, Doppel-Cheddar)",
+          "price": "13,90 €",
+          "calories": "3.850 kJ / 920 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Goldfritte (mit Bacon, Guacamole & Cheddar)",
+          "price": "12,90 €",
+          "calories": "3.450 kJ / 824 kcal",
+          "diet": "Rind"
+        }
+      ]
+    },
+    {
+      "categoryName": "Vegane & Vegetarische Burger",
+      "items": [
+        {
+          "name": "Panflöte (Süßkartoffel-Amaranth-Bratling, Guacamole)",
+          "price": "10,90 €",
+          "calories": "2.350 kJ / 561 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Der Held (Pflanzliches Patty, veganer Käse, BBQ-Sauce)",
+          "price": "11,50 €",
+          "calories": "2.480 kJ / 592 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Burger bei Peter Pane?",
+      "a": "Die Burger bei Peter Pane kosten einzeln zwischen 9,90 € und 14,50 €. Im Mittagsmenü gibt es Fritten und Drink vergünstigt dazu."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "burger",
+    "peter pane",
+    "preise",
+    "speisekarte"
+  ]
+}

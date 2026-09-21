@@ -1,0 +1,87 @@
+{
+  "slug": "vapiano-preise",
+  "name": "Vapiano",
+  "category": "pizza-pasta",
+  "seoTitle": "Vapiano Speisekarte Preise 2026 – Pasta, Pizza & Salate",
+  "metaDescription": "Aktuelle Vapiano Preise 2026 in Deutschland: Frische Pasta (Bolognese, Carbonara), Steinofen-Pizza, Insalata & Dolci im Tabellen-Überblick.",
+  "heroSubtitle": "Frische hausgemachte Pasta und knusprige Steinofen-Pizza: Alle aktuellen Vapiano Preise im Überblick.",
+  "quickAnswer": "Bei Vapiano Deutschland kostet eine Pasta Bolognese oder Carbonara ca. 11,95 € bis 12,95 €. Eine Pizza Margherita liegt bei ca. 9,95 €, während Pizza Salame oder Prosciutto e Funghi rund 12,50 € kosten.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:30 Uhr geöffnet",
+    "hoursWeekend": "Ab 12:00 Uhr geöffnet",
+    "note": "Kein Frühstück."
+  },
+  "savingTips": [
+    "Das Vapiano People Treueprogramm vergibt Punkte für Gratis-Dolci oder Heißgetränke."
+  ],
+  "history": "2002 in Hamburg gegründet, erfand Vapiano das 'Fast-Casual'-Konzept für frische italienische Küche mit Live-Cooking vor den Augen der Gäste.",
+  "menuCategories": [
+    {
+      "categoryName": "Pasta Fresca (Hausgemacht)",
+      "items": [
+        {
+          "name": "Pasta Pomodoro (frische Tomatensauce)",
+          "price": "8,95 €",
+          "calories": "2.100 kJ / 502 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Pasta Bolognese (italienisches Rinderhack)",
+          "price": "12,45 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Pasta Carbonara (Speck, Sahne, Eigelb, Grana Padano)",
+          "price": "12,95 €",
+          "calories": "3.420 kJ / 817 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pasta Crema di Funghi (frische Champignons, Weißwein)",
+          "price": "11,95 €",
+          "calories": "2.750 kJ / 657 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Pizza aus dem Steinofen",
+      "items": [
+        {
+          "name": "Pizza Margherita (Mozzarella, Tomaten, Basilikum)",
+          "price": "9,95 €",
+          "calories": "3.150 kJ / 752 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Salame (würzige Salami)",
+          "price": "12,45 €",
+          "calories": "3.680 kJ / 879 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Prosciutto e Funghi (Schinken, frische Pilze)",
+          "price": "12,95 €",
+          "calories": "3.550 kJ / 848 kcal",
+          "diet": "Schwein"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet eine Pasta bei Vapiano 2026?",
+      "a": "Die Pastagerichte starten bei 8,95 € für Pomodoro und reichen bis ca. 14,50 € für Pasta Scampi."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "pizza-pasta",
+    "vapiano",
+    "preise",
+    "speisekarte"
+  ]
+}

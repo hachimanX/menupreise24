@@ -1,0 +1,117 @@
+{
+  "slug": "five-guys-preise",
+  "name": "Five Guys",
+  "category": "burger",
+  "seoTitle": "Five Guys Preise Deutschland 2026 – Burger, Fries & Shakes",
+  "metaDescription": "Aktuelle Five Guys Preise 2026 in Deutschland: Hamburger, Cheeseburger, Bacon Burger, Little Burger, Cajun Fries und Milkshakes mit allen Preisen in Tabelle.",
+  "heroSubtitle": "Die vollständige Preisliste von Five Guys Deutschland inklusive aller kostenlosen Toppings und Shakes.",
+  "quickAnswer": "Bei Five Guys Deutschland kostet ein regulärer Hamburger (2 Patties) ca. 10,95 €, ein Cheeseburger ca. 11,95 € und der Bacon Cheeseburger ca. 12,95 €. Die kleineren 'Little' Burger (1 Patty) liegen zwischen 8,45 € und 9,95 €. Alle 15 Toppings (Salat, Tomaten, Grillzwiebeln, Jalapeños, Saucen etc.) sind unbegrenzt kostenlos.",
+  "priceLevel": "€€€ (Premium Fast Casual)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
+    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
+    "note": "Kein Frühstücksangebot."
+  },
+  "savingTips": [
+    "Eine 'Little Fries' reicht bei Five Guys fast immer für zwei Personen, da die Papiertüte traditionell mit einer extra Schaufel Pommes aufgefüllt wird ('Topper').",
+    "Wähle beliebig viele Toppings 'All the Way' ohne Aufpreis."
+  ],
+  "history": "Five Guys wurde 1986 von Jerry Murrell und seinen Söhnen in Virginia gegründet. Das erste deutsche Restaurant eröffnete 2017 auf der Zeil in Frankfurt am Main. Die Kette verwendet ausschließlich frisches, nie gefrorenes Rindfleisch und brät in reinem Erdnussöl.",
+  "menuCategories": [
+    {
+      "categoryName": "Burger & Sandwiches (Inkl. alle Toppings)",
+      "items": [
+        {
+          "name": "Hamburger (2 Patties)",
+          "price": "10,95 €",
+          "calories": "3.510 kJ / 840 kcal",
+          "diet": "Frisches Rind"
+        },
+        {
+          "name": "Cheeseburger (2 Patties + Käse)",
+          "price": "11,95 €",
+          "calories": "4.100 kJ / 980 kcal",
+          "diet": "Frisches Rind"
+        },
+        {
+          "name": "Bacon Burger (2 Patties + Bacon)",
+          "price": "11,95 €",
+          "calories": "3.980 kJ / 950 kcal",
+          "diet": "Rind & Bacon"
+        },
+        {
+          "name": "Bacon Cheeseburger (2 Patties, Käse, Bacon)",
+          "price": "12,95 €",
+          "calories": "4.430 kJ / 1.060 kcal",
+          "diet": "Rind & Bacon"
+        },
+        {
+          "name": "Little Hamburger (1 Patty)",
+          "price": "8,45 €",
+          "calories": "2.260 kJ / 540 kcal",
+          "diet": "Frisches Rind"
+        },
+        {
+          "name": "Little Cheeseburger (1 Patty + Käse)",
+          "price": "9,45 €",
+          "calories": "2.550 kJ / 610 kcal",
+          "diet": "Frisches Rind"
+        },
+        {
+          "name": "Veggie Sandwich (Gegrilltes Gemüse)",
+          "price": "6,95 €",
+          "calories": "1.840 kJ / 440 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Fries (In Erdnussöl frittiert)",
+      "items": [
+        {
+          "name": "Five Guys Style Fries (Little | Medium | Large)",
+          "price": "4,95 € | 6,45 € | 7,95 €",
+          "calories": "2.220 kJ / 530 kcal (L)",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Cajun Style Fries (Little | Medium | Large)",
+          "price": "4,95 € | 6,45 € | 7,95 €",
+          "calories": "2.220 kJ / 530 kcal (L)",
+          "diet": "Pikant / Vegan 🌱"
+        }
+      ]
+    },
+    {
+      "categoryName": "Five Guys Shakes",
+      "items": [
+        {
+          "name": "Five Guys Milkshake (Basis nach Wahl)",
+          "price": "6,95 €",
+          "calories": "2.800 kJ / 670 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Mix-Ins (Erdbeere, Erdnussbutter, Bacon, Oreo)",
+          "price": "Kostenlos",
+          "calories": "variiert",
+          "diet": "Mix-In"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Warum ist Five Guys so teuer im Vergleich zu McDonald's?",
+      "a": "Five Guys positioniert sich im 'Better Burger' Segment: Es werden keine Tiefkühlpatties verwendet, Kartoffeln werden vor Ort frisch geschnitten und in 100 % Erdnussöl frittiert, und alle Toppings sind unbegrenzt inklusive."
+    }
+  ],
+  "videoId": "dQw4w9WgXcQ",
+  "tags": [
+    "burger",
+    "five guys",
+    "preise",
+    "speisekarte"
+  ]
+}

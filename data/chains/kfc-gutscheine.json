@@ -1,0 +1,57 @@
+{
+  "slug": "kfc-gutscheine",
+  "name": "KFC Gutscheine & Aktionen",
+  "category": "fast-food",
+  "seoTitle": "KFC Gutscheine 2026 – Aktuelle Rabattcodes & Angebote",
+  "metaDescription": "Aktuelle KFC Gutscheine 2026 in Deutschland: PDF Gutscheinbogen, App-Coupons, Tuesday Bucket Angebote und Menü-Rabatte zum Sparen.",
+  "heroSubtitle": "Alle Sparmöglichkeiten bei Kentucky Fried Chicken Deutschland im Überblick.",
+  "quickAnswer": "KFC Gutscheine bieten Rabatte von bis zu 40 % auf Buckets, Twister-Menüs und Zinger-Burger. Sie können digital in der offiziellen KFC Deutschland App aktiviert oder als gedruckter PDF-Gutscheinbogen vorgezeigt werden.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 11:00 Uhr",
+    "hoursWeekend": "Ab 11:00 Uhr",
+    "note": "Coupons sind ganztägig einlösbar."
+  },
+  "savingTips": [
+    "Jeden Dienstag ist 'Tuesday Bucket' Tag mit extra Hähnchenteilen zum Sonderpreis."
+  ],
+  "history": "KFC war eine der ersten Ketten in Deutschland, die flächendeckend zweimonatlich erscheinende Couponbögen an Haushalte verteilte.",
+  "menuCategories": [
+    {
+      "categoryName": "Beliebte Gutschein-Deals",
+      "items": [
+        {
+          "name": "2x Zinger Menü zum Sparpreis",
+          "price": "14,99 € (statt 18,98 €)",
+          "calories": "variiert",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Crispy Strips Spar-Bucket (10 Stück)",
+          "price": "11,99 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Twister Menü + 3 Hot Wings",
+          "price": "9,99 €",
+          "calories": "3.100 kJ / 741 kcal",
+          "diet": "Geflügel"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wo finde ich aktuelle KFC Gutscheine?",
+      "a": "In der offiziellen KFC Deutschland Smartphone-App oder direkt auf kfc.de zum Download als PDF."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "kfc gutscheine & aktionen",
+    "preise",
+    "speisekarte"
+  ]
+}

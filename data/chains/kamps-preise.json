@@ -1,0 +1,57 @@
+{
+  "slug": "kamps-preise",
+  "name": "Kamps Bäckerei",
+  "category": "kaffee-baeckerei",
+  "seoTitle": "Kamps Bäckerei Preise 2026 – Franzbrötchen, Snacks & Brot",
+  "metaDescription": "Aktuelle Kamps Preise 2026: Belegte Brötchen, Schoko-Franzbrötchen, Brotsorten, Laugengebäck & Kaffee im Tabellen-Überblick.",
+  "heroSubtitle": "Traditionshandwerk aus NRW: Alle Kamps Preise für Gebäck, belegte Brote und Heißgetränke.",
+  "quickAnswer": "Bei Kamps Bäckerei kostet ein Franzbrötchen ca. 1,95 €, belegte Brötchen liegen zwischen 3,20 € und 4,50 € und ein Cappuccino bei ca. 2,90 €.",
+  "priceLevel": "€ (Günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 06:00 Uhr morgens",
+    "hoursWeekend": "Ab 07:00 Uhr",
+    "note": "Traditionelles deutsches Frühstücksangebot mit Kaffee und Gebäck."
+  },
+  "savingTips": [
+    "Die Kamps Kundenkarte bietet Treuestempel für Gratis-Kaffee und Brot."
+  ],
+  "history": "1982 in Düsseldorf gegründet, gehört Kamps mit über 350 Bäckereien zu den bekanntesten Bäckerei-Filialisten Deutschlands.",
+  "menuCategories": [
+    {
+      "categoryName": "Süßes & Feingebäck",
+      "items": [
+        {
+          "name": "Kamps Franzbrötchen",
+          "price": "1,95 €",
+          "calories": "1.380 kJ / 330 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Schoko-Franzbrötchen",
+          "price": "2,25 €",
+          "calories": "1.620 kJ / 387 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Berliner Pfannkuchen",
+          "price": "1,80 €",
+          "calories": "1.250 kJ / 298 kcal",
+          "diet": "Vegetarisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Franzbrötchen bei Kamps?",
+      "a": "Ein klassisches Zimt-Franzbrötchen kostet ca. 1,95 €."
+    }
+  ],
+  "tags": [
+    "kaffee-baeckerei",
+    "kamps bäckerei",
+    "preise",
+    "speisekarte"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "deutsches-haus-speisekarte",
+  "name": "Deutsches Haus",
+  "category": "deutsch-regional",
+  "seoTitle": "Deutsches Haus Speisekarte Preise 2026 – Regionale Hausmannskost",
+  "metaDescription": "Aktuelle Deutsches Haus Speisekarte 2026 mit Preisen: Rinderbraten, Schnitzel, Fischgerichte, Pfannengerichte & deutsche Klassiker im Tabellen-Überblick.",
+  "hero_sub": "Gutbürgerliche Küche und herzhafte Hausmannskost: Alle traditionellen Gerichte und Preise.",
+  "quickAnswer": "Im Restaurant Deutsches Haus kostet ein herzhafter Sauerbraten mit Apfelrotkohl und Klößen ca. 18,90 €, ein Schnitzel 'Wiener Art' mit Bratkartoffeln ca. 15,50 € und hausgemachte Suppen starten bei 6,20 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Für Hausgäste ab 07:00 Uhr",
+    "hoursWeekend": "Ab 08:00 Uhr",
+    "note": "Klassisches deutsches Frühstücksbuffet."
+  },
+  "savingTips": [
+    "Tagesmenüs und Seniorenportionen bieten attraktive Preisnachlässe."
+  ],
+  "history": "Gaststätten mit dem Namen 'Deutsches Haus' blicken in ganz Deutschland auf über ein Jahrhundert Tradition bürgerlicher Gastlichkeit zurück.",
+  "menuCategories": [
+    {
+      "categoryName": "Regionale Spezialitäten & Braten",
+      "items": [
+        {
+          "name": "Rheinischer Sauerbraten mit Kartoffelklößen & Rotkohl",
+          "price": "18,90 €",
+          "calories": "3.450 kJ / 824 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Schnitzel 'Wiener Art' mit Bratkartoffeln & Preiselbeeren",
+          "price": "15,50 €",
+          "calories": "3.890 kJ / 929 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Gebratenes Zanderfilet auf Rahmgemüse",
+          "price": "19,50 €",
+          "calories": "2.680 kJ / 640 kcal",
+          "diet": "Fisch"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Welche Gerichte gibt es im Deutschen Haus?",
+      "a": "Typisch deutsche Klassiker wie Schnitzel, Rinderbraten, Sauerbraten und regionale Pfannengerichte."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "deutsches haus",
+    "speisekarte",
+    "preise"
+  ]
+}

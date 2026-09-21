@@ -1,0 +1,63 @@
+{
+  "slug": "dean-and-david-preise",
+  "name": "Dean & David",
+  "category": "fast-food",
+  "seoTitle": "Dean & David Speisekarte Preise 2026 – Salate, Bowls & Curries",
+  "metaDescription": "Aktuelle Dean & David Preise 2026: Frische Salate, Warm Bowls, Curries, Sandwiches & Smoothies im gesunden Tabellen-Überblick.",
+  "heroSubtitle": "Gesundes Fast Food mit Fokus auf Frische, Vitamine und Nachhaltigkeit.",
+  "quickAnswer": "Bei Dean & David kostet ein großer frischer Salat ca. 9,95 € bis 13,95 €, eine Warm Bowl liegt bei ca. 11,45 € bis 14,95 € und frisch gepresste Säfte / Smoothies kosten rund 4,95 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 08:30 Uhr geöffnet",
+    "hoursWeekend": "Ab 10:00 Uhr geöffnet",
+    "note": "Porridge, Chia Pudding und frische Säfte am Morgen."
+  },
+  "savingTips": [
+    "Bringe eine eigene wiederverwendbare Schüssel mit und erhalte 0,50 € Rabatt."
+  ],
+  "history": "Gegründet 2007 von David Baumgartner in München, entwickelte sich Dean & David zur führenden deutschen Kette für gesundes Fast-Casual-Essen.",
+  "menuCategories": [
+    {
+      "categoryName": "Salate & Bowls",
+      "items": [
+        {
+          "name": "Chicken Caesar Salad",
+          "price": "11,95 €",
+          "calories": "1.890 kJ / 451 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Avocado Superfood Salad",
+          "price": "12,45 €",
+          "calories": "1.750 kJ / 418 kcal",
+          "diet": "Vegan 🌱"
+        },
+        {
+          "name": "Salmon Avocado Bowl (Lachs, Quinoa, Edamame)",
+          "price": "14,95 €",
+          "calories": "2.680 kJ / 640 kcal",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Green Thai Curry mit Jasminreis",
+          "price": "10,95 €",
+          "calories": "2.350 kJ / 561 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet ein Salat bei Dean & David?",
+      "a": "Große Salate kosten je nach Topping zwischen 9,95 € und 13,95 €."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "dean & david",
+    "preise",
+    "speisekarte"
+  ]
+}

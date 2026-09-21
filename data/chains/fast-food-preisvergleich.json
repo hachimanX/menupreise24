@@ -1,0 +1,82 @@
+{
+  "slug": "fast-food-preisvergleich",
+  "name": "Großer Fast Food Preisvergleich 2026",
+  "category": "fast-food",
+  "seoTitle": "Fast Food Preisvergleich 2026 – McDonald's vs. Burger King & Co.",
+  "metaDescription": "Der große Fast Food Preisvergleich 2026 in Deutschland: Big Mac vs. Whopper, Nuggets, Pommes, Menüpreise & Spartipps im direkten Tabellen-Vergleich.",
+  "hero_sub": "Wer ist günstiger? Der direkte Vergleich zwischen McDonald's, Burger King, Subway, KFC und Five Guys.",
+  "quickAnswer": "Im direkten Vergleich 2026 ist McDonald's beim Standard-Burger mit 5,99 € (Big Mac) ca. 0,50 € günstiger als Burger King mit 6,49 € (Whopper). Bei den Sparmenüs punktet McDonald's mit dem McSmart Menü (5,99 €), während Burger King mit der King App und 2-für-1 Whopper Aktionen die stärksten Rabatte für Vielesser liefert. Five Guys liegt mit ca. 11,95 € pro Cheeseburger im gehobenen Preissegment.",
+  "priceLevel": "Vergleichs-Guide",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "-",
+    "hoursWeekend": "-",
+    "note": "Übersicht aller Ketten."
+  },
+  "savingTips": [
+    "Vergleiche stets die App-Coupons: McDonald's und Burger King bieten fast wöchentlich 2-für-1 Gutscheine.",
+    "Bei Subway bietet das 30cm Sub rund 25 % Ersparnis pro Zentimeter im Vergleich zu zwei 15cm Subs.",
+    "KFC Tuesday Bucket bietet das beste Preis-Leistungs-Verhältnis für Hähnchenteile."
+  ],
+  "history": "In den letzten 3 Jahren sind die Fast-Food-Preise in Deutschland inflationsbedingt um rund 18–25 % gestiegen. Verbraucher achten daher heute mehr denn je auf Rabatte, Apps und Sparmenüs.",
+  "menuCategories": [
+    {
+      "categoryName": "Direkter Burger- & Menü-Vergleich",
+      "items": [
+        {
+          "name": "Flaggschiff-Burger: Big Mac vs. Whopper",
+          "price": "McDonald's 5,99 € | Burger King 6,49 €",
+          "calories": "Big Mac: 505 kcal | Whopper: 642 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Standard Cheeseburger",
+          "price": "McDonald's 2,49 € | Burger King 2,49 €",
+          "calories": "McD: 302 kcal | BK: 306 kcal",
+          "diet": "Gleichstand"
+        },
+        {
+          "name": "Doppel-Cheeseburger",
+          "price": "McDonald's 3,99 € | Burger King 4,19 €",
+          "calories": "McD: 446 kcal | BK: 459 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Großes Standard-Menü (Burger + Pommes + 0,5l Drink)",
+          "price": "McDonald's 9,49 € | Burger King 9,79 €",
+          "calories": "ca. 900–950 kcal",
+          "diet": "Kombi"
+        },
+        {
+          "name": "20er Chicken Nuggets Box",
+          "price": "McDonald's 11,49 € | Burger King 11,29 €",
+          "calories": "McD: 864 kcal | BK: 915 kcal",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Kleine Pommes Frites",
+          "price": "McDonald's 2,49 € | Burger King 2,49 €",
+          "calories": "ca. 230–235 kcal",
+          "diet": "Vegan 🌱"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was ist günstiger: McDonald's oder Burger King?",
+      "a": "Bei Einzel-Klassikern ist McDonald's (Big Mac 5,99 €) minimal günstiger als Burger King (Whopper 6,49 €). Burger King bietet jedoch oft aggressivere 2-für-1 Gutscheine in der App."
+    },
+    {
+      "q": "Welche Kette hat das günstigste Sparmenü?",
+      "a": "Das McDonald's McSmart Menü für 5,99 € (2 Burger + Pommes + Drink) ist derzeit eines der preiswertesten Fast-Food-Kombi-Angebote in Deutschland."
+    }
+  ],
+  "tags": [
+    "vergleich",
+    "fast food",
+    "mcdonalds",
+    "burger king",
+    "preise"
+  ]
+}

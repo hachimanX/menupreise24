@@ -1,0 +1,57 @@
+{
+  "slug": "brauhaus-speisekarte",
+  "name": "Traditionelles Brauhaus",
+  "category": "deutsch-regional",
+  "seoTitle": "Brauhaus Speisekarte Preise 2026 – Haxe, Schnitzel & Bierpreise",
+  "meta_desc": "Aktuelle Brauhaus Speisekarte 2026: Knusprige Schweinshaxe, Brauhaus-Schnitzel, Weißwürste & Bierpreise im zünftigen Tabellen-Überblick.",
+  "hero_sub": "Zünftige Brauhausküche und frisch gebrautes Bier: Alle Speisen und Getränke im Preisvergleich.",
+  "quickAnswer": "In typischen deutschen Brauhäusern (z. B. Köln, München, Düsseldorf) kostet eine knusprige Schweinshaxe mit Sauerkraut und Knödeln ca. 18,90 € bis 22,50 €. Ein frisch gezapftes Bier (0,5 l bzw. Kölsch/Alt 0,2 l) liegt bei 2,40 € bis 5,20 €.",
+  "priceLevel": "€€ (Mittel)",
+  "breakfastInfo": {
+    "hasBreakfast": true,
+    "hoursWeekdays": "Ab 10:00 Uhr Weißwurstfrühstück",
+    "hoursWeekend": "Ab 09:30 Uhr Frühschoppen",
+    "note": "Frische Brezen und Weißwürste."
+  },
+  "savingTips": [
+    "Frühschoppen und Mittagstisch bieten oft reduzierte Getränke- und Essenspreise."
+  ],
+  "history": "Deutsche Brauhäuser sind seit Jahrhunderten der Mittelpunkt geselligen Lebens und verbinden Braukunst mit deftigen regionalen Spezialitäten.",
+  "menuCategories": [
+    {
+      "categoryName": "Brauhaus Schmankerl & Haxen",
+      "items": [
+        {
+          "name": "Ganze knusprige Schweinshaxe mit Biersauce & Knödel",
+          "price": "21,50 €",
+          "calories": "4.890 kJ / 1.168 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Braumeister-Schnitzel mit Röstzwiebeln & Bratkartoffeln",
+          "price": "16,90 €",
+          "calories": "3.950 kJ / 944 kcal",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Himmel un Ääd (Blutwurst, Kartoffelstampf, Apfelkompott)",
+          "price": "14,50 €",
+          "calories": "2.890 kJ / 690 kcal",
+          "diet": "Schwein"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet eine Haxe im Brauhaus?",
+      "a": "Eine ganze Grill-Schweinshaxe mit Beilagen kostet 2026 im Schnitt ca. 21,50 €."
+    }
+  ],
+  "tags": [
+    "deutsch-regional",
+    "brauhaus",
+    "speisekarte",
+    "preise"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "speisekarten-portal",
+  "version": "1.0.0",
+  "description": "Deutschlands aktuellste Speisekarten und Preisverzeichnisse für Fast Food & Restaurants",
+  "main": "src/scripts/build.js",
+  "scripts": {
+    "build": "node src/scripts/build.js",
+    "serve": "npx serve dist -l 3000",
+    "dev": "node src/scripts/build.js && npx serve dist -l 3000"
+  },
+  "keywords": [
+    "speisekarte",
+    "preise",
+    "mcdonalds",
+    "burger king",
+    "deutsche bahn",
+    "fast food",
+    "deutschland"
+  ],
+  "author": "SpeisekartenPreise",
+  "license": "MIT"
+}

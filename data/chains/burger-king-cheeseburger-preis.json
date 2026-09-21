@@ -1,0 +1,63 @@
+{
+  "slug": "burger-king-cheeseburger-preis",
+  "name": "Burger King Cheeseburger",
+  "category": "fast-food",
+  "seoTitle": "Burger King Cheeseburger Preis 2026 – Einzeln & im Menü",
+  "metaDescription": "Was kostet ein Cheeseburger bei Burger King 2026? Aktueller Preis, Kalorien, Zutaten und Doppel-Cheeseburger im Tabellen-Überblick.",
+  "heroSubtitle": "Der beliebte Snack-Klassiker: Preisentwicklung, Kalorien und Vergleiche.",
+  "quickAnswer": "Ein einfacher Cheeseburger bei Burger King kostet 2026 ca. 2,49 €. Der Double Cheeseburger liegt bei etwa 4,19 € und der Chili Cheese Burger bei rund 2,99 €.",
+  "priceLevel": "€ (Günstig)",
+  "breakfastInfo": {
+    "hasBreakfast": false,
+    "hoursWeekdays": "Ab 10:30 Uhr",
+    "hoursWeekend": "Ab 11:00 Uhr",
+    "note": "Ab Ende des Frühstücks verfügbar."
+  },
+  "savingTips": [
+    "2 Cheeseburger kosten oft weniger als ein einzelner mittlerer Burger und bieten mehr Fleisch."
+  ],
+  "history": "Der Cheeseburger ist seit den Anfangstagen von Burger King einer der meistverkauften Artikel weltweit.",
+  "menuCategories": [
+    {
+      "categoryName": "Cheeseburger Varianten",
+      "items": [
+        {
+          "name": "Cheeseburger Standard",
+          "price": "2,49 €",
+          "calories": "1.280 kJ / 306 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Double Cheeseburger",
+          "price": "4,19 €",
+          "calories": "1.920 kJ / 459 kcal",
+          "diet": "Rind"
+        },
+        {
+          "name": "Chili Cheese Burger",
+          "price": "2,99 €",
+          "calories": "1.340 kJ / 320 kcal",
+          "diet": "Pikant"
+        },
+        {
+          "name": "Bacon Cheeseburger",
+          "price": "2,99 €",
+          "calories": "1.490 kJ / 356 kcal",
+          "diet": "Rind/Bacon"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie viel kostet ein Cheeseburger bei Burger King?",
+      "a": "Aktuell kostet der einfache Cheeseburger ca. 2,49 € in Deutschland."
+    }
+  ],
+  "tags": [
+    "fast-food",
+    "burger king cheeseburger",
+    "preise",
+    "speisekarte"
+  ]
+}
