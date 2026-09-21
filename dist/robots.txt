@@ -14,4 +14,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://speisekartenpreise.de/sitemap.xml
+Sitemap: https://menupreise24.de/sitemap.xml
