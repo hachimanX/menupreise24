@@ -2,249 +2,142 @@
   "slug": "burger-king-preise",
   "name": "Burger King",
   "category": "fast-food",
-  "seoTitle": "Burger King Preise 2026 – Aktuelle Menü Preisliste",
-  "metaDescription": "Aktuelle Burger King Preise 2026 in Deutschland: Whopper, King Menü, Cheeseburger, King Box, Plant-based Burger & Getränke mit Kalorien im Tabellen-Überblick.",
-  "heroSubtitle": "Alle Burger King Preise, Whopper-Varianten, Spar-Coupons und Kalorienangaben auf einen Blick.",
-  "quickAnswer": "Bei Burger King Deutschland kostet der klassische Whopper 2026 einzeln ca. 6,49 € und im King Menü rund 9,79 €. Ein einfacher Cheeseburger liegt bei 2,49 €, während der beliebte Big King ca. 5,49 € kostet. Alle Rindfleisch-Burger gibt es bei Burger King auch als 100% pflanzliche 'Plant-based' Variante zum identischen Preis.",
-  "priceLevel": "€€ (Günstig bis Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": true,
-    "hoursWeekdays": "Mo – Fr: 06:00 – 10:30 Uhr",
-    "hoursWeekend": "Sa – So: 06:00 – 11:00 Uhr",
-    "note": "Nicht alle Filialen bieten das King Breakfast an. Autobahn- und Innenstadt-Restaurants führen die Frühstückskarte am verlässlichsten."
+  "seoTitle": "Burger King Preise 2026: Speisekarte & Menü",
+  "metaDescription": "Burger King Speisekarte mit Preisen, geprüft am 16.10.2026: Whopper 8,49 €, Cheeseburger 3,99 €, Crispy Chicken 7,59 €, Big King XXL 11,69 €, dazu der Baby Burger.",
+  "heroSubtitle": "Die Burger King Preisliste aus einer Berliner Filiale, von Hamburger bis Bacon King, dazu Menüs, Nuggets und Desserts.",
+  "quickAnswerTitle": "Kurz gesagt: Was kostet was bei Burger King?",
+  "quickAnswer": "In der Filiale Burger King Berlin Holzhauser Straße kostet über Uber Eats der Hamburger 2,99 €, der Cheeseburger 3,99 € und der Whopper 8,49 €. Das Whopper KING Menü liegt bei 13,19 €. Crispy Chicken und Long Chicken kosten je 7,59 €, der Big King XXL 11,69 €. Das sind Lieferpreise. Im Restaurant und in der App ist es meistens günstiger.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Burger King in Berlin (Filiale Holzhauser Str.)",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/burger-king",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    },
+    {
+      "label": "watson.de: Preis für Baby Burger",
+      "url": "https://www.watson.de/leben/geld-shopping/437456523-burger-king-neuheit-preis-fuer-baby-burger-verdirbt-kunden-den-appetit",
+      "note": "vom 12.03.2026"
+    },
+    {
+      "label": "Burger King Deutschland: Pressemitteilung Baby Burger",
+      "url": "https://www.burgerking.de/pm-babyburger",
+      "note": "Start am 10.03.2026"
+    }
+  ],
+  "priceNote": "Burger King veröffentlicht keine Preisliste für ganz Deutschland, die Restaurants legen ihre Preise selbst fest. Die Tabelle zeigt eine Filiale auf Uber Eats. Andere Filialen und Bestellwege können günstiger oder teurer sein.",
+  "priceLevel": "€ (Günstig)",
+  "infoBox": {
+    "title": "🍔 Baby Burger: Was kostet die Box?",
+    "lines": [
+      "Seit dem 10. März 2026 verkauft Burger King eine Box mit drei Mini-Burgern: Baby Whopper, Baby Big King und Baby Steakhouse, solange der Vorrat reicht.",
+      "Laut watson.de zahlte ein Food-Blogger in der Filiale 9,99 € für die Box, ein anderer per Lieferung 11,49 €. In der Berliner Filiale aus unserer Tabelle war die Box am 16.10.2026 nicht mehr auf der Lieferkarte."
+    ]
   },
   "savingTips": [
-    "In der Burger King App gibt es dauerhaft 2-für-1 Whopper Coupons und King Finder Rabatte, die bis zu 40 % sparen.",
-    "Die King Selection Angebote und die 'King des Monats' Aktionen bieten zeitweise wechselnde Premium-Burger zum Aktionspreis.",
-    "Gutscheinbögen (Papier oder digital) enthalten Rabattcodes (Plu-Nummern), die auch am Drive-In oder am Self-Order-Terminal direkt eingegeben werden können."
+    "Vor jeder Bestellung lohnt ein Blick in die Burger King App, dort gibt es Coupons.",
+    "Für den kleinen Hunger reicht der Whopper Jr. für 5,99 € statt 8,49 € für den Whopper.",
+    "Getränke sind bei Burger King günstiger als bei McDonald's: Die Cola (0,5 l) kostet hier 2,99 € plus Pfand, bei McDonald's per Lieferung 4,39 €."
   ],
-  "history": "Burger King wurde 1954 in Miami (USA) gegründet. Das erste deutsche Burger King Restaurant eröffnete 1976 am Kurfürstendamm in Berlin. Heute gibt es in Deutschland über 750 Burger King Restaurants, berühmt für die Zubereitung des Rindfleischs auf offener Flamme ('Flame-grilled').",
+  "history": "Burger King wurde 1954 in Miami gegründet und ist für seine flammengegrillten Burger bekannt. In Deutschland betreiben Franchisenehmer die Restaurants und legen die Preise selbst fest. Viele Burger gibt es auch als Plant-based-Variante, jeweils 10 Cent günstiger als das Original: Der Plant-based Whopper kostet in der Berliner Filiale 8,39 €, der Plant-based Cheeseburger 3,89 €.",
   "menuCategories": [
     {
-      "categoryName": "Flame-Grilled Burger & Whopper",
+      "categoryName": "Burger",
       "items": [
-        {
-          "name": "Whopper",
-          "price": "6,49 €",
-          "calories": "2.685 kJ / 642 kcal",
-          "diet": "Flame-Grilled Rind"
-        },
-        {
-          "name": "Double Whopper",
-          "price": "8,49 €",
-          "calories": "3.750 kJ / 896 kcal",
-          "diet": "Flame-Grilled Rind"
-        },
-        {
-          "name": "Whopper Jr.",
-          "price": "3,89 €",
-          "calories": "1.465 kJ / 350 kcal",
-          "diet": "Flame-Grilled Rind"
-        },
-        {
-          "name": "Big King",
-          "price": "5,49 €",
-          "calories": "2.220 kJ / 531 kcal",
-          "diet": "Rindfleisch"
-        },
-        {
-          "name": "Big King XXL",
-          "price": "8,79 €",
-          "calories": "4.150 kJ / 992 kcal",
-          "diet": "Rindfleisch"
-        },
-        {
-          "name": "Bacon King",
-          "price": "8,69 €",
-          "calories": "4.380 kJ / 1.047 kcal",
-          "diet": "Rind & Bacon"
-        },
-        {
-          "name": "Cheeseburger",
-          "price": "2,49 €",
-          "calories": "1.280 kJ / 306 kcal",
-          "diet": "Rindfleisch"
-        },
-        {
-          "name": "Double Cheeseburger",
-          "price": "4,19 €",
-          "calories": "1.920 kJ / 459 kcal",
-          "diet": "Rindfleisch"
-        },
-        {
-          "name": "Chili Cheese Burger",
-          "price": "2,99 €",
-          "calories": "1.340 kJ / 320 kcal",
-          "diet": "Pikant"
-        },
-        {
-          "name": "X-Tra Long Chili Cheese",
-          "price": "6,99 €",
-          "calories": "3.310 kJ / 791 kcal",
-          "diet": "Pikant"
-        }
+        { "name": "Hamburger", "price": "2,99 €", "diet": "Rind" },
+        { "name": "Chicken Nugget Burger", "price": "3,89 €", "diet": "Geflügel" },
+        { "name": "Cheeseburger", "price": "3,99 €", "diet": "Rind" },
+        { "name": "Chili Cheese Burger", "price": "3,99 €", "diet": "Rind" },
+        { "name": "Whopper Jr.", "price": "5,99 €", "diet": "Rind" },
+        { "name": "Double Cheeseburger", "price": "6,29 €", "diet": "Rind" },
+        { "name": "Double Chili Cheese Burger", "price": "6,29 €", "diet": "Rind" },
+        { "name": "Crispy Chicken", "price": "7,59 €", "diet": "Geflügel" },
+        { "name": "Long Chicken", "price": "7,59 €", "diet": "Geflügel" },
+        { "name": "Big King", "price": "7,89 €", "diet": "Rind" },
+        { "name": "Whopper", "price": "8,49 €", "diet": "Rind" },
+        { "name": "Double Crispy Chicken", "price": "9,59 €", "diet": "Geflügel" },
+        { "name": "Double Long Chicken", "price": "9,99 €", "diet": "Geflügel" },
+        { "name": "X-tra Long Chili Cheese", "price": "9,99 €", "diet": "Rind" },
+        { "name": "King's Steakhouse", "price": "10,69 €", "diet": "Rind" },
+        { "name": "Double Whopper", "price": "11,39 €", "diet": "Rind" },
+        { "name": "Big King XXL", "price": "11,69 €", "diet": "Rind" },
+        { "name": "Bacon King", "price": "12,19 €", "diet": "Rind" }
       ]
     },
     {
-      "categoryName": "Plant-Based (100% pflanzlicher Geschmack)",
+      "categoryName": "Plant-based",
       "items": [
-        {
-          "name": "Plant-based Whopper",
-          "price": "6,49 €",
-          "calories": "2.510 kJ / 600 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "Plant-based Long Chicken",
-          "price": "5,99 €",
-          "calories": "2.380 kJ / 569 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "Plant-based Big King",
-          "price": "5,49 €",
-          "calories": "2.150 kJ / 514 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "Plant-based Nuggets (6er)",
-          "price": "4,99 €",
-          "calories": "1.120 kJ / 268 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "Plant-based Nuggets (9er)",
-          "price": "6,79 €",
-          "calories": "1.680 kJ / 402 kcal",
-          "diet": "Vegan 🌱"
-        }
+        { "name": "Plant-based Hamburger", "price": "2,89 €", "diet": "Pflanzlich" },
+        { "name": "Plant-based Cheeseburger", "price": "3,89 €", "diet": "Pflanzlich" },
+        { "name": "Plant-based Long Chicken", "price": "7,49 €", "diet": "Pflanzlich" },
+        { "name": "Plant-based Whopper", "price": "8,39 €", "diet": "Pflanzlich" },
+        { "name": "Plant-based Nuggets 6 / 9 / 20", "price": "6,79 € / 8,59 € / 12,79 €", "diet": "Pflanzlich" }
       ]
     },
     {
-      "categoryName": "Chicken & Fingerfood",
+      "categoryName": "KING Menüs & Kinder",
       "items": [
-        {
-          "name": "Long Chicken",
-          "price": "5,99 €",
-          "calories": "2.410 kJ / 576 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "Crispy Chicken",
-          "price": "5,69 €",
-          "calories": "2.180 kJ / 521 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "King Nuggets 6er",
-          "price": "4,99 €",
-          "calories": "1.150 kJ / 275 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "King Nuggets 9er",
-          "price": "6,79 €",
-          "calories": "1.725 kJ / 412 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "King Nuggets 20er",
-          "price": "11,29 €",
-          "calories": "3.830 kJ / 915 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "Chili Cheese Nuggets (6er)",
-          "price": "4,89 €",
-          "calories": "1.380 kJ / 330 kcal",
-          "diet": "Vegetarisch / Scharf"
-        },
-        {
-          "name": "Onion Rings (6er)",
-          "price": "3,49 €",
-          "calories": "1.090 kJ / 260 kcal",
-          "diet": "Vegan 🌱"
-        }
+        { "name": "Double Cheeseburger KING Menü", "price": "10,99 €", "diet": "" },
+        { "name": "Big King KING Menü", "price": "12,59 €", "diet": "" },
+        { "name": "Whopper KING Menü", "price": "13,19 €", "diet": "" },
+        { "name": "Double Whopper KING Menü", "price": "16,09 €", "diet": "" },
+        { "name": "Big King XXL KING Menü", "price": "16,39 €", "diet": "" },
+        { "name": "King Jr. Meal (Hamburger, Cheeseburger oder Nuggets)", "price": "6,89 €", "diet": "" },
+        { "name": "Burger Duo", "price": "17,99 €", "diet": "" },
+        { "name": "Family Party", "price": "29,99 €", "diet": "" }
       ]
     },
     {
-      "categoryName": "King Pommes & Saucen",
+      "categoryName": "Nuggets, Chicken & Beilagen",
       "items": [
-        {
-          "name": "King Pommes Klein",
-          "price": "2,49 €",
-          "calories": "980 kJ / 234 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "King Pommes Mittel",
-          "price": "3,59 €",
-          "calories": "1.410 kJ / 337 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "King Pommes Groß",
-          "price": "4,19 €",
-          "calories": "1.890 kJ / 452 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "Chili Cheese Fries",
-          "price": "4,99 €",
-          "calories": "2.150 kJ / 514 kcal",
-          "diet": "Pikant"
-        }
+        { "name": "King Nuggets 6 / 9 / 20", "price": "6,89 € / 8,69 € / 12,89 €", "diet": "Geflügel" },
+        { "name": "Chili Cheese Nuggets 6 / 9 / 20", "price": "6,89 € / 8,69 € / 12,89 €", "diet": "" },
+        { "name": "Chicken Tenders 2 / 4 / 8", "price": "3,79 € / 7,29 € / 13,99 €", "diet": "Geflügel" },
+        { "name": "Flame Wings 6 / 9 / 15", "price": "8,19 € / 10,69 € / 15,99 €", "diet": "Geflügel" },
+        { "name": "King Pommes", "price": "4,99 €", "diet": "" },
+        { "name": "Curly Fries", "price": "5,19 €", "diet": "" },
+        { "name": "Onion Rings 6 / 9", "price": "4,49 € / 5,39 €", "diet": "Vegetarisch" },
+        { "name": "King Salat", "price": "6,19 €", "diet": "" },
+        { "name": "Ketchup oder Sauce", "price": "0,70 €", "diet": "" }
       ]
     },
     {
-      "categoryName": "Desserts & King Shakes",
+      "categoryName": "Desserts & Getränke",
       "items": [
-        {
-          "name": "King Fusion (Oreo / KitKat)",
-          "price": "4,49 €",
-          "calories": "1.820 kJ / 435 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "King Sundae Schoko / Karamell",
-          "price": "2,49 €",
-          "calories": "1.190 kJ / 284 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "Hot Brownie mit Eis",
-          "price": "3,99 €",
-          "calories": "2.100 kJ / 502 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "King Shake Vanille / Erdbeer / Schoko (0,4 l)",
-          "price": "3,79 €",
-          "calories": "1.710 kJ / 409 kcal",
-          "diet": "Vegetarisch"
-        }
+        { "name": "Donut", "price": "2,99 €", "diet": "Vegetarisch" },
+        { "name": "Hot Brownie / Hot Blondie", "price": "4,59 €", "diet": "Vegetarisch" },
+        { "name": "Churros (15 Stück)", "price": "4,99 € bis 5,19 €", "diet": "Vegetarisch" },
+        { "name": "Ben & Jerry's (465 ml)", "price": "7,79 €", "diet": "Vegetarisch" },
+        { "name": "Coca-Cola / Coca-Cola Zero 0,5 l (zzgl. 0,25 € Pfand)", "price": "2,99 €", "diet": "" }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet ein Whopper bei Burger King 2026?",
-      "a": "Ein einzelner Whopper kostet in Deutschland durchschnittlich 6,49 €. Im King Menü (mit King Pommes und Softdrink) liegt der Preis bei ca. 9,79 €."
+      "q": "Was kostet ein Whopper bei Burger King?",
+      "a": "In der Filiale Berlin Holzhauser Straße kostet der Whopper über Uber Eats 8,49 €, als KING Menü 13,19 € (Stand 16.10.2026). Der Whopper Jr. kostet 5,99 €, der Double Whopper 11,39 €."
     },
     {
-      "q": "Was ist der Unterschied zwischen Big King und Big Mac?",
-      "a": "Beide Burger haben zwei Rindfleisch-Patties und eine charakteristische Sauce. Der Big King von Burger King zeichnet sich durch flame-grilled Patties, würzige Essiggurken und King Sauce aus, während der Big Mac ein zusätzliches Mittelbrötchen besitzt."
+      "q": "Was kostet ein Cheeseburger bei Burger King?",
+      "a": "Der Cheeseburger kostet in dieser Filiale 3,99 €, der Hamburger 2,99 € und der Double Cheeseburger 6,29 €."
     },
     {
-      "q": "Sind Plant-based Produkte bei Burger King teurer?",
-      "a": "Nein. Burger King verfolgt in Deutschland das Prinzip 'Plant-based zum gleichen Preis'. Ein Plant-based Whopper kostet exakt gleich viel wie der Fleisch-Whopper."
+      "q": "Was kostet der Baby Burger bei Burger King?",
+      "a": "Die Box mit drei Mini-Burgern kostete laut watson.de im März 2026 in einer Filiale 9,99 € und per Lieferung 11,49 €. Burger King verkauft sie nur, solange der Vorrat reicht."
     },
     {
-      "q": "Wo gibt es die besten Burger King Coupons?",
-      "a": "Die offiziellen und tagesaktuellen Rabatte findest du direkt in der Burger King Deutschland App sowie auf regelmäßig erscheinenden Papier-Gutscheinbögen."
+      "q": "Was kostet das Crispy Chicken bei Burger King?",
+      "a": "Crispy Chicken kostet 7,59 €, Double Crispy Chicken 9,59 € (Berlin Holzhauser Straße, Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Was kostet der Big King XXL?",
+      "a": "Der Big King XXL kostet 11,69 €, als KING Menü 16,39 €. Der normale Big King liegt bei 7,89 €."
+    },
+    {
+      "q": "Was kostet ein King Jr. Meal?",
+      "a": "Das King Jr. Meal kostet 6,89 € mit Hamburger, Cheeseburger, Ketchup Nugget Burger oder King Nuggets. Die Plant-based-Varianten kosten 6,79 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "fast-food",
     "burger king",
