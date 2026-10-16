@@ -30,6 +30,8 @@ console.log(`Loaded ${chains.length} chain records and ${categories.length} cate
 // linked. Unverified pages still render for old links but carry noindex.
 const verifiedChains = chains.filter(c => c.pricesCheckedAt);
 const isLive = slug => verifiedChains.some(c => c.slug === slug);
+// Ads only render once a real AdSense publisher ID replaces the placeholder.
+const hasAdSense = !!siteMeta.adSenseId && !/X{4}/.test(siteMeta.adSenseId);
 const liveCategories = categories.filter(cat => verifiedChains.some(c => c.category === cat.slug));
 console.log(`${verifiedChains.length} of ${chains.length} chain pages have verified prices.`);
 
@@ -125,9 +127,9 @@ function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/assets/css/styles.css">
   
-  <!-- Google AdSense (Auto Ads & Preconnect) -->
+  ${hasAdSense ? `<!-- Google AdSense (Auto Ads & Preconnect) -->
   <link rel="preconnect" href="https://pagead2.googlesyndication.com">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteMeta.adSenseId}" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteMeta.adSenseId}" crossorigin="anonymous"></script>` : ''}
 
   ${schemasHtml}
 </head>
@@ -313,7 +315,7 @@ function renderChainPage(chain) {
   chain.menuCategories.forEach((cat, index) => {
     // Inject responsive ad slot after 1st and 3rd category table
     let adHtml = '';
-    if (index === 0 || index === 2) {
+    if (hasAdSense && (index === 0 || index === 2)) {
       adHtml = `
         <div class="ad-slot-wrapper">
           <span class="ad-label">Anzeige / Werbepartner</span>
