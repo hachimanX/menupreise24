@@ -1,82 +1,99 @@
 {
   "slug": "fast-food-preisvergleich",
-  "name": "Großer Fast Food Preisvergleich 2026",
+  "name": "Fast Food Preisvergleich",
   "category": "fast-food",
-  "seoTitle": "Fast Food Preisvergleich 2026 – McDonald's vs. Burger King & Co.",
-  "metaDescription": "Der große Fast Food Preisvergleich 2026 in Deutschland: Big Mac vs. Whopper, Nuggets, Pommes, Menüpreise & Spartipps im direkten Tabellen-Vergleich.",
-  "hero_sub": "Wer ist günstiger? Der direkte Vergleich zwischen McDonald's, Burger King, Subway, KFC und Five Guys.",
-  "quickAnswer": "Im direkten Vergleich 2026 ist McDonald's beim Standard-Burger mit 5,99 € (Big Mac) ca. 0,50 € günstiger als Burger King mit 6,49 € (Whopper). Bei den Sparmenüs punktet McDonald's mit dem McSmart Menü (5,99 €), während Burger King mit der King App und 2-für-1 Whopper Aktionen die stärksten Rabatte für Vielesser liefert. Five Guys liegt mit ca. 11,95 € pro Cheeseburger im gehobenen Preissegment.",
-  "priceLevel": "Vergleichs-Guide",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "-",
-    "hoursWeekend": "-",
-    "note": "Übersicht aller Ketten."
+  "schemaType": null,
+  "seoTitle": "McDonald's oder Burger King: Wer ist günstiger?",
+  "metaDescription": "McDonald's oder Burger King, was ist günstiger? Preisvergleich vom 16.10.2026: Big Mac 7,69 € vs. Whopper 8,49 €, Cheeseburger 3,19 € vs. 3,99 €, Menüs, Nuggets, Cola.",
+  "heroSubtitle": "Wir haben die Preise von McDonald's und Burger King in Berlin am selben Tag auf Uber Eats verglichen, Produkt für Produkt.",
+  "quickAnswerTitle": "Kurz gesagt: Wer ist günstiger?",
+  "quickAnswer": "Bei einzelnen Burgern war McDonald's in unserem Vergleich günstiger: Cheeseburger 3,19 € statt 3,99 €, Big Mac 7,69 € gegen Whopper 8,49 €. Burger King lag bei den Menüs vorn: Das Whopper KING Menü kostete 13,19 €, das Big Mac McMenü 13,99 €. Auch 20 Nuggets und Cola waren bei Burger King billiger. Verglichen haben wir je eine Berliner Filiale auf Uber Eats am 16.10.2026.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: McDonald's in Berlin (Filiale Bitterfelder Str.)",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/mcdonalds",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    },
+    {
+      "label": "Uber Eats: Burger King in Berlin (Filiale Holzhauser Str.)",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/burger-king",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    },
+    {
+      "label": "Uber Eats: Subway Berlin Adlershof und Nordsee Berlin Forum Köpenick",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/subway",
+      "note": "für die Tabelle mit der günstigsten Mahlzeit, abgerufen am 16.10.2026"
+    }
+  ],
+  "priceNote": "Alle Preise sind Lieferpreise je einer Filiale. Im Restaurant und in der App sind sie oft niedriger, und in anderen Städten können die Abstände anders ausfallen. Bei Burger King kommt auf die Cola noch 0,25 € Pfand dazu.",
+  "priceLevel": "Vergleich",
+  "infoBox": {
+    "title": "⚖️ So haben wir verglichen",
+    "lines": [
+      "Beide Ketten haben wir am 16.10.2026 auf Uber Eats in Berlin geprüft, damit in beiden Preisen dieselbe Art Lieferaufschlag steckt.",
+      "Verglichen werden Produkte, die sich direkt gegenüberstellen lassen, etwa Big Mac und Whopper oder die Nuggets-Boxen in gleicher Stückzahl."
+    ]
   },
   "savingTips": [
-    "Vergleiche stets die App-Coupons: McDonald's und Burger King bieten fast wöchentlich 2-für-1 Gutscheine.",
-    "Bei Subway bietet das 30cm Sub rund 25 % Ersparnis pro Zentimeter im Vergleich zu zwei 15cm Subs.",
-    "KFC Tuesday Bucket bietet das beste Preis-Leistungs-Verhältnis für Hähnchenteile."
+    "Wer nur einen Burger will, war bei McDonald's günstiger. Wer ein ganzes Menü bestellt, sollte bei Burger King nachsehen.",
+    "Ein Getränk einzeln dazuzukaufen ist bei McDonald's teuer: Die 0,5-l-Cola kostete 4,39 €, bei Burger King 2,99 € plus Pfand.",
+    "Beide Ketten haben Coupons in ihren Apps, die auf viele dieser Preise noch einen Rabatt geben."
   ],
-  "history": "In den letzten 3 Jahren sind die Fast-Food-Preise in Deutschland inflationsbedingt um rund 18–25 % gestiegen. Verbraucher achten daher heute mehr denn je auf Rabatte, Apps und Sparmenüs.",
+  "history": "Wer günstiger ist, hängt stark davon ab, was man bestellt. Der Hamburger kostete bei beiden 2,99 €. Beim Double Cheeseburger lag McDonald's mit 4,99 € deutlich unter Burger King mit 6,29 €. Bei den Nuggets dreht sich das Bild mit der Größe: 6 und 9 Stück waren bei McDonald's etwas billiger, die 20er-Box bei Burger King (12,89 € statt 13,49 €).",
   "menuCategories": [
     {
-      "categoryName": "Direkter Burger- & Menü-Vergleich",
+      "categoryName": "Burger: McDonald's gegen Burger King",
       "items": [
-        {
-          "name": "Flaggschiff-Burger: Big Mac vs. Whopper",
-          "price": "McDonald's 5,99 € | Burger King 6,49 €",
-          "calories": "Big Mac: 505 kcal | Whopper: 642 kcal",
-          "diet": "Rind"
-        },
-        {
-          "name": "Standard Cheeseburger",
-          "price": "McDonald's 2,49 € | Burger King 2,49 €",
-          "calories": "McD: 302 kcal | BK: 306 kcal",
-          "diet": "Gleichstand"
-        },
-        {
-          "name": "Doppel-Cheeseburger",
-          "price": "McDonald's 3,99 € | Burger King 4,19 €",
-          "calories": "McD: 446 kcal | BK: 459 kcal",
-          "diet": "Rind"
-        },
-        {
-          "name": "Großes Standard-Menü (Burger + Pommes + 0,5l Drink)",
-          "price": "McDonald's 9,49 € | Burger King 9,79 €",
-          "calories": "ca. 900–950 kcal",
-          "diet": "Kombi"
-        },
-        {
-          "name": "20er Chicken Nuggets Box",
-          "price": "McDonald's 11,49 € | Burger King 11,29 €",
-          "calories": "McD: 864 kcal | BK: 915 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "Kleine Pommes Frites",
-          "price": "McDonald's 2,49 € | Burger King 2,49 €",
-          "calories": "ca. 230–235 kcal",
-          "diet": "Vegan 🌱"
-        }
+        { "name": "Hamburger", "price": "McDonald's 2,99 € · Burger King 2,99 €", "diet": "Gleich" },
+        { "name": "Cheeseburger", "price": "McDonald's 3,19 € · Burger King 3,99 €", "diet": "McDonald's günstiger" },
+        { "name": "Double Cheeseburger", "price": "McDonald's 4,99 € · Burger King 6,29 €", "diet": "McDonald's günstiger" },
+        { "name": "Big Mac gegen Whopper", "price": "McDonald's 7,69 € · Burger King 8,49 €", "diet": "McDonald's günstiger" },
+        { "name": "McChicken gegen Long Chicken", "price": "McDonald's 7,29 € · Burger King 7,59 €", "diet": "McDonald's günstiger" }
+      ]
+    },
+    {
+      "categoryName": "Menüs, Nuggets & Getränke",
+      "items": [
+        { "name": "Big Mac McMenü gegen Whopper KING Menü", "price": "McDonald's 13,99 € · Burger King 13,19 €", "diet": "Burger King günstiger" },
+        { "name": "6 Nuggets", "price": "McDonald's 6,49 € · Burger King 6,89 €", "diet": "McDonald's günstiger" },
+        { "name": "9 Nuggets", "price": "McDonald's 8,49 € · Burger King 8,69 €", "diet": "McDonald's günstiger" },
+        { "name": "20 Nuggets", "price": "McDonald's 13,49 € · Burger King 12,89 €", "diet": "Burger King günstiger" },
+        { "name": "Coca-Cola 0,5 l", "price": "McDonald's 4,39 € · Burger King 2,99 € + Pfand", "diet": "Burger King günstiger" }
+      ]
+    },
+    {
+      "categoryName": "Günstigste Mahlzeit je Kette (Berlin, Uber Eats)",
+      "items": [
+        { "name": "McDonald's: Hamburger", "price": "2,99 €", "diet": "" },
+        { "name": "Burger King: Hamburger", "price": "2,99 €", "diet": "" },
+        { "name": "Subway: Veggie Delite Sub", "price": "5,49 €", "diet": "Vegetarisch" },
+        { "name": "Nordsee: Backfisch-Baguette", "price": "5,79 €", "diet": "Fisch" }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was ist günstiger: McDonald's oder Burger King?",
-      "a": "Bei Einzel-Klassikern ist McDonald's (Big Mac 5,99 €) minimal günstiger als Burger King (Whopper 6,49 €). Burger King bietet jedoch oft aggressivere 2-für-1 Gutscheine in der App."
+      "q": "Was ist günstiger, McDonald's oder Burger King?",
+      "a": "Das hängt von der Bestellung ab. In unserem Vergleich vom 16.10.2026 war McDonald's bei einzelnen Burgern günstiger (Cheeseburger 3,19 € statt 3,99 €). Burger King war bei Menüs, großen Nuggets-Boxen und Getränken günstiger (Whopper KING Menü 13,19 € statt 13,99 € für das Big Mac McMenü)."
     },
     {
-      "q": "Welche Kette hat das günstigste Sparmenü?",
-      "a": "Das McDonald's McSmart Menü für 5,99 € (2 Burger + Pommes + Drink) ist derzeit eines der preiswertesten Fast-Food-Kombi-Angebote in Deutschland."
+      "q": "Was kostet ein Big Mac im Vergleich zum Whopper?",
+      "a": "Der Big Mac kostete 7,69 €, der Whopper 8,49 € (je eine Berliner Filiale auf Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Wo ist der Cheeseburger am günstigsten?",
+      "a": "Bei McDonald's: 3,19 € gegenüber 3,99 € bei Burger King. Den einfachen Hamburger gab es bei beiden für 2,99 €."
+    },
+    {
+      "q": "Sind die Preise im Restaurant genauso hoch?",
+      "a": "Meistens nicht. Auf Lieferplattformen schlagen viele Filialen etwas auf. Für einen fairen Vergleich haben wir beide Ketten auf derselben Plattform am selben Tag geprüft."
     }
   ],
   "tags": [
-    "vergleich",
-    "fast food",
+    "fast-food",
+    "preisvergleich",
     "mcdonalds",
-    "burger king",
-    "preise"
+    "burger king"
   ]
 }

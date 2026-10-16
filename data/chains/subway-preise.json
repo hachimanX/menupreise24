@@ -2,122 +2,99 @@
   "slug": "subway-preise",
   "name": "Subway",
   "category": "fast-food",
-  "seoTitle": "Subway Preise Deutschland 2026 – 15cm & 30cm Footlong Preisliste",
-  "metaDescription": "Aktuelle Subway Preise 2026 in Deutschland: 15 cm Sub, 30 cm Footlong, Menü-Upgrades, Cookies & Salate mit allen Preisen im Tabellen-Überblick.",
-  "heroSubtitle": "Die komplette Subway Preisliste für 15cm Subs, 30cm Footlong Sandwiches, Wraps und Menüs in Deutschland.",
-  "quickAnswer": "Bei Subway Deutschland kostet ein 15 cm Sub 2026 durchschnittlich zwischen 5,99 € und 7,99 €, während das doppelt so große 30 cm Footlong Sub zwischen 9,99 € und 12,99 € liegt. Für ca. 3,20 € Aufpreis gibt es das Menü-Upgrade mit 0,5 l Softdrink und Cookie oder Chips.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Reguläre Öffnung meist ab 09:00 oder 10:00 Uhr",
-    "hoursWeekend": "Ab 10:00 Uhr geöffnet",
-    "note": "Ausgewählte Filialen bieten morgens belegte Toast-Sandwiches und frischen Kaffee an."
-  },
-  "savingTips": [
-    "Bestelle immer das 30 cm Footlong Sub, wenn du mit Freunden teilst – der Preis pro Zentimeter ist rund 25 % günstiger als bei zwei 15 cm Subs.",
-    "Der 'Sub des Tages' war lange Zeit der beste Spar-Tipp; heute bieten die meisten Filialen wechselnde Monats-Deals in der Subway Rewards App an.",
-    "Mit der Subway Rewards Karte sammelst du Punkte für Gratis-Subs und Cookies."
+  "seoTitle": "Subway Preise 2026: Preisliste mit Filialpreisen",
+  "metaDescription": "Subway Preisliste, geprüft am 16.10.2026 in einer Berliner Filiale: Veggie Delite ab 5,49 €, Chicken Teriyaki 7,69 €, Footlong Meal Deal 13,89 €.",
+  "heroSubtitle": "Subway Deutschland veröffentlicht keine einheitliche Preisliste, weil jede Filiale ihre Preise selbst festlegt. Die Preise auf dieser Seite stammen aus einer Berliner Filiale.",
+  "quickAnswerTitle": "Kurz gesagt: Was kostet ein Sub?",
+  "quickAnswer": "In der Filiale Subway Berlin Adlershof kostet über Uber Eats der Veggie Delite 5,49 €, Ham oder Salami 6,39 € und Tuna oder Italian B.M.T. 7,29 €. Chicken Teriyaki und Chicken Fajita kosten 7,69 €, The Philly Boss 8,49 €. Ein 6inch Meal Deal kostet 9,49 €, der Footlong Meal Deal 13,89 €. Lieferpreise liegen oft über den Preisen an der Theke.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Subway in Berlin (Filiale Berlin Adlershof)",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/subway",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    },
+    {
+      "label": "Lieferando: Subway Berlin Kurfürstendamm",
+      "url": "https://www.lieferando.de/subway-berlin-kurfuerstendamm",
+      "note": "Sparmenü-Preise laut Suchergebnis vom 16.10.2026"
+    }
   ],
-  "history": "Subway wurde 1965 von Fred DeLuca und Peter Buck in den USA gegründet. Die erste Filiale in Deutschland öffnete 1999 in Berlin. Heute gibt es rund 650 Subway-Standorte in Deutschland, die für individuell belegte Sandwiches auf frischem Brot bekannt sind.",
+  "priceNote": "Die Preise in der Tabelle sind die Einstiegspreise auf Uber Eats und gelten für diese eine Filiale. Andere Filialen verlangen mehr oder weniger, und im Laden ist es oft günstiger als per Lieferung. Die genaue Sub-Größe zum Einstiegspreis gibt Uber Eats nicht an.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Prüf vor der Bestellung die Subway App. Dort laufen die Coupons und Rabattaktionen der Filialen.",
+    "Ein Meal Deal ist günstiger als Sub, Getränk und Beilage einzeln. Beim Footlong liegt er in Berlin Adlershof bei 13,89 €.",
+    "Abholen statt liefern lassen: Auf Lieferplattformen schlagen viele Filialen einen Aufpreis auf."
+  ],
+  "history": "Subway wurde 1965 in den USA gegründet und betreibt seine Filialen als Franchise. In Deutschland legt deshalb jeder Franchisenehmer seine Preise selbst fest. Zwei Filialen in derselben Stadt können für dasselbe Sub unterschiedlich viel verlangen. So nennt Lieferando für Subway Berlin Kurfürstendamm ein Sparmenü mit 30-cm-Sub, Getränk und Beilage für 11,90 € und mit 15-cm-Sub für 8,40 €, während der Footlong Meal Deal in Adlershof auf Uber Eats 13,89 € kostet.",
   "menuCategories": [
     {
-      "categoryName": "Klassische Subs (15 cm & 30 cm Footlong)",
+      "categoryName": "Subs (Einstiegspreis)",
       "items": [
-        {
-          "name": "Italian B.M.T. (Salami, Peperoni, Schinken)",
-          "price": "6,99 € (15cm) | 11,49 € (30cm)",
-          "calories": "1.740 kJ / 416 kcal",
-          "diet": "Schwein/Rind"
-        },
-        {
-          "name": "Chicken Teriyaki",
-          "price": "7,49 € (15cm) | 12,29 € (30cm)",
-          "calories": "1.520 kJ / 363 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "Tuna (Thunfischcreme)",
-          "price": "6,79 € (15cm) | 11,19 € (30cm)",
-          "calories": "1.890 kJ / 452 kcal",
-          "diet": "Fisch"
-        },
-        {
-          "name": "Turkey, Ham & Bacon",
-          "price": "7,29 € (15cm) | 11,99 € (30cm)",
-          "calories": "1.610 kJ / 385 kcal",
-          "diet": "Kombination"
-        },
-        {
-          "name": "Philly Beef & Cheese",
-          "price": "7,99 € (15cm) | 12,99 € (30cm)",
-          "calories": "1.790 kJ / 428 kcal",
-          "diet": "Rindfleisch"
-        },
-        {
-          "name": "Spicy Italian",
-          "price": "6,49 € (15cm) | 10,79 € (30cm)",
-          "calories": "1.980 kJ / 473 kcal",
-          "diet": "Pikant"
-        },
-        {
-          "name": "Veggie Delite (Frisches Gemüse)",
-          "price": "5,49 € (15cm) | 8,99 € (30cm)",
-          "calories": "980 kJ / 234 kcal",
-          "diet": "Vegan 🌱"
-        },
-        {
-          "name": "Plant-based Teriyaki",
-          "price": "7,49 € (15cm) | 12,29 € (30cm)",
-          "calories": "1.580 kJ / 378 kcal",
-          "diet": "Vegan 🌱"
-        }
+        { "name": "Veggie Delite", "price": "5,49 €", "diet": "Vegetarisch" },
+        { "name": "Ham", "price": "6,39 €", "diet": "Schwein" },
+        { "name": "Salami", "price": "6,39 €", "diet": "Schwein" },
+        { "name": "Nacho Chicken Classic", "price": "7,19 €", "diet": "Geflügel" },
+        { "name": "Tuna", "price": "7,29 €", "diet": "Fisch" },
+        { "name": "Italian B.M.T.", "price": "7,29 €", "diet": "Schwein" },
+        { "name": "Spicy Vegan Patty", "price": "7,29 €", "diet": "Vegan" },
+        { "name": "Chicken Teriyaki", "price": "7,69 €", "diet": "Geflügel" },
+        { "name": "Plant-based Chicken Teriyaki", "price": "7,69 €", "diet": "Vegan" },
+        { "name": "Chicken Fajita", "price": "7,69 €", "diet": "Geflügel" },
+        { "name": "Chicken Tandoori", "price": "7,69 €", "diet": "Geflügel" },
+        { "name": "BBQ Rib", "price": "7,69 €", "diet": "Schwein" },
+        { "name": "Pulled Chicken Breast", "price": "8,19 €", "diet": "Geflügel" },
+        { "name": "The Philly Boss", "price": "8,49 €", "diet": "Rind" },
+        { "name": "Beef Texicana", "price": "8,49 €", "diet": "Rind" },
+        { "name": "Beef Chili", "price": "8,74 €", "diet": "Rind" },
+        { "name": "Fiesta Fajita", "price": "8,99 €", "diet": "Geflügel" },
+        { "name": "Furious Chicken", "price": "8,99 €", "diet": "Geflügel" }
       ]
     },
     {
-      "categoryName": "Menü-Upgrades & Beilagen",
+      "categoryName": "Meal Deals",
       "items": [
-        {
-          "name": "Menü-Upgrade (Sub + 0,5 l Drink + Cookie/Chips)",
-          "price": "+ 3,20 €",
-          "calories": "variiert",
-          "diet": "Menü"
-        },
-        {
-          "name": "Subway Cookie (Chocolate Chunk, White Choc Macadamia)",
-          "price": "1,49 €",
-          "calories": "920 kJ / 220 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "3er Cookie Box",
-          "price": "3,99 €",
-          "calories": "2.760 kJ / 660 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "Lay's Chips Beutel",
-          "price": "1,99 €",
-          "calories": "680 kJ / 162 kcal",
-          "diet": "Vegan 🌱"
-        }
+        { "name": "6inch Meal Deal", "price": "9,49 €", "diet": "Menü" },
+        { "name": "Wrap Meal Deal", "price": "9,49 €", "diet": "Menü" },
+        { "name": "Salad Meal Deal", "price": "10,79 €", "diet": "Menü" },
+        { "name": "Baked Potato Meal Deal", "price": "12,19 €", "diet": "Menü" },
+        { "name": "Footlong Meal Deal", "price": "13,89 €", "diet": "Menü" }
+      ]
+    },
+    {
+      "categoryName": "Baked Potatoes & Beilagen",
+      "items": [
+        { "name": "Baked Potato Sour Cream", "price": "8,99 €", "diet": "Vegetarisch" },
+        { "name": "Baked Potato Chicken Teriyaki", "price": "10,29 €", "diet": "Geflügel" },
+        { "name": "Waffle Fries Large", "price": "4,69 €", "diet": "" },
+        { "name": "Mozzarella Cheddar Bites mit Dip (5 Stück)", "price": "4,11 €", "diet": "Vegetarisch" },
+        { "name": "Mozzarella Cheddar Bites mit Dip (12 Stück)", "price": "7,11 €", "diet": "Vegetarisch" }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet ein 30 cm Sub bei Subway in Deutschland?",
-      "a": "Ein 30 cm Footlong Sub kostet 2026 in Deutschland zwischen 9,99 € (Veggie Delite) und 12,99 € (Philly Beef oder Chicken Teriyaki)."
+      "q": "Warum gibt es keine offizielle Subway Preisliste für Deutschland?",
+      "a": "Subway-Filialen gehören Franchisenehmern, die ihre Preise selbst festlegen. Subway Deutschland veröffentlicht deshalb keine Preisliste, die überall gilt."
     },
     {
-      "q": "Wie viel kostet ein Cookie bei Subway?",
-      "a": "Ein einzelner Subway Cookie kostet ca. 1,49 €. Im 3er-Pack liegt der Preis meist bei 3,99 €."
+      "q": "Was kostet ein Chicken Teriyaki Sub?",
+      "a": "In der Filiale Subway Berlin Adlershof kostet es auf Uber Eats 7,69 € (Stand 16.10.2026). Die Plant-based-Variante kostet genauso viel."
+    },
+    {
+      "q": "Was ist das günstigste Sub bei Subway?",
+      "a": "Der Veggie Delite für 5,49 €, danach kommen Ham und Salami für je 6,39 € (Subway Berlin Adlershof, Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Was kostet ein Footlong Menü bei Subway?",
+      "a": "Der Footlong Meal Deal kostet in Berlin Adlershof über Uber Eats 13,89 €. Bei Subway Berlin Kurfürstendamm nennt Lieferando für das Sparmenü mit 30-cm-Sub 11,90 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "fast-food",
     "subway",
     "preise",
-    "speisekarte"
+    "footlong"
   ]
 }

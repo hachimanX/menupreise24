@@ -2,56 +2,136 @@
   "slug": "buddha-lounge-flensburg-speisekarte",
   "name": "Buddha Lounge Flensburg",
   "category": "deutsch-regional",
-  "seoTitle": "Buddha Lounge Flensburg Speisekarte Preise 2026 – Sushi & Wok",
-  "metaDescription": "Aktuelle Buddha Lounge Flensburg Preise 2026: Sushi Platten, knusprige Ente, Wok-Curries & asiatische Spezialitäten im Tabellen-Überblick.",
-  "heroSubtitle": "Das beliebte asiatische Restaurant in Flensburg: Alle Preise für Sushi und Wokgerichte.",
-  "quickAnswer": "In der Buddha Lounge Flensburg kosten Hauptgerichte aus dem Wok (z. B. knusprige Ente oder Hähnchen mit Thai-Curry) ca. 13,50 € bis 17,90 €. Sushi-Rollen und Maki-Sets starten bei ca. 8,50 €.",
+  "schemaType": "Restaurant",
+  "address": {
+    "streetAddress": "Rathausstraße 2",
+    "addressLocality": "Flensburg",
+    "addressCountry": "DE"
+  },
+  "seoTitle": "Buddha Lounge Flensburg Speisekarte & Preise",
+  "metaDescription": "Buddha Lounge Flensburg Speisekarte, geprüft am 16.10.2026: Maki ab 6,50 €, Inside-Out-Rollen ab 10,90 €, Bratnudeln 12,50 €, Bowls ab 14,20 €.",
+  "heroSubtitle": "Asiatisches Restaurant in der Rathausstraße mit Sushi, Bowls und Wokgerichten. Die Preise stammen aus dem Bestellmenü auf der eigenen Website.",
+  "quickAnswerTitle": "Kurz gesagt: Preise in der Buddha Lounge",
+  "quickAnswer": "Maki-Rollen kosten in der Buddha Lounge Flensburg 6,50 € bis 8,50 €, Inside-Out-Rollen 10,90 € bis 12,90 € und Crunchy Rolls 17,50 € bis 20,50 €. Hauptgerichte wie Bratnudeln oder Bratreis starten bei 12,50 €, die meisten Wokgerichte kosten 13,50 €. Bowls liegen zwischen 14,20 € und 24,90 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Offizielle Website buddha-lounge-flensburg.de",
+      "url": "https://www.buddha-lounge-flensburg.de/",
+      "note": "Online-Bestellmenü, abgerufen am 16.10.2026"
+    }
+  ],
+  "priceNote": "Viele Gerichte gibt es „mit Zutat nach Wahl“. Die Tabelle zeigt den Grundpreis, mit Ente oder Garnelen kann es mehr kosten.",
   "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 12:00 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 12:00 Uhr",
-    "note": "Mittagsangebote Mo–Fr von 12:00 bis 15:00 Uhr."
+  "infoBox": {
+    "title": "📍 Adresse",
+    "lines": [
+      "Rathausstraße 2, Flensburg",
+      "Bestellen zum Abholen oder Liefern geht über die eigene Website und über Uber Eats."
+    ]
   },
   "savingTips": [
-    "Der Mittagstisch unter der Woche spart bis zu 25 % auf Wokgerichte."
+    "Für zwei Personen ist die Platte „Water 7“ für 53,90 € eine Option. Sie enthält unter anderem eine Crunchy Roll, eine Special Roll, Kappa Maki und Nigiri.",
+    "Wer günstig satt werden will, nimmt Bratnudeln oder Bratreis für 12,50 €. Das sind die preiswertesten Hauptgerichte.",
+    "Vor dem Bestellen lohnt ein Preisvergleich zwischen Website und Uber Eats. Die Plattform nennt teils andere Preise als das Restaurant selbst."
   ],
-  "history": "Die Buddha Lounge Flensburg hat sich zu einer beliebten Adresse für asiatische Fusionsküche und frisches Sushi an der Förde etabliert.",
+  "history": "Die Buddha Lounge ist in der Rathausstraße in Flensburg. Auf der Karte stehen japanische und südostasiatische Gerichte nebeneinander: Sushi und Sashimi auf der einen Seite, Pho, Tom Yum, Currys und Wokgerichte auf der anderen. Bei Sushi ist die Auswahl groß, von einfachen Maki über Inside-Out-Rollen bis zu Special Rolls mit Namen wie Jake Jake oder Mera Mera.",
   "menuCategories": [
     {
-      "categoryName": "Wok-Spezialitäten & Sushi",
+      "categoryName": "Vorspeisen & Suppen",
       "items": [
-        {
-          "name": "Knusprige Ente mit rotem Thai-Curry & Gemüse",
-          "price": "16,90 €",
-          "calories": "3.250 kJ / 776 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "Gebratene Nudeln mit Hähnchenbrust",
-          "price": "12,50 €",
-          "calories": "2.890 kJ / 690 kcal",
-          "diet": "Geflügel"
-        },
-        {
-          "name": "Buddha Sushi Set (18 gemischte Teile)",
-          "price": "19,90 €",
-          "calories": "2.450 kJ / 585 kcal",
-          "diet": "Fisch/Vegetarisch"
-        }
+        { "name": "Edamame mit Meersalz", "price": "6,90 €", "diet": "Vegetarisch" },
+        { "name": "Miso-Suppe mit Zutat nach Wahl", "price": "7,40 €", "diet": "" },
+        { "name": "Tom Kha Suppe", "price": "7,40 €", "diet": "" },
+        { "name": "Tom Yum Suppe", "price": "8,10 €", "diet": "" },
+        { "name": "Dumplings (5 Stück)", "price": "7,40 €", "diet": "" },
+        { "name": "Sommerrolle (4 Stück)", "price": "7,40 €", "diet": "" },
+        { "name": "Frühlingsrollen (6 Stück)", "price": "7,40 €", "diet": "" },
+        { "name": "Ebi Tempura (3 Stück)", "price": "8,90 €", "diet": "Meeresfrüchte" },
+        { "name": "Yakitori (2 Spieße)", "price": "9,40 €", "diet": "Geflügel" },
+        { "name": "Gemischte Vorspeisen-Platte für 2 Personen", "price": "18,90 €", "diet": "" }
+      ]
+    },
+    {
+      "categoryName": "Salate & Bowls",
+      "items": [
+        { "name": "Sommer Salat mit Glasnudeln", "price": "10,90 €", "diet": "" },
+        { "name": "Mango Salat mit gegrilltem Hühnerfilet", "price": "11,90 €", "diet": "Geflügel" },
+        { "name": "Grüner Papaya Salat", "price": "11,90 €", "diet": "Pescetarisch" },
+        { "name": "Avocado Tatar", "price": "12,90 €", "diet": "" },
+        { "name": "Vita Bowl mit Süßkartoffeln", "price": "14,20 €", "diet": "Vegetarisch" },
+        { "name": "Lucky Bowl mit gebratenem Tofu", "price": "15,50 €", "diet": "Vegetarisch" },
+        { "name": "Power Bowl", "price": "17,50 €", "diet": "" },
+        { "name": "Un Fleur Bowl (Thunfisch, Lachs, Jakobsmuscheln, Garnelen)", "price": "24,90 €", "diet": "Fisch" }
+      ]
+    },
+    {
+      "categoryName": "Hauptgerichte",
+      "items": [
+        { "name": "Bratnudeln mit Ei und Zutat nach Wahl", "price": "12,50 €", "diet": "" },
+        { "name": "Bratreis mit Ei und Zutat nach Wahl", "price": "12,50 €", "diet": "" },
+        { "name": "Rising Sun (Kokos-Curry mit Reis)", "price": "13,50 €", "diet": "" },
+        { "name": "Spring Breeze (Reisnudeln, Zitronengras, Erdnüsse)", "price": "13,50 €", "diet": "" },
+        { "name": "Flying Chopsticks", "price": "13,50 €", "diet": "" },
+        { "name": "Journey to the West (Soja-Balsamico, Wokgemüse)", "price": "13,50 €", "diet": "" },
+        { "name": "Pho Dalat (Reisbandnudelsuppe)", "price": "13,90 €", "diet": "" },
+        { "name": "Sea King Sour (Meeresfrüchte-Suppe)", "price": "21,50 €", "diet": "Meeresfrüchte" },
+        { "name": "Charred Sea", "price": "23,90 €", "diet": "" }
+      ]
+    },
+    {
+      "categoryName": "Sushi: Nigiri & Maki",
+      "items": [
+        { "name": "Nigiri Kanikama oder Tofu", "price": "6,50 €", "diet": "" },
+        { "name": "Nigiri Sake (Lachs), Ebi oder Avocado", "price": "6,90 €", "diet": "" },
+        { "name": "Nigiri Maguro (Thunfisch) oder Hotategai", "price": "7,50 €", "diet": "Fisch" },
+        { "name": "Nigiri Anago (Aal)", "price": "7,90 €", "diet": "Fisch" },
+        { "name": "Maki Kappa (Gurke)", "price": "6,50 €", "diet": "Vegan" },
+        { "name": "Maki Mango oder Tofu", "price": "6,90 €", "diet": "Vegetarisch" },
+        { "name": "Maki Sake (Lachs) oder Ebi", "price": "7,50 €", "diet": "Fisch" },
+        { "name": "Maki Tekka (Thunfisch)", "price": "7,90 €", "diet": "Fisch" },
+        { "name": "Maki Tekka Avo oder Anago", "price": "8,50 €", "diet": "Fisch" }
+      ]
+    },
+    {
+      "categoryName": "Sushi: Rollen & Sashimi",
+      "items": [
+        { "name": "Inside Out Kani, Tofu oder Ebi", "price": "10,90 €", "diet": "" },
+        { "name": "Inside Out Sake (Lachs)", "price": "11,90 €", "diet": "Fisch" },
+        { "name": "Inside Out Maguro", "price": "12,50 €", "diet": "Fisch" },
+        { "name": "Inside Out Spicy Tuna", "price": "12,90 €", "diet": "Fisch" },
+        { "name": "Crunchy Roll Salmon", "price": "17,90 €", "diet": "Fisch" },
+        { "name": "Crunchy Roll Tuna oder Duck", "price": "19,50 €", "diet": "" },
+        { "name": "Special Rolls (z. B. Tori Tori, Mera Mera, Jake Jake)", "price": "17,90 € bis 20,90 €", "diet": "" },
+        { "name": "Sashimi Salmon (6 Stück)", "price": "17,90 €", "diet": "Fisch" },
+        { "name": "Sashimi Duo Set (6 Stück)", "price": "18,90 €", "diet": "Fisch" },
+        { "name": "Sashimi Trio Set (9 Stück)", "price": "23,90 €", "diet": "Fisch" },
+        { "name": "Sushi-Platte „Water 7“ (1 bis 2 Personen)", "price": "53,90 €", "diet": "" }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Gibt es vegetarische Gerichte in der Buddha Lounge?",
-      "a": "Ja, fast alle Curries und Nudelgerichte können mit Tofu statt Fleisch bestellt werden."
+      "q": "Was kostet Sushi in der Buddha Lounge Flensburg?",
+      "a": "Maki kosten 6,50 € bis 8,50 €, Nigiri 6,50 € bis 7,90 €, Inside-Out-Rollen 10,90 € bis 12,90 € (Stand 16.10.2026, Website des Restaurants)."
+    },
+    {
+      "q": "Gibt es vegetarische Gerichte?",
+      "a": "Ja, zum Beispiel Edamame, die Vita Bowl, die Lucky Bowl mit Tofu, Kappa- und Mango-Maki und mehrere vegetarische Rollen. Bei vielen Hauptgerichten lässt sich die Zutat frei wählen."
+    },
+    {
+      "q": "Wo ist die Buddha Lounge in Flensburg?",
+      "a": "In der Rathausstraße 2 in Flensburg."
+    },
+    {
+      "q": "Kann man bei der Buddha Lounge online bestellen?",
+      "a": "Ja, über das Bestellmenü auf buddha-lounge-flensburg.de und über Uber Eats."
     }
   ],
   "tags": [
-    "deutsch-regional",
     "buddha lounge flensburg",
-    "preise",
+    "sushi",
+    "flensburg",
     "speisekarte"
   ]
 }

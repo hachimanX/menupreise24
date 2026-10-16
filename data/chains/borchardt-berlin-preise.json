@@ -2,56 +2,86 @@
   "slug": "borchardt-berlin-preise",
   "name": "Restaurant Borchardt Berlin",
   "category": "deutsch-regional",
-  "seoTitle": "Borchardt Berlin Speisekarte Preise 2026 – Schnitzel & Klassiker",
-  "metaDescription": "Aktuelle Borchardt Berlin Preise 2026: Das legendäre Wiener Schnitzel, Austern, Tartar, Weine & Promi-Klassiker am Gendarmenmarkt.",
-  "heroSubtitle": "Berlins berühmtestes Prominenten-Restaurant am Gendarmenmarkt: Alle aktuellen Preise.",
-  "quickAnswer": "Im Restaurant Borchardt in Berlin kostet das legendäre 'Original Wiener Schnitzel' vom Kalb mit lauwarmem Kartoffel-Gurken-Salat ca. 34,00 €. Vorspeisen wie Rindertartar liegen bei ca. 19,50 € und Austern bei ca. 4,50 € bis 6,00 € pro Stück.",
-  "priceLevel": "€€€€ (Premium / Fine Dining)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Mo – Fr ab 12:00 Uhr geöffnet",
-    "hoursWeekend": "Sa – So ab 12:00 Uhr",
-    "note": "Mittagstisch und gehobenes Dinner."
+  "schemaType": "Restaurant",
+  "address": {
+    "streetAddress": "Französische Straße 47",
+    "postalCode": "10117",
+    "addressLocality": "Berlin",
+    "addressCountry": "DE"
+  },
+  "seoTitle": "Borchardt Berlin: Speisekarte & Schnitzel-Preis",
+  "metaDescription": "Was kostet das Wiener Schnitzel im Borchardt Berlin? 36 € laut Bericht vom November 2025, 2023 waren es 32 €. Adresse, Öffnungszeiten, Quellen.",
+  "heroSubtitle": "Das Borchardt an der Französischen Straße veröffentlicht seine Speisekarte nicht online. Hier steht, was sich über die Preise belegen lässt.",
+  "quickAnswerTitle": "Kurz gesagt: Was kostet das Schnitzel im Borchardt?",
+  "quickAnswer": "Das Wiener Schnitzel mit lauwarmem Kartoffelsalat kostet im Borchardt 36 €, so ein Bericht auf Yahoo, zuletzt aktualisiert am 13.11.2025. Im Juli 2023 meldete t-online 32 € und schrieb, das Schnitzel habe damit erstmals die 30-Euro-Marke überschritten. Weitere Preise der aktuellen Karte konnten wir nicht belegen.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Yahoo Creators: I tried Berlin's most famous schnitzel",
+      "url": "https://creators.yahoo.com/lifestyle/story/i-tried-berlins-most-famous-schnitzeland-accidentally-joined-the-citys-power-lunch-scene-132811645.html",
+      "note": "Schnitzel 36 €, aktualisiert am 13.11.2025"
+    },
+    {
+      "label": "t-online: Borchardt in Berlin, 32 Euro für Wiener Schnitzel",
+      "url": "https://berlin.t-online.de/region/berlin/id_100203512/im-berliner-edel-restaurant-borchardt-wiener-schnitzel-kostet-32-euro.html",
+      "note": "vom 06.07.2023"
+    },
+    {
+      "label": "visitBerlin: Borchardt",
+      "url": "https://visitberlin.de/en/borchardt",
+      "note": "Adresse und Öffnungszeiten"
+    },
+    {
+      "label": "Offizielle Website borchardt-restaurant.de",
+      "url": "https://www.borchardt-restaurant.de/",
+      "note": "Reservierung, keine Speisekarte online (geprüft am 16.10.2026)"
+    }
+  ],
+  "priceNote": "Die vollständige Karte mit Preisen gibt es nur im Restaurant. Für eine sichere Auskunft vorab hilft ein Anruf.",
+  "priceLevel": "€€€€ (Gehoben)",
+  "infoBox": {
+    "title": "📍 Adresse & Öffnungszeiten",
+    "lines": [
+      "Französische Straße 47, 10117 Berlin-Mitte",
+      "Täglich 11:30 bis 0 Uhr (laut visitBerlin). Reservieren lässt sich über die Website des Restaurants."
+    ]
   },
   "savingTips": [
-    "Der Business-Lunch zur Mittagszeit bietet ein 2-Gänge-Menü zum günstigeren Festpreis."
+    "Mittags ist es leichter, ohne lange Vorlaufzeit einen Tisch zu bekommen, besonders gegen 12 Uhr.",
+    "Während der Berlinale und großer Messen ist das Borchardt oft ausgebucht. Dann rechtzeitig reservieren."
   ],
-  "history": "1853 als Delikatessenhandlung von August F. W. Borchardt gegründet, ist das Borchardt an der Französischen Straße heute Berlins legendärster Treffpunkt für Politik, Hollywood-Stars und Wirtschaft.",
+  "history": "Das Borchardt liegt in Berlin-Mitte, nahe dem Gendarmenmarkt, und ist vor allem für sein Wiener Schnitzel bekannt. Serviert wird es mit lauwarmem Kartoffelsalat. Mittags treffen sich hier viele Leute aus Politik und Medien. Der Schnitzelpreis ist in den letzten Jahren gestiegen: 32 € im Juli 2023, 36 € im November 2025.",
   "menuCategories": [
     {
-      "categoryName": "Borchardt Legenden",
+      "categoryName": "Belegte Preise",
       "items": [
-        {
-          "name": "Original Wiener Schnitzel vom Kalb mit Kartoffel-Gurkensalat",
-          "price": "34,00 €",
-          "calories": "3.850 kJ / 920 kcal",
-          "diet": "Kalb"
-        },
-        {
-          "name": "Borchardt Rindertartar klassisch mariniert",
-          "price": "19,50 €",
-          "calories": "1.890 kJ / 451 kcal",
-          "diet": "Rind"
-        },
-        {
-          "name": "Austern Fines de Claire (6 Stück)",
-          "price": "27,00 €",
-          "calories": "420 kJ / 100 kcal",
-          "diet": "Meeresfrüchte"
-        }
+        { "name": "Wiener Schnitzel mit lauwarmem Kartoffelsalat (Stand 11/2025)", "price": "36,00 €", "diet": "" },
+        { "name": "Wiener Schnitzel mit Kartoffelsalat (Stand 07/2023)", "price": "32,00 €", "diet": "" }
       ]
     }
   ],
   "faqs": [
     {
       "q": "Was kostet das Schnitzel im Borchardt Berlin?",
-      "a": "Das weltberühmte Wiener Schnitzel vom Kalb kostet 2026 im Borchardt 34,00 €."
+      "a": "Laut einem Bericht, zuletzt aktualisiert am 13.11.2025, kostet das Wiener Schnitzel 36 €. Im Juli 2023 waren es laut t-online 32 €."
+    },
+    {
+      "q": "Gibt es die Borchardt Speisekarte online?",
+      "a": "Nein. Auf borchardt-restaurant.de gibt es Infos zum Haus und zur Reservierung, aber keine Speisekarte mit Preisen (geprüft am 16.10.2026)."
+    },
+    {
+      "q": "Wo ist das Borchardt?",
+      "a": "In der Französischen Straße 47 in Berlin-Mitte, wenige Schritte vom Gendarmenmarkt entfernt."
+    },
+    {
+      "q": "Muss man im Borchardt reservieren?",
+      "a": "Empfehlenswert ist es, besonders abends und während der Berlinale. Mittags gegen 12 Uhr ist es meist leichter."
     }
   ],
   "tags": [
     "deutsch-regional",
-    "restaurant borchardt berlin",
-    "preise",
-    "speisekarte"
+    "borchardt",
+    "berlin",
+    "schnitzel"
   ]
 }

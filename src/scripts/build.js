@@ -231,32 +231,47 @@ function renderChainPage(chain) {
   ];
 
   // Build Restaurant / Menu Schema
+  const heroSubtitle = chain.heroSubtitle || chain.hero_sub || '';
+  const hasCalories = chain.menuCategories.some(cat => cat.items.some(it => it.calories));
+
   const menuItems = [];
   chain.menuCategories.forEach(cat => {
     cat.items.forEach(it => {
+      const priceMatch = (it.price || '').match(/\d+,\d\d/);
+      if (!priceMatch) return;
       menuItems.push({
         "@type": "MenuItem",
         "name": it.name,
-        "description": `${it.diet || ''} - ${it.calories || ''}`.trim(),
         "offers": {
           "@type": "Offer",
-          "price": it.price.replace(/[^\d,.]/g, '').replace(',', '.'),
+          "price": priceMatch[0].replace(',', '.'),
           "priceCurrency": "EUR"
         }
       });
     });
   });
 
-  const restaurantSchema = {
+  // schemaType: null skips the restaurant schema (e.g. comparison guides, trains)
+  const restaurantSchema = chain.schemaType === null ? null : {
     "@context": "https://schema.org",
-    "@type": "FastFoodRestaurant",
+    "@type": chain.schemaType || "FastFoodRestaurant",
     "name": chain.name,
+    ...(chain.address ? { "address": { "@type": "PostalAddress", ...chain.address } } : {}),
     "hasMenu": {
       "@type": "Menu",
-      "name": `${chain.name} Speisekarte Deutschland 2026`,
+      "name": `${chain.name} Speisekarte`,
       "hasMenuItem": menuItems.slice(0, 30) // valid snippet limit
     }
   };
+
+  const sourcesHtml = chain.sources && chain.sources.length ? `
+        <div class="sources-box">
+          <div class="sources-title">Quellen & Stand der Preise</div>
+          <ul>
+            ${chain.sources.map(s => `<li><a href="${s.url}" rel="nofollow noopener" target="_blank">${s.label}</a>${s.note ? `: ${s.note}` : ''}</li>`).join('')}
+          </ul>
+          ${chain.priceNote ? `<p>${chain.priceNote}</p>` : ''}
+        </div>` : '';
 
   const faqSchema = {
     "@context": "https://schema.org",
@@ -271,10 +286,15 @@ function renderChainPage(chain) {
     }))
   };
 
-  // Find related chains in same category
-  const relatedChains = chains
-    .filter(c => c.slug !== chain.slug && (c.category === chain.category || ['mcdonalds-preise', 'db-speisekarte', 'burger-king-preise'].includes(c.slug)))
-    .slice(0, 6);
+  // Related chains: the next pages in the same category (wrapping around), so
+  // every page gets linked from its neighbours instead of all pages pointing
+  // at the same first six. Topped up from other categories if needed.
+  const sameCat = chains.filter(c => c.category === chain.category);
+  const pos = sameCat.findIndex(c => c.slug === chain.slug);
+  const neighbours = [...sameCat.slice(pos + 1), ...sameCat.slice(0, pos)];
+  const others = chains.filter(c => c.category !== chain.category);
+  const otherPos = Math.max(0, chains.findIndex(c => c.slug === chain.slug)) % Math.max(1, others.length);
+  const relatedChains = [...neighbours, ...others.slice(otherPos), ...others.slice(0, otherPos)].slice(0, 6);
 
   // Generate Table of Contents
   const tocHtml = `
@@ -320,9 +340,9 @@ function renderChainPage(chain) {
           <table class="menu-table">
             <thead>
               <tr>
-                <th style="width: 45%;">Produkt / Gericht</th>
-                <th style="width: 25%;">Preis (€)</th>
-                <th style="width: 30%;">Brennwert / Kalorien</th>
+                <th style="width: ${hasCalories ? '45%' : '70%'};">Produkt / Gericht</th>
+                <th style="width: ${hasCalories ? '25%' : '30%'};">Preis (€)</th>
+                ${hasCalories ? '<th style="width: 30%;">Brennwert / Kalorien</th>' : ''}
               </tr>
             </thead>
             <tbody>
@@ -338,7 +358,7 @@ function renderChainPage(chain) {
                       ${it.diet ? `<span class="diet-badge ${badgeClass}">${it.diet}</span>` : ''}
                     </td>
                     <td class="item-price">${it.price}</td>
-                    <td class="item-calories">${it.calories}</td>
+                    ${hasCalories ? `<td class="item-calories">${it.calories || '–'}</td>` : ''}
                   </tr>
                 `;
               }).join('')}
@@ -357,21 +377,27 @@ function renderChainPage(chain) {
         <div class="hero-meta">
           <span class="hero-tag">${catObj.name}</span>
           <span>Preisniveau: <strong>${chain.priceLevel}</strong></span>
-          <span class="hero-updated">✓ Zuletzt redaktionell geprüft: 2026</span>
+          <span class="hero-updated">${chain.pricesCheckedAt ? `✓ Preise geprüft am ${chain.pricesCheckedAt}` : 'Stand 2026 · Preise ohne Gewähr'}</span>
         </div>
-        <p style="font-size: 1.15rem; color: #334155; margin-bottom: 1.25rem;">
-          ${chain.heroSubtitle}
-        </p>
+        ${heroSubtitle ? `<p style="font-size: 1.15rem; color: #334155; margin-bottom: 1.25rem;">
+          ${heroSubtitle}
+        </p>` : ''}
 
         <!-- Quick Answer Snippet -->
         <div class="quick-answer-card">
-          <div class="quick-answer-title">💡 Schnelle Preisübersicht für ${chain.name} Deutschland</div>
+          <div class="quick-answer-title">💡 ${chain.quickAnswerTitle || `Schnelle Preisübersicht für ${chain.name}`}</div>
           <div class="quick-answer-text">${chain.quickAnswer}</div>
         </div>
+        ${sourcesHtml}
 
         <!-- Callout Grid: Breakfast & Savings -->
         <div class="callout-grid">
-          ${chain.breakfastInfo && chain.breakfastInfo.hasBreakfast ? `
+          ${chain.infoBox ? `
+            <div class="callout-box">
+              <h3>${chain.infoBox.title}</h3>
+              ${chain.infoBox.lines.map(l => `<p>${l}</p>`).join('')}
+            </div>
+          ` : chain.breakfastInfo && chain.breakfastInfo.hasBreakfast ? `
             <div class="callout-box breakfast" id="fruehstueck">
               <h3>⏰ Frühstückszeiten bei ${chain.name}</h3>
               <p><strong>Werktags:</strong> ${chain.breakfastInfo.hoursWeekdays}</p>
@@ -421,7 +447,7 @@ function renderChainPage(chain) {
 
       <!-- History & Editorial Facts -->
       <section class="menu-section" id="geschichte" style="background: #ffffff; border: 1px solid var(--border); padding: 1.75rem; border-radius: var(--radius-md); box-shadow: var(--shadow-sm); margin-top: 2rem;">
-        <h2 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 0.75rem;">Über ${chain.name} in Deutschland</h2>
+        <h2 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 0.75rem;">Über ${chain.name}</h2>
         <p style="font-size: 0.95rem; color: #334155; line-height: 1.7;">
           ${chain.history}
         </p>
@@ -453,7 +479,7 @@ function renderChainPage(chain) {
             <a href="/${r.slug}/" class="related-card">
               <div>
                 <h4>${r.name}</h4>
-                <p>${r.heroSubtitle ? r.heroSubtitle.slice(0, 75) + '...' : 'Aktuelle Speisekarte & Preise'}</p>
+                <p>${(r.heroSubtitle || r.hero_sub) ? (r.heroSubtitle || r.hero_sub).slice(0, 75) + '...' : 'Speisekarte & Preise'}</p>
               </div>
               <span style="font-size: 0.8rem; font-weight: 700; color: var(--primary); margin-top: 8px;">Preise ansehen →</span>
             </a>
@@ -469,7 +495,7 @@ function renderChainPage(chain) {
     canonicalUrl,
     breadcrumbs,
     content,
-    jsonLdSchemas: [restaurantSchema, faqSchema]
+    jsonLdSchemas: [restaurantSchema, faqSchema].filter(Boolean)
   });
 }
 
@@ -540,12 +566,7 @@ function renderHomePage() {
     "@type": "WebSite",
     "name": siteMeta.siteName,
     "url": siteMeta.baseUrl,
-    "description": siteMeta.metaDescription,
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": `${siteMeta.baseUrl}/?s={search_term_string}`,
-      "query-input": "required name=search_term_string"
-    }
+    "description": siteMeta.metaDescription
   };
 
   const content = `
@@ -744,6 +765,25 @@ function renderLegalPage(type) {
   });
 }
 
+function canonicalUrlFor(chain) {
+  return `${siteMeta.baseUrl}/${chain.slug}/`;
+}
+
+function renderRedirectHtml(targetUrl) {
+  return `<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Weiterleitung</title>
+  <link rel="canonical" href="${targetUrl}">
+  <meta http-equiv="refresh" content="0; url=${targetUrl}">
+</head>
+<body>
+  <p>Diese Seite ist umgezogen: <a href="${targetUrl}">${targetUrl}</a></p>
+</body>
+</html>`;
+}
+
 // Master Build Execution
 console.log('Building all HTML pages...');
 
@@ -782,13 +822,15 @@ chains.forEach(chain => {
     'cafe-del-sol-preise': ['cafe-del-sol-speisekarte']
   };
 
+  // Aliases redirect to the main page instead of serving a duplicate copy.
+  // GitHub Pages can't send a 301, so we use an instant meta refresh, which
+  // Google treats as a permanent redirect. Aliases stay out of the sitemap.
   if (aliasMap[chain.slug]) {
     aliasMap[chain.slug].forEach(aliasSlug => {
       const aliasDir = path.join(DIST_DIR, aliasSlug);
       fs.mkdirSync(aliasDir, { recursive: true });
-      fs.writeFileSync(path.join(aliasDir, 'index.html'), chainHtml, 'utf-8');
-      sitemapUrls.push(`${siteMeta.baseUrl}/${aliasSlug}/`);
-      console.log(`  ↳ Alias created: /${aliasSlug}/index.html`);
+      fs.writeFileSync(path.join(aliasDir, 'index.html'), renderRedirectHtml(canonicalUrlFor(chain)), 'utf-8');
+      console.log(`  ↳ Alias redirect: /${aliasSlug}/ → /${chain.slug}/`);
     });
   }
 });
@@ -902,7 +944,29 @@ fs.writeFileSync(path.join(DIST_DIR, 'ai-instructions.md'), llmsTxtContent.trim(
 console.log('✓ Generated llms.txt and ai-instructions.md.');
 
 // 5. Build sitemap.xml
+// lastmod comes from the last git commit that touched a page's data file.
+// Stamping every URL with today's date on each build teaches Google to
+// ignore lastmod entirely.
+const { execSync } = require('child_process');
 const today = new Date().toISOString().split('T')[0];
+function gitDate(file) {
+  try {
+    const d = execSync(`git log -1 --format=%cs -- "${file}"`, { cwd: ROOT_DIR, stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim();
+    return d || today;
+  } catch (e) {
+    return today;
+  }
+}
+const buildDate = gitDate('src/scripts/build.js');
+function lastmodFor(url) {
+  const slug = url.replace(siteMeta.baseUrl, '').replace(/^\/|\/$/g, '');
+  const chainFile = path.join('data', 'chains', `${slug}.json`);
+  if (slug && fs.existsSync(path.join(ROOT_DIR, chainFile))) {
+    const d = gitDate(chainFile);
+    return d > buildDate ? d : buildDate;
+  }
+  return buildDate;
+}
 const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   ${sitemapUrls.map(url => {
@@ -915,7 +979,7 @@ const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
     return `
     <url>
       <loc>${url}</loc>
-      <lastmod>${today}</lastmod>
+      <lastmod>${lastmodFor(url)}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>${priority}</priority>
     </url>`;

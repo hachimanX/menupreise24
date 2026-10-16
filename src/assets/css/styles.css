@@ -173,6 +173,28 @@ a:hover {
   margin-bottom: 1.5rem;
   box-shadow: var(--shadow-sm);
 }
+.sources-box {
+  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.88rem;
+  color: #334155;
+  line-height: 1.55;
+}
+.sources-title {
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  color: #0f172a;
+}
+.sources-box ul {
+  padding-left: 1.1rem;
+  margin-bottom: 0.4rem;
+}
+.sources-box a {
+  word-break: break-word;
+}
 .quick-answer-title {
   font-weight: 700;
   font-size: 1rem;
