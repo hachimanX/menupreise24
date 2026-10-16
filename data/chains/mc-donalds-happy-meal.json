@@ -2,72 +2,92 @@
   "slug": "mc-donalds-happy-meal",
   "name": "McDonald's Happy Meal",
   "category": "fast-food",
-  "seoTitle": "McDonald's Happy Meal Preis 2026 – Spielzeug, Menü & Inhalt",
-  "metaDescription": "Aktuelles McDonald's Happy Meal 2026 in Deutschland: Preise, Auswahl an Hauptgerichten, Beilagen, Spielzeug & Kinderbuch im Überblick.",
-  "heroSubtitle": "Alles zum Happy Meal für Kinder: Aktuelle Preise, Spielzeug-Serien und gesunde Beilagen-Optionen.",
-  "quickAnswer": "Das McDonald's Happy Meal kostet 2026 in Deutschland zwischen 4,99 € und 5,49 €. Es umfasst ein Hauptgericht (Hamburger, Cheeseburger, 4er McNuggets oder 4er McPlant Nuggets), eine Beilage (kleine Pommes oder Bio-Apfeltüte), ein Getränk sowie ein Spielzeug oder Buch.",
+  "seoTitle": "Happy Meal Preis 2026: Was kostet es bei McDonald's?",
+  "metaDescription": "Was kostet ein Happy Meal? 6,39 € (geprüft am 16.10.2026, Berlin, Lieferpreis). Seit Januar 2026 hat McDonald's die Preisempfehlung für das Happy Meal gesenkt.",
+  "heroSubtitle": "Der Preis für das Happy Meal bei McDonald's, alle Varianten und was sich 2026 geändert hat.",
+  "quickAnswerTitle": "Kurz gesagt",
+  "quickAnswer": "Ein Happy Meal kostet bei McDonald's Berlin Bitterfelder Straße über Uber Eats 6,39 €, mit Hamburger, Cheeseburger, 4 Chicken McNuggets oder 4 McPlant Nuggets. Seit dem 1. Januar 2026 empfiehlt McDonald's für das Happy Meal einen niedrigeren Preis. Im Restaurant ist es deshalb oft günstiger als per Lieferung.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: McDonald's Berlin Bitterfelder Str.",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/mcdonalds",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    },
+    {
+      "label": "Pressemitteilung McDonald's Deutschland vom 31.12.2025",
+      "url": "https://www.handelsblatt.com/adv/presseportal/mcdonalds-deutschland-mcdonalds-deutschland-begruesst-mehrwertsteuersenkung-und-setzt-ein-zeichen-fuer-seine-gaeste/100187867.html",
+      "note": "niedrigere Preisempfehlung für das Happy Meal ab 1.1.2026"
+    }
+  ],
+  "priceNote": "Die Tabelle zeigt Lieferpreise einer Berliner Filiale auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
   "priceLevel": "€ (Günstig)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 10:30 Uhr",
-    "hoursWeekend": "Täglich ab 11:30 Uhr",
-    "note": "Verfügbar während der regulären Verkaufszeiten."
+  "infoBox": {
+    "title": "📉 Happy Meal seit 2026 günstiger",
+    "lines": [
+      "McDonald's Deutschland hat zum 1. Januar 2026 die Preisempfehlung für fünf Menüs gesenkt, darunter das Happy Meal. Laut Pressemitteilung teils um mehr als 15 %.",
+      "Die Senkung gilt im Restaurant, beim Mitnehmen und am McDrive. Die Filialen entscheiden selbst, ob sie mitziehen."
+    ]
   },
   "savingTips": [
-    "Statt des Plastikspielzeugs kann immer auch ein hochwertiges Kinderbuch gewählt werden."
+    "Im Restaurant oder in der App bestellen. Dort gilt die gesenkte Preisempfehlung, bei Lieferung zahlt man meist mehr.",
+    "Alle Varianten kosten gleich viel, die Nuggets sind also kein Aufpreis."
   ],
-  "history": "Eingeführt 1979 in den USA, ist das Happy Meal das weltweit erfolgreichste Kindermenü der Gastronomiegeschichte und vermittelt mit Kooperationen (Pokémon, Disney, Hot Wheels) generationsübergreifenden Spielspaß.",
+  "history": "Das Happy Meal ist das Kindermenü von McDonald's. Es besteht aus einem Hauptgericht, einer Beilage, einem Getränk und einem Spielzeug oder Buch. In der Berliner Filiale kosten alle vier Varianten 6,39 €.",
   "menuCategories": [
     {
-      "categoryName": "Happy Meal Bausteine & Optionen",
+      "categoryName": "Happy Meal",
       "items": [
         {
-          "name": "Happy Meal mit 4er Chicken McNuggets",
-          "price": "5,19 €",
-          "calories": "1.890 kJ / 452 kcal",
-          "diet": "Kindermenü"
+          "name": "Hamburger Happy Meal",
+          "price": "6,39 €",
+          "diet": ""
         },
         {
-          "name": "Happy Meal mit Hamburger",
-          "price": "4,99 €",
-          "calories": "1.780 kJ / 425 kcal",
-          "diet": "Kindermenü"
+          "name": "Cheeseburger Happy Meal",
+          "price": "6,39 €",
+          "diet": ""
         },
         {
-          "name": "Happy Meal mit Cheeseburger",
-          "price": "5,29 €",
-          "calories": "1.980 kJ / 473 kcal",
-          "diet": "Kindermenü"
+          "name": "4 Chicken McNuggets Happy Meal",
+          "price": "6,39 €",
+          "diet": ""
         },
         {
-          "name": "Happy Meal mit 4er McPlant Nuggets",
-          "price": "5,19 €",
-          "calories": "1.650 kJ / 394 kcal",
-          "diet": "Vegan 🌱"
-        },
+          "name": "4 McPlant Nuggets Happy Meal",
+          "price": "6,39 €",
+          "diet": "Vegan"
+        }
+      ]
+    },
+    {
+      "categoryName": "Für die ganze Familie",
+      "items": [
         {
-          "name": "Beilage: Bio-Frucht-Tüte (Apfel/Traube)",
-          "price": "Inklusive",
-          "calories": "180 kJ / 43 kcal",
-          "diet": "Vegan 🌱"
+          "name": "Family Menu (mit Hamburger, Cheeseburger oder Nuggets)",
+          "price": "29,99 €",
+          "diet": ""
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Wie viel kostet ein Happy Meal bei McDonald's in Deutschland?",
-      "a": "Der Preis für ein Happy Meal liegt 2026 je nach Restaurant zwischen 4,99 € und 5,49 €."
+      "q": "Was kostet ein Happy Meal?",
+      "a": "6,39 € bei McDonald's Berlin Bitterfelder Straße auf Uber Eats (Stand 16.10.2026). Im Restaurant ist es oft günstiger."
     },
     {
-      "q": "Kann man das Happy Meal Spielzeug einzeln kaufen?",
-      "a": "In vielen Filialen kann das Spielzeug auf Nachfrage an der Kasse für ca. 2,50 € bis 3,00 € separat erworben werden."
+      "q": "Ist das Happy Meal 2026 billiger geworden?",
+      "a": "McDonald's hat die Preisempfehlung zum 1. Januar 2026 gesenkt, laut Pressemitteilung teils um mehr als 15 %. Ob die Filiale mitzieht, entscheidet der Franchisenehmer."
+    },
+    {
+      "q": "Welche Varianten gibt es beim Happy Meal?",
+      "a": "Hamburger, Cheeseburger, 4 Chicken McNuggets oder 4 McPlant Nuggets, alle zum gleichen Preis."
     }
   ],
   "tags": [
     "fast-food",
     "mcdonald's happy meal",
-    "preise",
-    "speisekarte"
+    "preise"
   ]
 }

@@ -2,62 +2,115 @@
   "slug": "burger-king-cheeseburger-preis",
   "name": "Burger King Cheeseburger",
   "category": "fast-food",
-  "seoTitle": "Burger King Cheeseburger Preis 2026 – Einzeln & im Menü",
-  "metaDescription": "Was kostet ein Cheeseburger bei Burger King 2026? Aktueller Preis, Kalorien, Zutaten und Doppel-Cheeseburger im Tabellen-Überblick.",
-  "heroSubtitle": "Der beliebte Snack-Klassiker: Preisentwicklung, Kalorien und Vergleiche.",
-  "quickAnswer": "Ein einfacher Cheeseburger bei Burger King kostet 2026 ca. 2,49 €. Der Double Cheeseburger liegt bei etwa 4,19 € und der Chili Cheese Burger bei rund 2,99 €.",
-  "priceLevel": "€ (Günstig)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Ab 10:30 Uhr",
-    "hoursWeekend": "Ab 11:00 Uhr",
-    "note": "Ab Ende des Frühstücks verfügbar."
-  },
-  "savingTips": [
-    "2 Cheeseburger kosten oft weniger als ein einzelner mittlerer Burger und bieten mehr Fleisch."
+  "seoTitle": "Burger King Cheeseburger Preis 2026",
+  "metaDescription": "Was kostet ein Cheeseburger bei Burger King? 3,99 € (geprüft am 16.10.2026, Berlin). Double Cheeseburger 6,29 €, Plant-based 3,89 €, Vergleich mit McDonald's.",
+  "heroSubtitle": "Der Preis für den Cheeseburger bei Burger King, mit allen Varianten und dem Vergleich zu McDonald's.",
+  "quickAnswerTitle": "Kurz gesagt",
+  "quickAnswer": "Ein Cheeseburger kostet bei Burger King Berlin Holzhauser Straße über Uber Eats 3,99 €. Der Double Cheeseburger liegt bei 6,29 €, als KING Menü bei 10,99 €. Die Plant-based-Variante kostet 3,89 €. Bei McDonald's kostete der Cheeseburger am selben Tag in Berlin 3,19 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Burger King Berlin Holzhauser Str.",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/burger-king",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    },
+    {
+      "label": "Uber Eats: McDonald's Berlin Bitterfelder Str.",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/mcdonalds",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Der Cheeseburger ist seit den Anfangstagen von Burger King einer der meistverkauften Artikel weltweit.",
+  "priceNote": "Die Tabelle zeigt Lieferpreise einer Berliner Filiale auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€ (Günstig)",
+  "savingTips": [
+    "Der einfache Hamburger kostet 2,99 €, also 1 € weniger als der Cheeseburger.",
+    "Der Chili Cheese Burger kostet genauso viel wie der Cheeseburger: 3,99 €."
+  ],
+  "history": "Der Cheeseburger ist der günstigste Burger mit Käse bei Burger King. Die Preise legt jede Filiale selbst fest, deshalb kann er an anderen Standorten mehr oder weniger kosten. Im Vergleich mit McDonald's war der Cheeseburger bei Burger King am 16.10.2026 in Berlin 80 Cent teurer.",
   "menuCategories": [
     {
-      "categoryName": "Cheeseburger Varianten",
+      "categoryName": "Cheeseburger und Varianten",
       "items": [
         {
-          "name": "Cheeseburger Standard",
-          "price": "2,49 €",
-          "calories": "1.280 kJ / 306 kcal",
+          "name": "Hamburger",
+          "price": "2,99 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": "3,99 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Plant-based Cheeseburger",
+          "price": "3,89 €",
+          "diet": "Pflanzlich"
+        },
+        {
+          "name": "Chili Cheese Burger",
+          "price": "3,99 €",
           "diet": "Rind"
         },
         {
           "name": "Double Cheeseburger",
-          "price": "4,19 €",
-          "calories": "1.920 kJ / 459 kcal",
+          "price": "6,29 €",
           "diet": "Rind"
         },
         {
-          "name": "Chili Cheese Burger",
-          "price": "2,99 €",
-          "calories": "1.340 kJ / 320 kcal",
-          "diet": "Pikant"
+          "name": "Plant-based Double Cheeseburger",
+          "price": "6,19 €",
+          "diet": "Pflanzlich"
         },
         {
-          "name": "Bacon Cheeseburger",
-          "price": "2,99 €",
-          "calories": "1.490 kJ / 356 kcal",
-          "diet": "Rind/Bacon"
+          "name": "Double Chili Cheese Burger",
+          "price": "6,29 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Double Cheeseburger KING Menü",
+          "price": "10,99 €",
+          "diet": ""
+        },
+        {
+          "name": "King Jr. Meal Cheeseburger",
+          "price": "6,89 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Zum Vergleich: McDonald's (Berlin, Uber Eats)",
+      "items": [
+        {
+          "name": "Cheeseburger",
+          "price": "3,19 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Double Cheeseburger",
+          "price": "4,99 €",
+          "diet": "Rind"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Wie viel kostet ein Cheeseburger bei Burger King?",
-      "a": "Aktuell kostet der einfache Cheeseburger ca. 2,49 € in Deutschland."
+      "q": "Was kostet ein Cheeseburger bei Burger King?",
+      "a": "3,99 € bei Burger King Berlin Holzhauser Straße auf Uber Eats (Stand 16.10.2026). Im Restaurant kann der Preis niedriger sein."
+    },
+    {
+      "q": "Was kostet ein Double Cheeseburger bei Burger King?",
+      "a": "Der Double Cheeseburger kostet 6,29 €, als KING Menü 10,99 €."
+    },
+    {
+      "q": "Ist der Cheeseburger bei McDonald's günstiger?",
+      "a": "In unserem Vergleich ja: McDonald's 3,19 €, Burger King 3,99 €, beide am 16.10.2026 in Berlin auf Uber Eats."
     }
   ],
   "tags": [
     "fast-food",
     "burger king cheeseburger",
-    "preise",
-    "speisekarte"
+    "preise"
   ]
 }

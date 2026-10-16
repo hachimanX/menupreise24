@@ -2,62 +2,90 @@
   "slug": "burger-king-spielzeug",
   "name": "Burger King King Jr. Meal",
   "category": "fast-food",
-  "seoTitle": "Burger King Spielzeug 2026 – King Jr. Meal Preise & Inhalt",
-  "metaDescription": "Aktuelles Burger King Spielzeug 2026 im King Jr. Meal: Preise, Menü-Zusammenstellung, aktuelle Aktionen und Figuren im Überblick.",
-  "heroSubtitle": "Alles zum King Jr. Meal: Aktuelle Spielzeug-Kollektionen und Menü-Bestandteile für Kids.",
-  "quickAnswer": "Das Burger King King Jr. Meal kostet 2026 ca. 4,99 € bis 5,29 €. Es enthält einen Kids Burger (oder 4er King Nuggets / Plant-based Nuggets), eine kleine Portion Pommes, einen Frucht-Drink oder Softdrink sowie das aktuelle Spielzeug der Monatsaktion.",
-  "priceLevel": "€ (Günstig)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Ab 11:00 Uhr",
-    "hoursWeekend": "Ab 11:00 Uhr",
-    "note": "Ganztägig bestellbar."
-  },
-  "savingTips": [
-    "In der BK App gibt es gelegentlich 'Family Bundles', bei denen das King Jr. Meal rabattiert ist."
+  "seoTitle": "Burger King King Jr. Meal: Preis & Inhalt 2026",
+  "metaDescription": "Was kostet das King Jr. Meal bei Burger King? 6,89 € (geprüft am 16.10.2026, Berlin), Plant-based 6,79 €. Alle Varianten mit Hamburger, Cheeseburger oder Nuggets.",
+  "heroSubtitle": "Das Kindermenü von Burger King: Preise für alle Varianten aus einer Berliner Filiale.",
+  "quickAnswerTitle": "Kurz gesagt",
+  "quickAnswer": "Das King Jr. Meal kostet bei Burger King Berlin Holzhauser Straße über Uber Eats 6,89 €, egal ob mit Hamburger, Cheeseburger, Ketchup Nugget Burger oder King Nuggets. Die Plant-based-Varianten kosten 6,79 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Burger King Berlin Holzhauser Str.",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/burger-king",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Das King Jr. Meal ist Burger Kings Gegenstück zum Happy Meal und begeistert Kinder mit wechselnden Lizenzen aus Zeichentrick, Gaming und Film.",
+  "priceNote": "Die Tabelle zeigt Lieferpreise einer Berliner Filiale auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger. Welches Spielzeug gerade dabei ist, wechselt mit den Aktionen von Burger King.",
+  "priceLevel": "€ (Günstig)",
+  "savingTips": [
+    "Alle Varianten kosten gleich viel. Wer mehr Essen will, nimmt die King Nuggets.",
+    "Die Plant-based-Varianten sind 10 Cent günstiger."
+  ],
+  "history": "Das King Jr. Meal ist das Kindermenü von Burger King. Zur Wahl stehen vier Hauptgerichte, jeweils auch als Plant-based-Variante. Die Spielzeuge wechseln je nach Aktion, deshalb nennen wir hier kein bestimmtes.",
   "menuCategories": [
     {
-      "categoryName": "King Jr. Meal Optionen",
+      "categoryName": "King Jr. Meal",
       "items": [
         {
-          "name": "King Jr. Meal mit Hamburger",
-          "price": "4,99 €",
-          "calories": "1.650 kJ / 394 kcal",
-          "diet": "Kindermenü"
+          "name": "King Jr. Meal Hamburger",
+          "price": "6,89 €",
+          "diet": ""
         },
         {
-          "name": "King Jr. Meal mit Cheeseburger",
-          "price": "5,19 €",
-          "calories": "1.820 kJ / 435 kcal",
-          "diet": "Kindermenü"
+          "name": "King Jr. Meal Cheeseburger",
+          "price": "6,89 €",
+          "diet": ""
         },
         {
-          "name": "King Jr. Meal mit 4er Nuggets",
-          "price": "4,99 €",
-          "calories": "1.580 kJ / 378 kcal",
-          "diet": "Kindermenü"
+          "name": "King Jr. Meal Ketchup Nugget Burger",
+          "price": "6,89 €",
+          "diet": ""
         },
         {
-          "name": "King Jr. Meal mit Plant-based Nuggets",
-          "price": "4,99 €",
-          "calories": "1.490 kJ / 356 kcal",
-          "diet": "Vegan 🌱"
+          "name": "King Jr. Meal King Nuggets",
+          "price": "6,89 €",
+          "diet": ""
+        },
+        {
+          "name": "King Jr. Meal Plant-based (alle Varianten)",
+          "price": "6,79 €",
+          "diet": "Pflanzlich"
+        }
+      ]
+    },
+    {
+      "categoryName": "Snacks für Kinder",
+      "items": [
+        {
+          "name": "Fruit Whoop (Apfel-Kirsche, Apfel-Orange-Karotte, Bubblegum)",
+          "price": "2,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Donut",
+          "price": "2,99 €",
+          "diet": "Vegetarisch"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet ein King Jr. Meal bei Burger King?",
-      "a": "Das Kindermenü kostet durchschnittlich zwischen 4,99 € und 5,29 €."
+      "q": "Was kostet ein King Jr. Meal?",
+      "a": "6,89 € bei Burger King Berlin Holzhauser Straße auf Uber Eats (Stand 16.10.2026), die Plant-based-Varianten 6,79 €."
+    },
+    {
+      "q": "Welche Varianten gibt es beim King Jr. Meal?",
+      "a": "Hamburger, Cheeseburger, Ketchup Nugget Burger oder King Nuggets, jeweils auch Plant-based."
+    },
+    {
+      "q": "Welches Spielzeug gibt es gerade bei Burger King?",
+      "a": "Das wechselt mit den Aktionen. Am besten in der Burger King App oder im Restaurant nachfragen."
     }
   ],
   "tags": [
     "fast-food",
     "burger king king jr. meal",
-    "preise",
-    "speisekarte"
+    "preise"
   ]
 }

@@ -26,6 +26,13 @@ const chains = chainFiles.map(f => {
 
 console.log(`Loaded ${chains.length} chain records and ${categories.length} categories.`);
 
+// Only pages with sourced prices (pricesCheckedAt) are indexed, listed and
+// linked. Unverified pages still render for old links but carry noindex.
+const verifiedChains = chains.filter(c => c.pricesCheckedAt);
+const isLive = slug => verifiedChains.some(c => c.slug === slug);
+const liveCategories = categories.filter(cat => verifiedChains.some(c => c.category === cat.slug));
+console.log(`${verifiedChains.length} of ${chains.length} chain pages have verified prices.`);
+
 // Helper: copy assets
 function copyFolderSync(from, to) {
   if (!fs.existsSync(to)) fs.mkdirSync(to, { recursive: true });
@@ -41,7 +48,7 @@ function copyFolderSync(from, to) {
 copyFolderSync(ASSETS_DIR, path.join(DIST_DIR, 'assets'));
 
 // Helper: Base HTML Wrapper
-function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content, jsonLdSchemas = [] }) {
+function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content, jsonLdSchemas = [], noindex = false }) {
   const breadcrumbListItems = (breadcrumbs || []).map((b, i) => ({
     "@type": "ListItem",
     "position": i + 1,
@@ -86,7 +93,7 @@ function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content
   <meta name="description" content="${description}">
   <link rel="canonical" href="${canonicalUrl}">
   <link rel="alternate" type="text/markdown" href="${siteMeta.baseUrl}/ai-instructions.md">
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="robots" content="${noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}">
   
   <!-- OpenGraph -->
   <meta property="og:locale" content="de_DE">
@@ -153,32 +160,23 @@ function renderBaseHtml({ title, description, canonicalUrl, breadcrumbs, content
         <div class="footer-col">
           <h4>🍽️ Über ${siteMeta.siteName}</h4>
           <p style="margin-bottom: 0.75rem;">
-            ${siteMeta.siteName} ist Deutschlands unabhängiges Verbraucherportal für Speisekarten, Preislisten, Nährwerttabellen und Restaurant-Spartipps. Alle Angaben werden redaktionell recherchiert und regelmäßig aktualisiert.
+            ${siteMeta.siteName} ist ein unabhängiges Portal für Speisekarten und Preise in Deutschland. Jede geprüfte Seite nennt ihre Quelle und das Datum der Prüfung.
           </p>
-          <p>Stand: <strong>Januar – September 2026</strong></p>
+          <p>Stand: siehe Prüfdatum auf jeder Seite</p>
         </div>
         <div class="footer-col">
           <h4>Beliebte Speisekarten</h4>
           <ul>
-            <li><a href="/mcdonalds-preise/">McDonald's Preise</a></li>
-            <li><a href="/db-speisekarte/">Deutsche Bahn ICE Speisekarte</a></li>
-            <li><a href="/burger-king-preise/">Burger King Preise</a></li>
-            <li><a href="/subway-preise/">Subway Sub Preise</a></li>
-            <li><a href="/starbucks-preise/">Starbucks Getränkekarte</a></li>
-            <li><a href="/nordsee-preise/">Nordsee Fischspezialitäten</a></li>
-            <li><a href="/kfc-preise/">KFC Bucket Preise</a></li>
+            ${[['mcdonalds-preise', "McDonald's Preise"], ['db-speisekarte', 'ICE Speisekarte'], ['burger-king-preise', 'Burger King Preise'], ['subway-preise', 'Subway Preise'], ['starbucks-preise', 'Starbucks Preise'], ['nordsee-preise', 'Nordsee Preise'], ['kfc-preise', 'KFC Preise']]
+              .filter(([s]) => isLive(s)).map(([s, t]) => `<li><a href="/${s}/">${t}</a></li>`).join('')}
           </ul>
         </div>
         <div class="footer-col">
           <h4>Kategorien & Guides</h4>
           <ul>
-            <li><a href="/fast-food-preisvergleich/">Fast Food Preisvergleich</a></li>
-            <li><a href="/fruehstueckszeiten/">Frühstückszeiten 2026</a></li>
-            <li><a href="/kalorientabelle/">Fast Food Kalorientabelle</a></li>
-            <li><a href="/kategorie/fast-food/">Fast Food Ketten</a></li>
-            <li><a href="/kategorie/bahn-reise/">Bahn & Reise-Gastronomie</a></li>
-            <li><a href="/kategorie/burger/">Burger Restaurants</a></li>
-            <li><a href="/kategorie/pizza-pasta/">Pizza & Pasta</a></li>
+            ${[['fast-food-preisvergleich', "McDonald's oder Burger King?"], ['fruehstueckszeiten', 'Frühstückszeiten'], ['kalorientabelle', 'Fast Food Kalorientabelle']]
+              .filter(([s]) => isLive(s)).map(([s, t]) => `<li><a href="/${s}/">${t}</a></li>`).join('')}
+            ${liveCategories.slice(0, 5).map(cat => `<li><a href="/kategorie/${cat.slug}/">${cat.name}</a></li>`).join('')}
           </ul>
         </div>
       </div>
@@ -289,10 +287,10 @@ function renderChainPage(chain) {
   // Related chains: the next pages in the same category (wrapping around), so
   // every page gets linked from its neighbours instead of all pages pointing
   // at the same first six. Topped up from other categories if needed.
-  const sameCat = chains.filter(c => c.category === chain.category);
+  const sameCat = verifiedChains.filter(c => c.category === chain.category);
   const pos = sameCat.findIndex(c => c.slug === chain.slug);
-  const neighbours = [...sameCat.slice(pos + 1), ...sameCat.slice(0, pos)];
-  const others = chains.filter(c => c.category !== chain.category);
+  const neighbours = pos < 0 ? sameCat : [...sameCat.slice(pos + 1), ...sameCat.slice(0, pos)];
+  const others = verifiedChains.filter(c => c.category !== chain.category);
   const otherPos = Math.max(0, chains.findIndex(c => c.slug === chain.slug)) % Math.max(1, others.length);
   const relatedChains = [...neighbours, ...others.slice(otherPos), ...others.slice(0, otherPos)].slice(0, 6);
 
@@ -382,6 +380,11 @@ function renderChainPage(chain) {
         ${heroSubtitle ? `<p style="font-size: 1.15rem; color: #334155; margin-bottom: 1.25rem;">
           ${heroSubtitle}
         </p>` : ''}
+
+        ${chain.pricesCheckedAt ? '' : `<div class="sources-box" style="border-color: #f59e0b; background: #fffbeb;">
+          <div class="sources-title">Hinweis: Preise noch nicht geprüft</div>
+          <p>Die Preise auf dieser Seite haben wir noch nicht mit einer Quelle abgeglichen. Bitte nicht darauf verlassen und vor Ort oder in der App des Anbieters nachsehen.</p>
+        </div>`}
 
         <!-- Quick Answer Snippet -->
         <div class="quick-answer-card">
@@ -495,14 +498,15 @@ function renderChainPage(chain) {
     canonicalUrl,
     breadcrumbs,
     content,
-    jsonLdSchemas: [restaurantSchema, faqSchema].filter(Boolean)
+    jsonLdSchemas: chain.pricesCheckedAt ? [restaurantSchema, faqSchema].filter(Boolean) : [],
+    noindex: !chain.pricesCheckedAt
   });
 }
 
 // Render Category Hub Page
 function renderCategoryPage(cat) {
   const canonicalUrl = `${siteMeta.baseUrl}/kategorie/${cat.slug}/`;
-  const catChains = chains.filter(c => c.category === cat.slug);
+  const catChains = verifiedChains.filter(c => c.category === cat.slug);
 
   const breadcrumbs = [
     { name: "Startseite", url: "/" },
@@ -540,7 +544,7 @@ function renderCategoryPage(cat) {
       <section class="quick-answer-card">
         <div class="quick-answer-title">📌 Warum MenüPreise24.de?</div>
         <p class="quick-answer-text">
-          Wir vergleichen die Preise der wichtigsten Ketten und Restaurants in Deutschland. Alle Preisangaben stammen aus offiziellen Menü-Aushängen, Restaurant-Besuchen und verifizierten Lieferdiensten.
+          Jede Seite nennt, woher die Preise stammen: die offizielle Speisekarte des Anbieters oder, wo es keine gibt, die Lieferpreise einer benannten Filiale. Dazu steht das Datum, an dem wir die Preise geprüft haben.
         </p>
       </section>
     </div>
@@ -559,7 +563,7 @@ function renderCategoryPage(cat) {
 function renderHomePage() {
   const canonicalUrl = `${siteMeta.baseUrl}/`;
   const featuredSlugs = ['mcdonalds-preise', 'db-speisekarte', 'burger-king-preise', 'subway-preise', 'starbucks-preise', 'nordsee-preise', 'kfc-preise', 'five-guys-preise'];
-  const featuredChains = chains.filter(c => featuredSlugs.includes(c.slug));
+  const featuredChains = verifiedChains.filter(c => featuredSlugs.includes(c.slug));
 
   const websiteSchema = {
     "@context": "https://schema.org",
@@ -572,12 +576,12 @@ function renderHomePage() {
   const content = `
     <section style="background: linear-gradient(135deg, #c8102e 0%, #800b1d 100%); color: #ffffff; padding: 4rem 0 3.5rem; text-align: center;">
       <div class="container" style="max-width: 860px;">
-        <span style="background: rgba(255,255,255,0.2); padding: 4px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Offizieller Preis-Guide 2026</span>
+        <span style="background: rgba(255,255,255,0.2); padding: 4px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Preise mit Quelle und Datum</span>
         <h1 style="font-size: 2.75rem; font-weight: 800; line-height: 1.15; margin: 1rem 0; color: #ffffff;">
           Aktuelle Speisekarten & Preise in Deutschland
         </h1>
         <p style="font-size: 1.2rem; opacity: 0.95; line-height: 1.6; margin-bottom: 2rem;">
-          Alle Preise, Kalorien, Spar-Tipps und Frühstückszeiten für McDonald's, Burger King, Deutsche Bahn ICE Bordbistro, Subway, Starbucks und über 40 weitere Restaurantketten.
+          Was Essen bei McDonald's, Burger King, im ICE-Bordbistro, bei Subway, Starbucks und ${verifiedChains.length - 5} weiteren Ketten und Restaurants kostet. Jede Seite nennt ihre Quelle und das Datum der Prüfung.
         </p>
 
         <!-- Live Global Search Bar -->
@@ -620,7 +624,7 @@ function renderHomePage() {
           Kategorien im Überblick
         </h2>
         <div class="related-grid" style="grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
-          ${categories.map(cat => `
+          ${liveCategories.map(cat => `
             <a href="/kategorie/${cat.slug}/" class="related-card" style="padding: 1.25rem;">
               <div>
                 <span style="font-size: 2rem;">${cat.icon}</span>
@@ -635,9 +639,9 @@ function renderHomePage() {
 
       <!-- All Chains A-Z List -->
       <section style="background: #ffffff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 2rem; box-shadow: var(--shadow-sm); margin-bottom: 3rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 800; margin-bottom: 1.25rem;">Alle 45+ Speisekarten von A bis Z</h2>
+        <h2 style="font-size: 1.5rem; font-weight: 800; margin-bottom: 1.25rem;">Alle ${verifiedChains.length} geprüften Seiten von A bis Z</h2>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px;">
-          ${chains.map(c => `
+          ${[...verifiedChains].sort((a, b) => a.name.localeCompare(b.name, 'de')).map(c => `
             <a href="/${c.slug}/" class="brand-search-card" data-title="${c.name} ${c.slug}" style="padding: 8px 12px; background: #f8fafc; border-radius: 6px; font-weight: 600; font-size: 0.95rem; display: block; border: 1px solid var(--border);">
               ${c.name}
             </a>
@@ -799,7 +803,7 @@ chains.forEach(chain => {
   const outDir = path.join(DIST_DIR, chain.slug);
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(path.join(outDir, 'index.html'), chainHtml, 'utf-8');
-  sitemapUrls.push(`${siteMeta.baseUrl}/${chain.slug}/`);
+  if (chain.pricesCheckedAt) sitemapUrls.push(`${siteMeta.baseUrl}/${chain.slug}/`);
   console.log(`✓ Rendered: /${chain.slug}/index.html`);
 
   // Handle competitor slug aliases
@@ -836,7 +840,7 @@ chains.forEach(chain => {
 });
 
 // 3. Build Category Pages
-categories.forEach(cat => {
+liveCategories.forEach(cat => {
   const catHtml = renderCategoryPage(cat);
   const outDir = path.join(DIST_DIR, 'kategorie', cat.slug);
   fs.mkdirSync(outDir, { recursive: true });
@@ -874,7 +878,7 @@ const aiInstructionsContent = `
     </ul>
 
     <h2 style="font-size: 1.25rem; font-weight: 700; color: #1e293b; margin-top: 24px; margin-bottom: 8px;">2. Datenabdeckung &amp; Kerninhalte</h2>
-    <p style="color: #334155; font-size: 0.95rem; margin-bottom: 12px;">MenüPreise24.de erfasst redaktionell geprüfte Speisekarten und Preislisten der beliebtesten Restaurant- und Fast-Food-Ketten in Deutschland, darunter:</p>
+    <p style="color: #334155; font-size: 0.95rem; margin-bottom: 12px;">MenüPreise24.de sammelt Speisekarten und Preise von Restaurant- und Fast-Food-Ketten in Deutschland, jeweils mit Quelle und Prüfdatum, darunter:</p>
     <ul style="margin-left: 20px; margin-bottom: 16px; color: #334155; font-size: 0.95rem;">
       <li>McDonald's Deutschland (inkl. Frühstück, Happy Meal, Sparmenüs)</li>
       <li>Deutsche Bahn ICE Bordbistro &amp; Bordrestaurant</li>

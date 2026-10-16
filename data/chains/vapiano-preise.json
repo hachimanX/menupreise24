@@ -2,86 +2,265 @@
   "slug": "vapiano-preise",
   "name": "Vapiano",
   "category": "pizza-pasta",
-  "seoTitle": "Vapiano Speisekarte Preise 2026 – Pasta, Pizza & Salate",
-  "metaDescription": "Aktuelle Vapiano Preise 2026 in Deutschland: Frische Pasta (Bolognese, Carbonara), Steinofen-Pizza, Insalata & Dolci im Tabellen-Überblick.",
-  "heroSubtitle": "Frische hausgemachte Pasta und knusprige Steinofen-Pizza: Alle aktuellen Vapiano Preise im Überblick.",
-  "quickAnswer": "Bei Vapiano Deutschland kostet eine Pasta Bolognese oder Carbonara ca. 11,95 € bis 12,95 €. Eine Pizza Margherita liegt bei ca. 9,95 €, während Pizza Salame oder Prosciutto e Funghi rund 12,50 € kosten.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Ab 11:30 Uhr geöffnet",
-    "hoursWeekend": "Ab 12:00 Uhr geöffnet",
-    "note": "Kein Frühstück."
-  },
-  "savingTips": [
-    "Das Vapiano People Treueprogramm vergibt Punkte für Gratis-Dolci oder Heißgetränke."
+  "seoTitle": "Vapiano Preise 2026: Pasta, Pinsa & Speisekarte",
+  "metaDescription": "Vapiano Speisekarte mit Preisen von Oktober 2026 (Berlin Europaplatz): Pasta ab 8,95 €, Pinsa ab 9,95 €, Salate ab 7,95 €, Tiramisù 4,50 €, Aperol Spritz 7,90 €.",
+  "heroSubtitle": "Die Vapiano-Preise von der offiziellen Speisekarte des Restaurants Berlin Europaplatz.",
+  "quickAnswerTitle": "Kurz gesagt",
+  "quickAnswer": "Bei Vapiano Berlin Europaplatz kostet die Pasta Pomodoro 8,95 €, Klassiker wie Carbonara oder Bolognese 14,95 €. Pinsa gibt es ab 9,95 € (Margherita, Funghi), Salate ab 7,95 €. Ein Tiramisù kostet 4,50 €, ein Aperol Spritz 7,90 €. Das sind die Restaurantpreise von vapiano.de, Stand Oktober 2026.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "vapiano.de: Speisekarte Berlin Europaplatz",
+      "url": "https://www.vapiano.de/berlin-europaplatz/speisekarte",
+      "note": "offizielle Preise, Stand Oktober 2026, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "2002 in Hamburg gegründet, erfand Vapiano das 'Fast-Casual'-Konzept für frische italienische Küche mit Live-Cooking vor den Augen der Gäste.",
+  "priceNote": "Vapiano veröffentlicht für jedes Restaurant eine eigene Speisekarte, die Preise unterscheiden sich je nach Standort leicht. Die Tabelle zeigt Berlin Europaplatz (Washingtonplatz 2).",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Die günstigste Pasta ist die Pasta Pomodoro für 8,95 €. Mit Pesto oder Arrabbiata sind es 10,95 €.",
+    "Pinsa Margherita und Pinsa Funghi kosten je 9,95 €.",
+    "Die kleinen Salate (Mista oder Cesare) kosten 7,95 € statt 11,95 € für die große Portion."
+  ],
+  "history": "Vapiano ist eine italienische Restaurantkette, bei der die Pasta frisch zubereitet wird. Statt klassischer Pizza stehen inzwischen Pinsa auf der Karte, eine Art Fladen aus luftigem Teig. Jedes Restaurant hat auf vapiano.de seine eigene Speisekarte mit Preisen.",
   "menuCategories": [
     {
-      "categoryName": "Pasta Fresca (Hausgemacht)",
+      "categoryName": "Pasta",
       "items": [
         {
-          "name": "Pasta Pomodoro (frische Tomatensauce)",
+          "name": "Pasta Pomodoro",
           "price": "8,95 €",
-          "calories": "2.100 kJ / 502 kcal",
-          "diet": "Vegan 🌱"
+          "diet": "Vegetarisch"
         },
         {
-          "name": "Pasta Bolognese (italienisches Rinderhack)",
-          "price": "12,45 €",
-          "calories": "2.890 kJ / 690 kcal",
-          "diet": "Rind"
+          "name": "Pasta All'Arrabbiata",
+          "price": "10,95 €",
+          "diet": "Vegetarisch"
         },
         {
-          "name": "Pasta Carbonara (Speck, Sahne, Eigelb, Grana Padano)",
-          "price": "12,95 €",
-          "calories": "3.420 kJ / 817 kcal",
+          "name": "Pasta Pesto Basilico (auch vegan)",
+          "price": "10,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pasta Cheesy Garlic",
+          "price": "10,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pasta Pesto Rosso e Ricotta",
+          "price": "10,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pasta Amalfi",
+          "price": "11,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Pasta Verdure e Ricotta",
+          "price": "13,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pasta Carbonara",
+          "price": "14,95 €",
           "diet": "Schwein"
         },
         {
-          "name": "Pasta Crema di Funghi (frische Champignons, Weißwein)",
-          "price": "11,95 €",
-          "calories": "2.750 kJ / 657 kcal",
+          "name": "Pasta Bolognese",
+          "price": "14,95 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Pasta Crema di Funghi",
+          "price": "14,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pasta Chicken Alfredo",
+          "price": "16,95 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Pasta Marry Me Burrata",
+          "price": "16,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pasta Smoked Salmon Carbonara",
+          "price": "16,95 €",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Pasta Reef'n Beef",
+          "price": "18,95 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Pinsa",
+      "items": [
+        {
+          "name": "Pinsa Margherita",
+          "price": "9,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pinsa Margherita vegan",
+          "price": "10,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Pinsa Funghi",
+          "price": "9,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pinsa Salame",
+          "price": "13,95 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pinsa Tonno",
+          "price": "13,95 €",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Pinsa Pesto e Burrata",
+          "price": "13,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pinsa Diavolo",
+          "price": "16,95 €",
+          "diet": ""
+        },
+        {
+          "name": "Pinsa Burrata",
+          "price": "17,95 €",
           "diet": "Vegetarisch"
         }
       ]
     },
     {
-      "categoryName": "Pizza aus dem Steinofen",
+      "categoryName": "Salate",
       "items": [
         {
-          "name": "Pizza Margherita (Mozzarella, Tomaten, Basilikum)",
-          "price": "9,95 €",
-          "calories": "3.150 kJ / 752 kcal",
+          "name": "Insalata Mista Piccola",
+          "price": "7,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Insalata Cesare Piccola",
+          "price": "7,95 €",
+          "diet": ""
+        },
+        {
+          "name": "Insalata Mista",
+          "price": "11,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Insalata Cesare groß",
+          "price": "11,95 €",
+          "diet": ""
+        },
+        {
+          "name": "Fried Pasta & Burrata",
+          "price": "12,95 €",
           "diet": "Vegetarisch"
         },
         {
-          "name": "Pizza Salame (würzige Salami)",
-          "price": "12,45 €",
-          "calories": "3.680 kJ / 879 kcal",
-          "diet": "Schwein"
+          "name": "Insalata Nizza",
+          "price": "15,95 €",
+          "diet": "Fisch"
         },
         {
-          "name": "Pizza Prosciutto e Funghi (Schinken, frische Pilze)",
-          "price": "12,95 €",
-          "calories": "3.550 kJ / 848 kcal",
-          "diet": "Schwein"
+          "name": "Insalata Chicken Mango",
+          "price": "15,95 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Insalata Reef'n Beef",
+          "price": "18,95 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Dolci & Getränke",
+      "items": [
+        {
+          "name": "Panna Cotta",
+          "price": "3,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Tiramisù Classico oder Nutella",
+          "price": "4,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Cheesecake mit Nutella",
+          "price": "5,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Death by Chocolate",
+          "price": "5,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Aperol Spritz / Hugo",
+          "price": "7,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Pinot Grigio (0,2 l)",
+          "price": "5,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Merlot (0,2 l)",
+          "price": "5,95 €",
+          "diet": ""
+        },
+        {
+          "name": "Krombacher Pils vom Fass (0,3 l)",
+          "price": "4,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Coca-Cola (0,33 l)",
+          "price": "4,40 €",
+          "diet": ""
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet eine Pasta bei Vapiano 2026?",
-      "a": "Die Pastagerichte starten bei 8,95 € für Pomodoro und reichen bis ca. 14,50 € für Pasta Scampi."
+      "q": "Was kostet Pasta bei Vapiano?",
+      "a": "Bei Vapiano Berlin Europaplatz kostet die Pasta Pomodoro 8,95 €, Carbonara und Bolognese je 14,95 € (offizielle Speisekarte, Stand Oktober 2026)."
+    },
+    {
+      "q": "Was kostet eine Pinsa bei Vapiano?",
+      "a": "Pinsa Margherita und Funghi kosten je 9,95 €, die teuerste ist die Pinsa Burrata mit 17,95 €."
+    },
+    {
+      "q": "Was kostet ein Aperol Spritz bei Vapiano?",
+      "a": "7,90 €, genauso viel wie ein Hugo."
+    },
+    {
+      "q": "Sind die Preise in jedem Vapiano gleich?",
+      "a": "Nicht unbedingt. Vapiano hat für jedes Restaurant eine eigene Karte auf vapiano.de, die Preise können je nach Standort abweichen."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "pizza-pasta",
     "vapiano",
-    "preise",
-    "speisekarte"
+    "preise"
   ]
 }
