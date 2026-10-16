@@ -2,48 +2,170 @@
   "slug": "dominos-pizza-preise",
   "name": "Domino's Pizza",
   "category": "pizza-pasta",
-  "seoTitle": "Domino's Pizza Preise Deutschland 2026 – Speisekarte & Lieferpreise",
-  "metaDescription": "Aktuelle Domino's Pizza Preise 2026 in Deutschland: Classic, Medium, Large, Pizza Brötchen, Pasta & Cheesy Bread im Tabellen-Überblick.",
-  "heroSubtitle": "Die vollständige Speisekarte von Domino's Pizza Deutschland für Abholung und Lieferung.",
-  "quickAnswer": "Bei Domino's Pizza Deutschland startet eine Medium-Pizza (28 cm) bei ca. 8,99 € (Margherita) bis 13,99 € (Spezialitäten). Bei Selbstabholung gewährt Domino's in vielen Filialen dauerhaft Abholrabatte von bis zu 30 %.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
-    "note": "Lieferung und Abholung bis spät abends."
-  },
-  "savingTips": [
-    "Selbstabholer sparen: Domino's bietet fast immer exklusive 'Pick-up' Rabatte an."
+  "seoTitle": "Domino's Preise 2026: Pizza-Preisliste",
+  "metaDescription": "Domino's Pizza Preise, geprüft am 16.10.2026: Margherita 11,99 €, Salami 12,49 €, Specials bis 15,49 €. Lieferpreise einer Berliner Filiale.",
+  "heroSubtitle": "Pizza-Preise aus einer Berliner Domino's-Filiale, dazu Wings, Wraps und Desserts.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Domino's Pizza",
+  "quickAnswer": "Bei Domino's Berlin Storchenhof kostet die Margherita über Uber Eats 11,99 €, Salami und Funghi kosten je 12,49 €. Die meisten Spezialpizzen liegen zwischen 12,99 € und 14,49 €. Chicken Wings gibt es für 7,49 €. Die Pizzagröße zu diesen Preisen nennt Uber Eats nicht.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Domino's Berlin Storchenhof",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/dominos",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Domino's Pizza übernahm in Deutschland die Ketten Joey's Pizza und Hallo Pizza und wurde so zum unangefochtenen Marktführer für Pizza-Lieferdienste mit über 400 Stores.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale Domino's Berlin Storchenhof auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Die Nacho Cheese Pizza (9,99 €) ist die günstigste Pizza auf der Karte.",
+    "Die eigene Pizza zusammenstellen geht ab 10,99 €.",
+    "Domino's verschickt regelmäßig Gutscheincodes. Vor der Bestellung im Shop nachsehen."
+  ],
+  "history": "Domino's liefert vor allem Pizza. Die Preise hängen stärker vom Belag als von der Sorte ab: Klassiker wie Margherita oder Salami kosten rund 12 €, Pizzen mit Hähnchen oder Döner-Fleisch gut 14 €. Die vegane Chicken Döner Pizza ist mit 15,49 € die teuerste in dieser Filiale.",
   "menuCategories": [
     {
-      "categoryName": "Beliebte Pizzen (Classic 25cm | Medium 28cm | Large 32cm)",
+      "categoryName": "Pizza Klassiker",
       "items": [
         {
-          "name": "Pizza Salami",
-          "price": "7,99 € | 10,99 € | 14,99 €",
-          "calories": "3.100 kJ / 741 kcal",
-          "diet": "Schwein"
-        },
-        {
           "name": "Pizza Margherita",
-          "price": "6,99 € | 8,99 € | 12,99 €",
-          "calories": "2.650 kJ / 633 kcal",
+          "price": "11,99 €",
           "diet": "Vegetarisch"
         },
         {
-          "name": "Pizza Boston (mit Sauce Hollandaise & Schinken)",
-          "price": "8,99 € | 12,49 € | 16,99 €",
-          "calories": "3.480 kJ / 832 kcal",
+          "name": "Pizza Salami",
+          "price": "12,49 €",
           "diet": "Schwein"
         },
         {
-          "name": "Pizza Waikiki (Schinken & Ananas)",
-          "price": "8,49 € | 11,99 € | 15,99 €",
-          "calories": "3.050 kJ / 729 kcal",
+          "name": "Pizza Funghi",
+          "price": "12,49 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Caprese",
+          "price": "12,49 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "New York Style Salami",
+          "price": "12,49 €",
           "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Prosciutto e Funghi",
+          "price": "12,99 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Pizza Waikiki",
+          "price": "12,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Spinat Deluxe",
+          "price": "12,99 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizza Diavola",
+          "price": "13,49 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Tuna",
+          "price": "13,49 €",
+          "diet": "Fisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Pizza Specials",
+      "items": [
+        {
+          "name": "Nacho Cheese Pizza",
+          "price": "9,99 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Gestalte deine eigene Pizza",
+          "price": "ab 10,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Chicken & Broccoli",
+          "price": "12,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Pizza Boston",
+          "price": "13,49 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Bombay",
+          "price": "13,49 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Dutchman",
+          "price": "13,49 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Cheeseburger",
+          "price": "13,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Pizza Veggie Supreme",
+          "price": "13,99 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Chicken Döner Pizza",
+          "price": "14,49 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Pizza Teriyaki Chicken",
+          "price": "14,49 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Vegan Chicken Döner Pizza",
+          "price": "15,49 €",
+          "diet": "Vegan"
+        }
+      ]
+    },
+    {
+      "categoryName": "Snacks & Desserts",
+      "items": [
+        {
+          "name": "Chicken Wings",
+          "price": "7,49 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Chicken Wings Teriyaki",
+          "price": "8,49 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Wrap",
+          "price": "8,49 €",
+          "diet": ""
+        },
+        {
+          "name": "Cho Cho Churros (8 Stück)",
+          "price": "8,99 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Thick Shake",
+          "price": "5,99 €",
+          "diet": ""
         }
       ]
     }
@@ -51,10 +173,17 @@
   "faqs": [
     {
       "q": "Was kostet eine Pizza bei Domino's?",
-      "a": "Eine Classic-Pizza (25 cm) startet bei ca. 6,99 € für Margherita. Beliebte Sorten wie Salami liegen bei ca. 10,99 € in der Medium-Größe (28 cm)."
+      "a": "Bei Domino's Berlin Storchenhof kostet die Margherita 11,99 €, Salami 12,49 € und die meisten Spezialpizzen 12,99 € bis 14,49 € (Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Was ist die günstigste Pizza bei Domino's?",
+      "a": "Die Nacho Cheese Pizza für 9,99 €. Eine eigene Pizza gibt es ab 10,99 €."
+    },
+    {
+      "q": "Was kosten Chicken Wings bei Domino's?",
+      "a": "Chicken Wings kosten 7,49 €, mit Teriyaki-Sauce 8,49 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "pizza-pasta",
     "domino's pizza",

@@ -2,59 +2,203 @@
   "slug": "losteria-preise",
   "name": "L'Osteria",
   "category": "pizza-pasta",
-  "seoTitle": "L'Osteria Speisekarte Preise 2026 – Riesen-Pizza & Pasta",
-  "metaDescription": "Aktuelle L'Osteria Preise 2026 in Deutschland: Berühmte 45cm Riesen-Pizza, Pasta d'Amore, Salate & Dolci im Tabellen-Überblick.",
-  "heroSubtitle": "Berühmt für die 45 cm Riesen-Pizza mit zwei unterschiedlich belegten Hälften: Alle L'Osteria Preise.",
-  "quickAnswer": "Bei L'Osteria kostet die riesige 45-cm-Pizza Margherita ca. 12,50 €, eine Pizza Salami ca. 14,50 €. Praktischer Tipp: Eine Pizza kann mit zwei unterschiedlich belegten Hälften bestellt und problemlos zu zweit geteilt werden.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Ab 11:30 Uhr geöffnet",
-    "hoursWeekend": "Ab 12:00 Uhr geöffnet",
-    "note": "Kein Frühstück."
-  },
-  "savingTips": [
-    "Teilt euch eine Pizza zu zweit! Mit 45 cm Durchmesser ragt die Pizza weit über den Tellerrand hinaus."
+  "seoTitle": "L'Osteria Preise 2026: Pizza, Pasta & Salate",
+  "metaDescription": "L'Osteria Preise, geprüft am 16.10.2026: Pizza Margherita 12,50 €, Salami 16,95 €, Pasta ab 16,50 €, Tiramisu 7,95 €. Lieferpreise aus Berlin.",
+  "heroSubtitle": "Pizza, Pasta und Salate aus einer Berliner L'Osteria, mit Quelle und Datum.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei L'Osteria",
+  "quickAnswer": "Bei L'Osteria Berlin Mahlsdorf kostet über Uber Eats die Pizza Margherita 12,50 €, die meisten belegten Pizzen 16,50 € bis 18,95 €. Pasta wie Tortelloni oder Mezzalune kostet 16,50 €, Tiramisu 7,95 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: L'Osteria Berlin Mahlsdorf",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/losteria",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "1999 in Nürnberg gegründet, wuchs L'Osteria durch ihre überdimensionalen Pizzen zu einer der beliebtesten italienischen Gastronomie-Ketten im deutschsprachigen Raum heran.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale L'Osteria Berlin Mahlsdorf auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Margherita (12,50 €) und Marinara Speciale (10,95 €) sind deutlich günstiger als die belegten Pizzen ab 16,50 €.",
+    "Für zwei Personen gibt es das Paket Amore Speziale für 44,95 €.",
+    "Eine Pizza selbst zusammenstellen geht ab 11,75 €."
+  ],
+  "history": "L'Osteria ist eine italienische Restaurantkette, bekannt für große Pizzen. In dieser Filiale kosten fast alle Klassiker mit Belag zwischen 16,50 € und 18,95 €. Teuerste Pizza ist die Degli Artisti für 20,50 €.",
   "menuCategories": [
     {
-      "categoryName": "Die berühmte 45 cm Pizza",
+      "categoryName": "Pizza",
       "items": [
         {
-          "name": "Pizza Margherita (45 cm)",
+          "name": "Pizza Marinara Speciale",
+          "price": "10,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Build your own Pizza",
+          "price": "ab 11,75 €",
+          "diet": ""
+        },
+        {
+          "name": "Margherita",
           "price": "12,50 €",
-          "calories": "4.200 kJ / 1.003 kcal",
           "diet": "Vegetarisch"
         },
         {
-          "name": "Pizza Salami (45 cm)",
-          "price": "14,50 €",
-          "calories": "4.890 kJ / 1.168 kcal",
+          "name": "Prosciutto",
+          "price": "16,50 €",
           "diet": "Schwein"
         },
         {
-          "name": "Pizza Prosciutto e Funghi (45 cm)",
-          "price": "14,90 €",
-          "calories": "4.750 kJ / 1.135 kcal",
+          "name": "Funghi Freschi",
+          "price": "16,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Tonno",
+          "price": "16,95 €",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Salami",
+          "price": "16,95 €",
           "diet": "Schwein"
         },
         {
-          "name": "Pizza BBQ Chicken (45 cm)",
-          "price": "15,50 €",
-          "calories": "4.950 kJ / 1.183 kcal",
+          "name": "Hawaii",
+          "price": "17,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Prosciutto e Funghi",
+          "price": "17,50 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Caprese",
+          "price": "17,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Rucola",
+          "price": "17,75 €",
+          "diet": ""
+        },
+        {
+          "name": "Salsiccia Piccante",
+          "price": "17,95 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Quattro Formaggi",
+          "price": "18,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Prosciutto Crudo",
+          "price": "18,95 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Gamberetti",
+          "price": "18,95 €",
+          "diet": "Meeresfrüchte"
+        },
+        {
+          "name": "Degli Artisti",
+          "price": "20,50 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Pasta, Salate & Vorspeisen",
+      "items": [
+        {
+          "name": "Tortelloni Prosciutto e Panna",
+          "price": "16,50 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Mezzalune Spinaci",
+          "price": "16,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Insalata Mista",
+          "price": "6,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Insalata Caesare",
+          "price": "13,25 €",
+          "diet": ""
+        },
+        {
+          "name": "Insalata Burrata Caprese",
+          "price": "13,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Insalata Quinoa e Avocado",
+          "price": "15,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Insalata Caesare con Pollo",
+          "price": "16,75 €",
           "diet": "Geflügel"
+        },
+        {
+          "name": "Insalata Avocado e Gamberetti",
+          "price": "17,95 €",
+          "diet": "Meeresfrüchte"
+        },
+        {
+          "name": "Bruschetta",
+          "price": "9,50 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pizzabrötchen Käse",
+          "price": "6,50 €",
+          "diet": "Vegetarisch"
+        }
+      ]
+    },
+    {
+      "categoryName": "Desserts & Pakete",
+      "items": [
+        {
+          "name": "Tiramisu",
+          "price": "7,95 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Amore Speziale (für 2)",
+          "price": "44,95 €",
+          "diet": ""
+        },
+        {
+          "name": "Amici Speziale",
+          "price": "54,95 €",
+          "diet": ""
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Wie groß ist die Pizza bei L'Osteria?",
-      "a": "Die Pizza bei L'Osteria hat einen Durchmesser von 45 cm. Sie kann mit zwei unterschiedlichen Hälften belegt werden."
+      "q": "Was kostet eine Pizza bei L'Osteria?",
+      "a": "Bei L'Osteria Berlin Mahlsdorf kostet die Margherita 12,50 €, belegte Pizzen kosten meist 16,50 € bis 18,95 € (Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Was kostet Pasta bei L'Osteria?",
+      "a": "Tortelloni Prosciutto e Panna und Mezzalune Spinaci kosten je 16,50 €."
+    },
+    {
+      "q": "Was kostet Tiramisu bei L'Osteria?",
+      "a": "Das Tiramisu kostet 7,95 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "pizza-pasta",
     "l'osteria",

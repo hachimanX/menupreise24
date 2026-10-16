@@ -2,76 +2,203 @@
   "slug": "hans-im-glueck-preise",
   "name": "Hans im Glück",
   "category": "burger",
-  "seoTitle": "Hans im Glück Speisekarte Preise 2026 – Burger & Mittagsmenü",
-  "metaDescription": "Aktuelle Hans im Glück Preise 2026: Burger-Klassiker, Sauerteig- und Mehrkornbrötchen, vegane Burger, Fritten & Mittagsmenü im Tabellen-Überblick.",
-  "heroSubtitle": "Die bekannte Burger- und Cocktail-Kette mit Birkenwald-Flair: Alle Preise und Menü-Upgrades.",
-  "quickAnswer": "Bei Hans im Glück kosten Burger zwischen 9,90 € und 13,90 €. Das Mittagsmenü (bis 17:00 Uhr) beinhaltet für einen Aufpreis von ca. 6,90 € eine Beilage nach Wahl, einen Durstlöscher und ein Heißgetränk.",
-  "priceLevel": "€€€ (Gehoben Casual)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 11:30 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 11:30 Uhr geöffnet",
-    "note": "Mittagsmenü werktags bis 17:00 Uhr."
-  },
-  "savingTips": [
-    "Das 'Mittagsmenü' bis 17:00 Uhr und das 'Abendmenü' ab 17:00 Uhr (mit Cocktail) bieten spürbare Rabatte im Vergleich zu Einzelbestellungen."
+  "seoTitle": "Hans im Glück Preise 2026: Burger-Speisekarte",
+  "metaDescription": "Hans im Glück Preise, geprüft am 16.10.2026: Klassik 9,90 €, Hans im Glück 10,90 €, die meisten Burger 12,50 €, Glücksmenü ab 17,90 €. Lieferpreise aus Berlin.",
+  "heroSubtitle": "Alle Burger von Hans im Glück mit ihren Namen und Preisen, aus der Filiale an der Berliner Friedrichstraße.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Hans im Glück",
+  "quickAnswer": "Bei Hans im Glück Berlin Friedrichstraße kostet über Uber Eats der Klassik 9,90 €, der Burger Hans im Glück 10,90 €. Die meisten Burger wie Beherzter, Wolpertinger oder Avocado kosten 12,50 €. Der Single Smash ist mit 7,90 € am günstigsten. Ein Glücksmenü mit Beilage und Getränk kostet 17,90 € bis 20,90 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Hans im Glück Berlin Friedrichstraße",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/hans-im-gluck",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "2010 von Thomas Hirschberger in München gegründet, expandierte Hans im Glück mit seinem ikonischen Birkenstamm-Interieur rasant auf über 90 Burgerbars in Deutschland, Österreich und der Schweiz.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale Hans im Glück Berlin Friedrichstraße auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€€ (Gehoben Casual)",
+  "savingTips": [
+    "Der Single Smash für 7,90 € ist der günstigste Burger auf der Karte.",
+    "Klassik und Glücksgriff kosten je 9,90 €, als Glücksmenü 17,90 €.",
+    "Die Glücksmenüs lohnen sich nur, wenn man Beilage und Getränk ohnehin will. Knusperkartoffeln allein kosten 8,50 €."
+  ],
+  "history": "Hans im Glück gibt seinen Burgern Namen statt Beschreibungen: Wolpertinger, Hornträger, Federvieh. Ein großer Teil der Karte kostet genau 12,50 €, die teuersten Burger wie Marktschreier oder Federvieh liegen bei 16,50 € bis 16,90 €.",
   "menuCategories": [
     {
-      "categoryName": "Rindfleisch Burger (Saftiges Rindfleisch)",
+      "categoryName": "Burger",
       "items": [
         {
-          "name": "Klassik (Salat, rote Zwiebeln, Tomaten, Glücks-Sauce)",
+          "name": "SINGLE SMASH",
+          "price": "7,90 €",
+          "diet": ""
+        },
+        {
+          "name": "KLASSIK",
           "price": "9,90 €",
-          "calories": "2.450 kJ / 585 kcal",
-          "diet": "Rind"
+          "diet": ""
         },
         {
-          "name": "Heumilch (mit herzhaftem Heumilchkäse)",
+          "name": "GLÜCKSGRIFF",
+          "price": "9,90 €",
+          "diet": ""
+        },
+        {
+          "name": "HANS IM GLÜCK",
           "price": "10,90 €",
-          "calories": "2.790 kJ / 667 kcal",
-          "diet": "Rind"
+          "diet": ""
         },
         {
-          "name": "Wilder Westen (Heumilchkäse, Grillbacon, BBQ-Sauce)",
-          "price": "11,90 €",
-          "calories": "3.120 kJ / 745 kcal",
-          "diet": "Rind & Bacon"
-        },
-        {
-          "name": "Geißbock (Ziegenkäse, Feigensauce, Bacon)",
+          "name": "BEHERZTER",
           "price": "12,50 €",
-          "calories": "3.250 kJ / 776 kcal",
-          "diet": "Rind & Bacon"
+          "diet": ""
+        },
+        {
+          "name": "WOLPERTINGER",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "HORNTRÄGER",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "FEURIGER",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "ZEITGEIST",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "AVOCADO",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "KRÄUTERRAUCHER",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "FARBENSPIEL",
+          "price": "12,50 €",
+          "diet": ""
+        },
+        {
+          "name": "DOUBLE SMASH",
+          "price": "12,90 €",
+          "diet": ""
+        },
+        {
+          "name": "KÄSE & SPECK",
+          "price": "12,90 €",
+          "diet": ""
+        },
+        {
+          "name": "WILDER WESTEN",
+          "price": "13,50 €",
+          "diet": ""
+        },
+        {
+          "name": "GESELLE",
+          "price": "13,50 €",
+          "diet": ""
+        },
+        {
+          "name": "MEISTERWERK",
+          "price": "13,50 €",
+          "diet": ""
+        },
+        {
+          "name": "EITLER GOCKEL",
+          "price": "13,50 €",
+          "diet": ""
+        },
+        {
+          "name": "VOLLMUNDIG",
+          "price": "13,90 €",
+          "diet": ""
+        },
+        {
+          "name": "WOHLTAT",
+          "price": "14,90 €",
+          "diet": ""
+        },
+        {
+          "name": "VOGELFREI",
+          "price": "15,90 €",
+          "diet": ""
+        },
+        {
+          "name": "TRIPLE SMASH",
+          "price": "15,90 €",
+          "diet": ""
+        },
+        {
+          "name": "MARKTSCHREIER",
+          "price": "16,50 €",
+          "diet": ""
+        },
+        {
+          "name": "FEDERVIEH",
+          "price": "16,90 €",
+          "diet": ""
+        },
+        {
+          "name": "HERBSTGARTEN",
+          "price": "16,90 €",
+          "diet": ""
         }
       ]
     },
     {
-      "categoryName": "Vegane Burger (100% Pflanzlich)",
+      "categoryName": "Menüs & Beilagen",
       "items": [
         {
-          "name": "Jugendstil (Pflanzliches Patty, vegane Scheibe, Tomaten)",
-          "price": "10,90 €",
-          "calories": "2.280 kJ / 545 kcal",
-          "diet": "Vegan 🌱"
+          "name": "Glücksmenü Klassik oder Glücksgriff",
+          "price": "17,90 €",
+          "diet": ""
         },
         {
-          "name": "Fabelhafter (Weizenpatty, Avocado-Creme, Salat)",
-          "price": "11,50 €",
-          "calories": "2.420 kJ / 578 kcal",
-          "diet": "Vegan 🌱"
+          "name": "Glücksmenü Hans im Glück oder Beherzter",
+          "price": "18,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Glücksmenü Avocado, Käse & Speck, Wilder Westen u. a.",
+          "price": "20,90 €",
+          "diet": ""
+        },
+        {
+          "name": "KNUSPERKARTOFFELN",
+          "price": "8,50 €",
+          "diet": ""
+        },
+        {
+          "name": "RINGELEI",
+          "price": "7,50 €",
+          "diet": ""
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet das Mittagsmenü bei Hans im Glück?",
-      "a": "Das Mittagsmenü bis 17:00 Uhr kostet den gewählten Burgerpreis zzgl. ca. 6,90 € und beinhaltet Pommes oder Salat, ein Kaltgetränk sowie einen Kaffee."
+      "q": "Was kostet ein Burger bei Hans im Glück?",
+      "a": "Bei Hans im Glück Berlin Friedrichstraße kosten die meisten Burger 12,50 € (Uber Eats, 16.10.2026). Der Klassik kostet 9,90 €, der Single Smash 7,90 €."
+    },
+    {
+      "q": "Was kostet ein Glücksmenü?",
+      "a": "Das Glücksmenü kostet je nach Burger 17,90 € bis 20,90 €."
+    },
+    {
+      "q": "Welcher Burger ist bei Hans im Glück am teuersten?",
+      "a": "Federvieh und Herbstgarten mit je 16,90 €, danach Marktschreier mit 16,50 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "burger",
     "hans im glück",

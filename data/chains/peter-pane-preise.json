@@ -2,65 +2,190 @@
   "slug": "peter-pane-preise",
   "name": "Peter Pane",
   "category": "burger",
-  "seoTitle": "Peter Pane Speisekarte Preise 2026 – Burger, Fritten & Cocktails",
-  "metaDescription": "Aktuelle Peter Pane Preise 2026 in Deutschland: Burger Klassiker, vegane Burger, Fritten, Mittagsmenü & Cocktails im Tabellen-Überblick.",
-  "heroSubtitle": "Das beliebte Burgergrill-Konzept: Alle Burger, Menüs und vegane Kreationen im Preisüberblick.",
-  "quickAnswer": "Bei Peter Pane kostet ein klassischer Rindfleisch-Burger (z. B. 'Der Klassiker' oder 'Doppelter Peter') zwischen 9,90 € und 13,90 €. Das beliebte Peter-Menü (Burger + Fritten nach Wahl + Getränk + Heißgetränk) bietet bis 17:00 Uhr einen Sparvorteil von rund 4,50 €.",
-  "priceLevel": "€€€ (Gehoben Casual)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 11:30 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 11:30 Uhr geöffnet",
-    "note": "Mittagsmenü werktags bis 17:00 Uhr."
-  },
-  "savingTips": [
-    "Das Mittagsmenü bis 17:00 Uhr spart bares Geld: Fritten und Getränke sind stark vergünstigt im Kombi-Paket."
+  "seoTitle": "Peter Pane Preise 2026: Speisekarte & Burger",
+  "metaDescription": "Peter Pane Speisekarte mit Preisen, geprüft am 16.10.2026: Klassik Cheese 13,90 €, die meisten Burger 14,90 € bis 16,90 €, Menü ab 19,80 €. Lieferpreise aus Berlin.",
+  "heroSubtitle": "Burger, Salate und Snacks aus einer Berliner Peter-Pane-Filiale, mit Quelle und Datum.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Peter Pane",
+  "quickAnswer": "Bei Peter Pane Berlin kostet über Uber Eats der Klassik Cheese 13,90 €. Die meisten Burger wie Käse-Speck, Holzfäller oder Naturbursche kosten 14,90 €, Lagerfeuer und Dreikäsehoch 16,90 €. Das Klassik Menü liegt bei 19,80 €, die Burgerbox bei 12,90 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Peter Pane Burgergrill & Bar Berlin",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/peter-pane",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Peter Pane entstand 2016 aus den norddeutschen Standorten der Paniceus Gastro Gruppe rund um Patrick Junge. Die Kette hat heute über 50 Standorte und ist bekannt für märchenhaftes Ambiente und eine riesige vegane Burger-Auswahl.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale Peter Pane Burgergrill & Bar Berlin auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€€ (Gehoben Casual)",
+  "savingTips": [
+    "Die Burgerbox für 12,90 € ist günstiger als jeder Burger einzeln mit Beilage.",
+    "Für zwei gibt es die Burgerbox für 2 für 24,00 €.",
+    "Als Snack reichen Nachos (5,90 €) oder Crunchy Chicken Tenders (7,90 €)."
+  ],
+  "history": "Peter Pane ist eine Burgerkette mit Restaurants in vielen deutschen Städten. Die Burger haben eigene Namen wie Holzfäller, Trüffelfee oder Dreikäsehoch. In dieser Filiale kostet fast jeder Burger zwischen 13,90 € und 16,90 €.",
   "menuCategories": [
     {
-      "categoryName": "Burger Kreationen (Rindfleisch aus Deutschland)",
+      "categoryName": "Burger",
       "items": [
         {
-          "name": "Der Klassiker (Rindfleisch, Salat, Tomate, rote Zwiebeln)",
-          "price": "9,90 €",
-          "calories": "2.550 kJ / 610 kcal",
-          "diet": "Rind"
-        },
-        {
-          "name": "Käsebruder (Rindfleisch, Cheddar-Käse, Gurken)",
-          "price": "10,90 €",
-          "calories": "2.890 kJ / 690 kcal",
-          "diet": "Rind"
-        },
-        {
-          "name": "Doppelter Peter (2x Rindfleisch, Doppel-Cheddar)",
+          "name": "Klassik Cheese",
           "price": "13,90 €",
-          "calories": "3.850 kJ / 920 kcal",
-          "diet": "Rind"
+          "diet": ""
         },
         {
-          "name": "Goldfritte (mit Bacon, Guacamole & Cheddar)",
-          "price": "12,90 €",
-          "calories": "3.450 kJ / 824 kcal",
-          "diet": "Rind"
+          "name": "Käse-Speck",
+          "price": "14,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Holzfäller",
+          "price": "14,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Naturbursche",
+          "price": "14,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Beerenhunger",
+          "price": "14,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Sticky Chicken Burger",
+          "price": "14,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Trüffelfee",
+          "price": "15,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Caesars",
+          "price": "15,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Chick n Rings",
+          "price": "15,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Lagerfeuer",
+          "price": "16,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Erntedank",
+          "price": "16,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Dreikäsehoch",
+          "price": "16,90 €",
+          "diet": ""
         }
       ]
     },
     {
-      "categoryName": "Vegane & Vegetarische Burger",
+      "categoryName": "Menüs & Boxen",
       "items": [
         {
-          "name": "Panflöte (Süßkartoffel-Amaranth-Bratling, Guacamole)",
-          "price": "10,90 €",
-          "calories": "2.350 kJ / 561 kcal",
-          "diet": "Vegan 🌱"
+          "name": "Burgerbox",
+          "price": "12,90 €",
+          "diet": ""
         },
         {
-          "name": "Der Held (Pflanzliches Patty, veganer Käse, BBQ-Sauce)",
-          "price": "11,50 €",
-          "calories": "2.480 kJ / 592 kcal",
-          "diet": "Vegan 🌱"
+          "name": "Klassik Menü",
+          "price": "19,80 €",
+          "diet": ""
+        },
+        {
+          "name": "Klassik Cheese Menü",
+          "price": "20,80 €",
+          "diet": ""
+        },
+        {
+          "name": "Sticky Chicken Burger Menü",
+          "price": "21,80 €",
+          "diet": ""
+        },
+        {
+          "name": "Burgerbox für 2",
+          "price": "24,00 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Salate, Snacks & Beilagen",
+      "items": [
+        {
+          "name": "Zickensalat",
+          "price": "15,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Macaroni & Cheese",
+          "price": "14,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Nacho Macho",
+          "price": "19,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Nachos",
+          "price": "5,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Overload Nachos",
+          "price": "8,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Crunchy Chicken Tenders",
+          "price": "7,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Sticky Chicken Tenders",
+          "price": "8,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Onion Rings",
+          "price": "6,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Cole Slaw",
+          "price": "3,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Kleiner Salat",
+          "price": "5,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Peters Lieblingsbrot",
+          "price": "4,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Frittenmix",
+          "price": "10,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Snackmix",
+          "price": "12,90 €",
+          "diet": ""
         }
       ]
     }
@@ -68,10 +193,17 @@
   "faqs": [
     {
       "q": "Was kostet ein Burger bei Peter Pane?",
-      "a": "Die Burger bei Peter Pane kosten einzeln zwischen 9,90 € und 14,50 €. Im Mittagsmenü gibt es Fritten und Drink vergünstigt dazu."
+      "a": "Bei Peter Pane Berlin kosten die meisten Burger 14,90 € bis 16,90 € (Uber Eats, 16.10.2026). Der Klassik Cheese ist mit 13,90 € am günstigsten."
+    },
+    {
+      "q": "Was kostet ein Menü bei Peter Pane?",
+      "a": "Das Klassik Menü kostet 19,80 €, das Klassik Cheese Menü 20,80 €."
+    },
+    {
+      "q": "Was ist die Burgerbox bei Peter Pane?",
+      "a": "Ein günstigeres Paket für 12,90 €. Für zwei Personen gibt es die Burgerbox für 2 für 24,00 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "burger",
     "peter pane",

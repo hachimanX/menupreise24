@@ -2,77 +2,154 @@
   "slug": "pizza-hut-preise",
   "name": "Pizza Hut",
   "category": "pizza-pasta",
-  "seoTitle": "Pizza Hut Speisekarte Preise 2026 – Pan Pizza & All You Can Eat",
-  "metaDescription": "Aktuelle Pizza Hut Preise 2026 in Deutschland: Pan Pizza, Cheezy Crust, Pizza Buffet (All You Can Eat), Pasta & Knoblauchbrot im Tabellen-Überblick.",
-  "heroSubtitle": "Alle Preise für Pan Pizza, Cheezy Crust Kruste, Pasta und das legendäre Pizza Hut Mittagsbuffet.",
-  "quickAnswer": "Bei Pizza Hut Deutschland kostet eine Pan Pizza (Normal 23 cm) ca. 11,90 €, in der Large-Größe (33 cm) ca. 18,50 €. Der beliebte Käserand 'Cheezy Crust' kostet rund 3,50 € Aufpreis. Das bekannte Pizza Hut Mittags-Buffet (All You Can Eat) liegt werktags je nach Standort bei ca. 12,90 € bis 14,90 € pro Person.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Mo – Fr ab 11:30 Uhr geöffnet",
-    "hoursWeekend": "Sa – So ab 12:00 Uhr geöffnet",
-    "note": "Mittagsbuffet in teilnehmenden Dine-In Restaurants meist von 11:30 bis 14:30 Uhr."
-  },
-  "savingTips": [
-    "Nutze das Mittagsbuffet unter der Woche: Für rund 13 € kannst du so viel Pizza, Pasta und Salat essen, wie du möchtest.",
-    "Im Lieferdienst gibt es häufig '2 Pizzen zum Sparpreis' Aktionen am Dienstag oder Donnerstag."
+  "seoTitle": "Pizza Hut Preise 2026: Speisekarte & Deals",
+  "metaDescription": "Pizza Hut Preise, geprüft am 16.10.2026: Margherita Pan S 8,90 €, L 12,90 €, Cheezy Crust ab 16,40 €, Large Deal 25,50 €. Lieferpreise aus Berlin.",
+  "heroSubtitle": "Pan Pizza in S und L, Cheezy Crust und Deals aus einer Berliner Pizza-Hut-Filiale.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Pizza Hut",
+  "quickAnswer": "Bei Pizza Hut Berlin Oranienburger kostet über Uber Eats die Margherita als Pan Pizza 8,90 € (S) oder 12,90 € (L). Salami kostet 10,90 € (S) oder 14,90 € (L). Mit Cheezy Crust, dem Rand mit Käsefüllung, zahlt man 16,40 € bis 23,90 €. Der Medium Deal kostet 21,50 €, der Large Deal 25,50 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Pizza Hut Berlin Oranienburger",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/pizza-hut",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Pizza Hut wurde 1958 von den Brüdern Dan und Frank Carney in Kansas gegründet. Die erste deutsche Filiale eröffnete 1983. Die Kette ist weltweit berühmt für ihre goldbraun in der Pfanne gebackene Pan Pizza mit luftig-dickem Teig.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale Pizza Hut Berlin Oranienburger auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Die Pan Pizza Margherita in S für 8,90 € ist das günstigste Hauptgericht.",
+    "Der Cheezy Crust kostet deutlich mehr: Salami als Pan L 14,90 €, mit Cheezy Crust 18,40 €.",
+    "Für mehrere Personen sind Medium Deal (21,50 €) und Large Deal (25,50 €) gedacht."
+  ],
+  "history": "Pizza Hut ist für die Pan Pizza mit dickem, in der Pfanne gebackenem Teig bekannt. Die Karte hat zwei Größen, S und L, und den Cheezy Crust als teurere Variante. Je mehr Belag, desto teurer: Meat Lover's oder Texas Supreme mit Cheezy Crust kosten 23,90 €.",
   "menuCategories": [
     {
-      "categoryName": "Pan Pizza & Cheezy Crust (Klassiker)",
+      "categoryName": "Pan Pizza",
       "items": [
         {
-          "name": "Pan Pizza Salami (Normal 23cm | Large 33cm)",
-          "price": "11,90 € | 18,50 €",
-          "calories": "3.100 kJ / 740 kcal",
+          "name": "Margherita Pan S / L",
+          "price": "8,90 € / 12,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Salami Pan S / L",
+          "price": "10,90 € / 14,90 €",
           "diet": "Schwein"
         },
         {
-          "name": "Pan Pizza Margherita (Normal | Large)",
-          "price": "9,90 € | 15,90 €",
-          "calories": "2.650 kJ / 633 kcal",
+          "name": "Champignon Pan S",
+          "price": "10,90 €",
           "diet": "Vegetarisch"
         },
         {
-          "name": "Pan Pizza Texas Supreme (Rind, Zwiebeln, Paprika)",
-          "price": "13,50 € | 20,50 €",
-          "calories": "3.480 kJ / 831 kcal",
-          "diet": "Rindfleisch"
-        },
-        {
-          "name": "Pan Pizza Tuna & Onions",
-          "price": "12,90 € | 19,50 €",
-          "calories": "2.980 kJ / 712 kcal",
+          "name": "Tuna Pan S",
+          "price": "12,40 €",
           "diet": "Fisch"
         },
         {
-          "name": "Cheezy Crust Käserand-Aufpreis",
-          "price": "+ 3,50 €",
-          "calories": "980 kJ / 234 kcal",
-          "diet": "Vegetarisch"
+          "name": "Hawaii Pan S",
+          "price": "12,40 €",
+          "diet": ""
+        },
+        {
+          "name": "Pepperoni Lover's Pan L",
+          "price": "16,40 €",
+          "diet": ""
+        },
+        {
+          "name": "Chicken Supreme Pan L",
+          "price": "18,40 €",
+          "diet": "Geflügel"
         }
       ]
     },
     {
-      "categoryName": "Buffet & Vorspeisen",
+      "categoryName": "Cheezy Crust",
       "items": [
         {
-          "name": "Mittags-Buffet All You Can Eat (Mo–Fr)",
-          "price": "13,90 €",
-          "calories": "variiert",
-          "diet": "Buffet"
-        },
-        {
-          "name": "Knoblauchbrot Classic (Garlic Bread)",
-          "price": "4,20 €",
-          "calories": "1.120 kJ / 268 kcal",
+          "name": "Margherita Cheezy Crust",
+          "price": "16,40 €",
           "diet": "Vegetarisch"
         },
         {
-          "name": "Knoblauchbrot mit Mozzarella überbacken",
+          "name": "CYO Cheezy Crust (eigene Pizza)",
+          "price": "16,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Salami Cheezy Crust",
+          "price": "18,40 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Champignon Cheezy Crust",
+          "price": "18,40 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Hawaii / Tuna Cheezy Crust",
+          "price": "19,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Pepperoni Lover's Cheezy Crust",
+          "price": "19,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Chicken Supreme Cheezy Crust",
+          "price": "21,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Cheese Lover's Cheezy Crust",
+          "price": "21,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Meat Lover's / Texas Supreme Cheezy Crust",
+          "price": "23,90 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Deals & Beilagen",
+      "items": [
+        {
+          "name": "Medium Deal",
+          "price": "21,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Large Deal",
+          "price": "25,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Large Deal Cheezy Crust",
+          "price": "32,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Chicken Wings (5 Stück)",
+          "price": "5,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Chicken Tenders (5 Stück)",
+          "price": "5,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Breadsticks mit Nutella",
           "price": "5,40 €",
-          "calories": "1.650 kJ / 394 kcal",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Cookie Dough Duo",
+          "price": "5,50 €",
           "diet": "Vegetarisch"
         }
       ]
@@ -80,11 +157,18 @@
   ],
   "faqs": [
     {
-      "q": "Was kostet das Pizza Hut All You Can Eat Buffet in Deutschland?",
-      "a": "Das Mittagsbuffet kostet in den meisten teilnehmenden Pizza Hut Restaurants wochentags zwischen 12,90 € und 14,90 € pro Person inklusive Pizza, Pasta und Salatbar."
+      "q": "Was kostet eine Pizza bei Pizza Hut?",
+      "a": "Bei Pizza Hut Berlin Oranienburger kostet die Margherita Pan 8,90 € (S) oder 12,90 € (L), die Salami Pan 10,90 € oder 14,90 € (Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Was kostet der Cheezy Crust bei Pizza Hut?",
+      "a": "Pizzen mit Cheezy Crust kosten 16,40 € (Margherita) bis 23,90 € (Meat Lover's, Texas Supreme, BBQ Lover's)."
+    },
+    {
+      "q": "Was kostet der Large Deal bei Pizza Hut?",
+      "a": "Der Large Deal kostet 25,50 €, mit Cheezy Crust 32,50 €. Der Medium Deal liegt bei 21,50 €."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "pizza-pasta",
     "pizza hut",

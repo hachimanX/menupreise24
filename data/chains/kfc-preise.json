@@ -2,93 +2,272 @@
   "slug": "kfc-preise",
   "name": "KFC",
   "category": "fast-food",
-  "seoTitle": "KFC Speisekarte Preise 2026 – Buckets, Boxen & Gutscheine",
-  "metaDescription": "Aktuelle KFC Preise 2026 in Deutschland: Bucket Preise, Crispys, Hot Wings, Zinger Burger, Box-Menüs & Gutscheine im vollständigen Tabellen-Überblick.",
-  "heroSubtitle": "Alle Preise für KFC Buckets, Hähnchenteile, Burger und Sparmenüs in Deutschland.",
-  "quickAnswer": "Bei KFC Deutschland kostet ein 6er Hot Wings Menü ca. 8,99 €, ein Zinger Burger ca. 5,99 € und der beliebte Colonel All Star Bucket für 2 Personen rund 19,99 €. Für Familien und Gruppen bieten die Buckets (z. B. 20 Hot Wings oder Crispy Box) den günstigsten Stückpreis.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
-    "note": "KFC bietet in Deutschland kein separates Frühstück an."
-  },
-  "savingTips": [
-    "Der 'Dienstags-Bucket' (Tuesday Bucket) ist der bekannteste Spartipp bei KFC: Viele Filialen bieten dienstags einen Sonder-Bucket für rund 11–13 € an.",
-    "KFC Gutscheine (Gutscheinbogen) sind dauerhaft in der KFC App verfügbar und bieten bis zu 35 % Rabatt auf Menüs."
+  "seoTitle": "KFC Preise 2026: Speisekarte, Buckets & Menüs",
+  "metaDescription": "KFC Preise, geprüft am 16.10.2026: Zinger Burger 7,99 €, 6 Hot Wings 8,99 €, Menüs ab 11,49 €, Buckets ab 16,99 €. Lieferpreise einer Berliner Filiale.",
+  "heroSubtitle": "Burger, Hähnchenteile, Hot Wings und Buckets aus einer Berliner KFC-Filiale, mit Quelle und Datum.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei KFC",
+  "quickAnswer": "Bei KFC Berlin Gesundbrunnen kosten über Uber Eats der Classic Zinger Burger 7,99 €, 6 Hot Wings 8,99 € und 3 Hähnchenteile 12,49 €. Menüs mit Beilage und Getränk liegen zwischen 11,49 € und 14,99 €. Der günstigste Bucket ist der NFL Bucket für 16,99 €, der Big Mix Bucket for 4 kostet 42,99 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: KFC Berlin Gesundbrunnen",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/kfc",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Kentucky Fried Chicken wurde 1930 von Harland D. Sanders ('Colonel Sanders') in den USA gegründet. Das Erfolgsgeheimnis ist die geheime Rezeptur aus 11 Kräutern und Gewürzen. Das erste Restaurant in Deutschland eröffnete 1968 in Frankfurt am Main.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale KFC Berlin Gesundbrunnen auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Für zwei Personen kostet der Small Mix Bucket 24,99 €, für vier der Big Mix Bucket 42,99 €.",
+    "Der günstigste Burger ist der Crispy Cheese Burger für 3,49 €.",
+    "In der KFC App gibt es Coupons. Ein Blick vor der Bestellung lohnt."
+  ],
+  "history": "Auf der Karte von KFC stehen vor allem Hähnchen: Original-Rezept, Zinger (scharf paniert), Hot Wings und Crispys. Fast jeden Burger gibt es auch als Veggie-Variante zum gleichen Preis, etwa den Classic Veggie Burger für 7,99 €. Buckets sind für mehrere Personen gedacht und kosten je nach Größe 16,99 € bis 42,99 €.",
   "menuCategories": [
     {
-      "categoryName": "KFC Buckets (Ideal zum Teilen)",
+      "categoryName": "Burger & Wraps",
       "items": [
         {
-          "name": "Bucket für 2 (6 Crispys + 6 Hot Wings + 2 Pommes)",
-          "price": "18,99 €",
-          "calories": "4.890 kJ / 1.168 kcal",
+          "name": "Crispy Cheese Burger",
+          "price": "3,49 €",
           "diet": "Geflügel"
         },
         {
-          "name": "Hot Wings Bucket (20 Hot Wings)",
-          "price": "19,49 €",
-          "calories": "4.320 kJ / 1.032 kcal",
-          "diet": "Scharf"
-        },
-        {
-          "name": "Crispy Strips Bucket (15 Crispys + 3 Dips)",
-          "price": "19,99 €",
-          "calories": "4.150 kJ / 992 kcal",
+          "name": "Crispy Chili Cheese Burger",
+          "price": "3,49 €",
           "diet": "Geflügel"
         },
         {
-          "name": "Family Bucket (8 Hähnchenteile + 8 Wings + 4 Pommes)",
-          "price": "27,99 €",
-          "calories": "7.890 kJ / 1.885 kcal",
+          "name": "Crispy Twister",
+          "price": "7,49 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Crispy Veggie Twister",
+          "price": "7,49 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Classic Zinger Burger",
+          "price": "7,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Classic Original Burger",
+          "price": "7,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Classic Veggie Burger",
+          "price": "7,99 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Colonel Original Burger",
+          "price": "9,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Kentucky BBQ Zinger Burger",
+          "price": "9,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Cheese & Bacon Burger",
+          "price": "10,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Zinger Cheese & Bacon Burger",
+          "price": "11,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Double Cheese & Bacon Burger",
+          "price": "12,99 €",
           "diet": "Geflügel"
         }
       ]
     },
     {
-      "categoryName": "Burger & Twister Wraps",
+      "categoryName": "Hähnchen & Hot Wings",
       "items": [
         {
-          "name": "Zinger Burger (Scharfes Hähnchenfilet)",
-          "price": "5,99 €",
-          "calories": "2.120 kJ / 506 kcal",
-          "diet": "Pikant"
-        },
-        {
-          "name": "Colonel Burger Original",
-          "price": "5,79 €",
-          "calories": "2.050 kJ / 490 kcal",
+          "name": "1 Hähnchenteil",
+          "price": "3,99 €",
           "diet": "Geflügel"
         },
         {
-          "name": "Twister Wrap Classic",
-          "price": "6,19 €",
-          "calories": "2.190 kJ / 523 kcal",
+          "name": "3 Hähnchenteile",
+          "price": "12,49 €",
           "diet": "Geflügel"
         },
         {
-          "name": "Veggie Tenders Burger (Plant-based)",
-          "price": "5,79 €",
-          "calories": "1.920 kJ / 458 kcal",
+          "name": "3 Hot Wings",
+          "price": "4,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "6 Hot Wings",
+          "price": "8,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "10 Crispys (Chick & Share)",
+          "price": "19,99 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "18 Hot Wings (Chick & Share)",
+          "price": "19,99 €",
+          "diet": "Geflügel"
+        }
+      ]
+    },
+    {
+      "categoryName": "Menüs & Boxen",
+      "items": [
+        {
+          "name": "Kids Menü",
+          "price": "6,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Crispy Twister Menü",
+          "price": "11,49 €",
+          "diet": ""
+        },
+        {
+          "name": "Classic Zinger / Original / Veggie Menü",
+          "price": "11,99 €",
+          "diet": ""
+        },
+        {
+          "name": "4 Crispys Menü",
+          "price": "12,99 €",
+          "diet": ""
+        },
+        {
+          "name": "6er Hot Wings Menü",
+          "price": "12,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Colonel Original Burger Menü",
+          "price": "13,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Cheese & Bacon Burger Menü",
+          "price": "14,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Crispy Twister Box",
+          "price": "15,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Classic Zinger Burger Box",
+          "price": "16,49 €",
+          "diet": ""
+        },
+        {
+          "name": "3 Hähnchenteile Box",
+          "price": "17,49 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Buckets",
+      "items": [
+        {
+          "name": "NFL Bucket",
+          "price": "16,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Original Bites Bucket",
+          "price": "24,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Small Mix Bucket for 2",
+          "price": "24,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Cheesy Bucket",
+          "price": "29,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Medium Mix Bucket for 3",
+          "price": "35,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Hot Wings Bucket",
+          "price": "39,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Big Mix Bucket for 4",
+          "price": "42,99 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Beilagen",
+      "items": [
+        {
+          "name": "6 Cheese Bites",
+          "price": "5,49 €",
           "diet": "Vegetarisch"
+        },
+        {
+          "name": "Pommes frites, groß",
+          "price": "4,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Coleslaw",
+          "price": "4,99 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Chilli Cheese Nachos",
+          "price": "5,99 €",
+          "diet": ""
+        },
+        {
+          "name": "Cheese & Bacon Fries",
+          "price": "6,99 €",
+          "diet": ""
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet ein Bucket bei KFC in Deutschland?",
-      "a": "Die Preise für KFC Buckets starten bei rund 18,99 € für den 2-Personen-Bucket und reichen bis ca. 27,99 € für den großen Family Bucket."
+      "q": "Was kostet ein Bucket bei KFC?",
+      "a": "Bei KFC Berlin Gesundbrunnen kostet der NFL Bucket 16,99 €, der Small Mix Bucket for 2 24,99 € und der Big Mix Bucket for 4 42,99 € (Uber Eats, 16.10.2026)."
     },
     {
-      "q": "Gibt es den KFC Dienstags-Bucket noch?",
-      "a": "Ja, der Tuesday Bucket wird von den meisten teilnehmenden deutschen KFC-Restaurants als wöchentlicher Aktionstag geführt."
+      "q": "Was kostet ein Zinger Burger bei KFC?",
+      "a": "Der Classic Zinger Burger kostet 7,99 €, als Menü 11,99 €. Der Zinger Cheese & Bacon Burger liegt bei 11,99 €."
+    },
+    {
+      "q": "Was kosten Hot Wings bei KFC?",
+      "a": "3 Hot Wings kosten 4,99 €, 6 Stück 8,99 € und 18 Stück zum Teilen 19,99 €."
+    },
+    {
+      "q": "Gibt es bei KFC vegetarische Burger?",
+      "a": "Ja. Classic Veggie Burger (7,99 €), Colonel Veggie Burger (9,99 €) und Crispy Veggie Twister (7,49 €) kosten genauso viel wie die Hähnchen-Varianten."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "fast-food",
     "kfc",

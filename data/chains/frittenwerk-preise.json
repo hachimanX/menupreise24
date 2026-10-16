@@ -2,65 +2,142 @@
   "slug": "frittenwerk-preise",
   "name": "Frittenwerk",
   "category": "doener-streetfood",
-  "seoTitle": "Frittenwerk Speisekarte Preise 2026 – Poutines, Pommes & Kalorien",
-  "metaDescription": "Aktuelle Frittenwerk Speisekarte 2026 in Deutschland: Preise für Poutine Klassiker, Pommes Spezialitäten, Dips & Churros im Tabellen-Überblick.",
-  "heroSubtitle": "Die Kult-Pommesmanufaktur aus Düsseldorf: Alle Poutines, loaded Fries und Saucen im Preisüberblick.",
-  "quickAnswer": "Bei Frittenwerk kostet die klassische 'Quebec Poutine' (Pommes, vegetarische Bratensauce & Mozzarella Cheese Curds) ca. 7,90 €. Aufwändigere Loaded-Fries wie 'Tijuana Street Fries' (mit Guacamole & Sour Cream) oder 'Chili Cheese Fries' kosten zwischen 8,90 € und 10,90 €.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 11:30 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 11:30 Uhr geöffnet",
-    "note": "Kein Frühstück."
-  },
-  "savingTips": [
-    "Frittenwerk bietet Portionsgrößen, die als vollwertige Hauptmahlzeit sättigen. Ein Poutine-Gericht reicht meist völlig aus."
+  "seoTitle": "Frittenwerk Preise 2026: Poutine, Fritten & Currywurst",
+  "metaDescription": "Frittenwerk Preise, geprüft am 16.10.2026: Hausfritten 4,90 €, Classic Quebec Poutine 8,90 €, Currywurst 6,10 €, Chicken BBQ Poutine 13,90 €.",
+  "heroSubtitle": "Poutine, Fritten und Currywurst aus der Frittenwerk-Filiale an der Berliner Tauentzienstraße.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Frittenwerk",
+  "quickAnswer": "Bei Frittenwerk Berlin Tauentzienstraße kostet über Uber Eats eine Portion Hausfritten 4,90 €, die Classic Quebec Poutine 8,90 € und die Currywurst 6,10 €. Currywurst mit Pommes kostet 9,90 €. Die teuerste Poutine ist die Chicken BBQ Poutine für 13,90 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Frittenwerk Berlin Tauentzienstraße",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/frittenwerk",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Frittenwerk startete 2014 im Düsseldorfer Medienhafen mit der Vision, kanadisches Streetfood (Poutine) mit nachhaltigen Pommes nach Deutschland zu bringen. Heute gibt es über 40 Standorte bundesweit.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale Frittenwerk Berlin Tauentzienstraße auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Hausfritten allein (4,90 €) sind das günstigste Gericht.",
+    "Die vegane Currywurst kostet genauso viel wie die normale: 6,10 €, mit Pommes 9,90 €."
+  ],
+  "history": "Frittenwerk hat sich auf Pommes spezialisiert, vor allem auf Poutine: Fritten mit Käse und Bratensauce, ein Gericht aus Kanada. Viele Gerichte gibt es auch vegan. Die Preise reichen von 4,90 € für Hausfritten bis 13,90 € für eine Poutine mit Hähnchen.",
   "menuCategories": [
     {
-      "categoryName": "Poutines & Loaded Fries",
+      "categoryName": "Poutine & Loaded Fries",
       "items": [
         {
-          "name": "Quebec Poutine (Bratensauce & Cheese Curds)",
-          "price": "7,90 €",
-          "calories": "2.850 kJ / 680 kcal",
-          "diet": "Vegetarisch"
-        },
-        {
-          "name": "Tijuana Street Fries (Guacamole, Tomaten, Sour Cream)",
+          "name": "Classic Quebec Poutine",
           "price": "8,90 €",
-          "calories": "2.980 kJ / 712 kcal",
           "diet": "Vegetarisch"
         },
         {
-          "name": "Pulled Pork Poutine (mit BBQ-Sauce & Krautsalat)",
-          "price": "10,90 €",
-          "calories": "3.850 kJ / 920 kcal",
-          "diet": "Schweinefleisch"
+          "name": "Montreal Style Poutine",
+          "price": "9,50 €",
+          "diet": ""
         },
         {
-          "name": "Pink Persian Poutine (mit Falafel & Rote-Bete-Hummus)",
+          "name": "Chili Cheese Fries (vegetarisch)",
           "price": "9,90 €",
-          "calories": "2.710 kJ / 648 kcal",
-          "diet": "Vegan 🌱"
+          "diet": "Vegetarisch"
         },
         {
-          "name": "Chili Cheese Fries",
-          "price": "8,90 €",
-          "calories": "3.150 kJ / 753 kcal",
-          "diet": "Pikant"
+          "name": "Super Cheesy Fries",
+          "price": "9,90 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Tijuana Street Fries (vegan)",
+          "price": "10,20 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Chicken Shawarma Poutine",
+          "price": "11,70 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "BBQ Pulled Pork Poutine",
+          "price": "11,70 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Chicken BBQ Poutine",
+          "price": "13,90 €",
+          "diet": "Geflügel"
+        }
+      ]
+    },
+    {
+      "categoryName": "Fritten & Currywurst",
+      "items": [
+        {
+          "name": "Portion Hausfritten",
+          "price": "4,90 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Portion Knoblauchfritten",
+          "price": "5,50 €",
+          "diet": ""
+        },
+        {
+          "name": "Currywurst (auch vegan)",
+          "price": "6,10 €",
+          "diet": ""
+        },
+        {
+          "name": "Currywurst + Pommes (auch vegan)",
+          "price": "9,90 €",
+          "diet": ""
+        },
+        {
+          "name": "Currywurst Spezial",
+          "price": "10,20 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Snacks & Süßes",
+      "items": [
+        {
+          "name": "Chicken Bites (5 Stück)",
+          "price": "6,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Chicken Bites (12 Stück)",
+          "price": "12,90 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Falafel (9 Stück)",
+          "price": "6,20 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Apple Fries (Zimt-Zucker, Nutella, Vanille)",
+          "price": "7,50 €",
+          "diet": "Vegetarisch"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was ist eine Poutine bei Frittenwerk?",
-      "a": "Poutine ist eine kanadische Spezialität aus knusprigen Pommes Frites, Käsebruch (Cheese Curds) und heißer vegetarischer Bratensauce, die den Käse leicht anschmelzen lässt."
+      "q": "Was kostet eine Poutine bei Frittenwerk?",
+      "a": "Bei Frittenwerk Berlin Tauentzienstraße kostet die Classic Quebec Poutine 8,90 €, die Chicken BBQ Poutine 13,90 € (Uber Eats, 16.10.2026)."
+    },
+    {
+      "q": "Was kostet die Currywurst bei Frittenwerk?",
+      "a": "Die Currywurst kostet 6,10 €, mit Pommes 9,90 €. Die vegane Variante kostet gleich viel."
+    },
+    {
+      "q": "Was ist Poutine?",
+      "a": "Pommes mit Käse und Bratensauce, ursprünglich aus Kanada. Frittenwerk bietet mehrere Varianten an, mit Hähnchen, Pulled Pork oder vegan."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "doener-streetfood",
     "frittenwerk",

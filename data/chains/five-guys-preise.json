@@ -2,112 +2,168 @@
   "slug": "five-guys-preise",
   "name": "Five Guys",
   "category": "burger",
-  "seoTitle": "Five Guys Preise Deutschland 2026 – Burger, Fries & Shakes",
-  "metaDescription": "Aktuelle Five Guys Preise 2026 in Deutschland: Hamburger, Cheeseburger, Bacon Burger, Little Burger, Cajun Fries und Milkshakes mit allen Preisen in Tabelle.",
-  "heroSubtitle": "Die vollständige Preisliste von Five Guys Deutschland inklusive aller kostenlosen Toppings und Shakes.",
-  "quickAnswer": "Bei Five Guys Deutschland kostet ein regulärer Hamburger (2 Patties) ca. 10,95 €, ein Cheeseburger ca. 11,95 € und der Bacon Cheeseburger ca. 12,95 €. Die kleineren 'Little' Burger (1 Patty) liegen zwischen 8,45 € und 9,95 €. Alle 15 Toppings (Salat, Tomaten, Grillzwiebeln, Jalapeños, Saucen etc.) sind unbegrenzt kostenlos.",
-  "priceLevel": "€€€ (Premium Fast Casual)",
-  "breakfastInfo": {
-    "hasBreakfast": false,
-    "hoursWeekdays": "Täglich ab 11:00 Uhr geöffnet",
-    "hoursWeekend": "Täglich ab 11:00 Uhr geöffnet",
-    "note": "Kein Frühstücksangebot."
-  },
-  "savingTips": [
-    "Eine 'Little Fries' reicht bei Five Guys fast immer für zwei Personen, da die Papiertüte traditionell mit einer extra Schaufel Pommes aufgefüllt wird ('Topper').",
-    "Wähle beliebig viele Toppings 'All the Way' ohne Aufpreis."
+  "seoTitle": "Five Guys Preise 2026: Burger, Fries & Shakes",
+  "metaDescription": "Five Guys Preise, geprüft am 16.10.2026: Cheeseburger 14,45 €, Little Cheeseburger 11,25 €, Fries ab 6,25 €, Milkshake 8,25 €. Lieferpreise aus Berlin.",
+  "heroSubtitle": "Burger, Hot Dogs, Fries und Milkshakes aus der Five-Guys-Filiale am Berliner Ku'damm.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Five Guys",
+  "quickAnswer": "Bei Five Guys Berlin Ku'damm kostet über Uber Eats der Cheeseburger 14,45 €, der Little Cheeseburger mit einem statt zwei Patties 11,25 €. Fries gibt es ab 6,25 € (little), ein Milkshake (0,4 l) kostet 8,25 €. Ein Burger mit Fries und Shake kommt damit schnell auf über 25 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: Five Guys Berlin Ku'damm",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/five-guys",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Five Guys wurde 1986 von Jerry Murrell und seinen Söhnen in Virginia gegründet. Das erste deutsche Restaurant eröffnete 2017 auf der Zeil in Frankfurt am Main. Die Kette verwendet ausschließlich frisches, nie gefrorenes Rindfleisch und brät in reinem Erdnussöl.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale Five Guys Berlin Ku'damm auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€€ (Premium Fast Casual)",
+  "savingTips": [
+    "Die Little-Burger haben ein Patty statt zwei und kosten rund 3 € weniger, zum Beispiel 11,25 € statt 14,45 € für den Cheeseburger.",
+    "Die Fries-Portionen sind groß. Für zwei Personen reicht oft eine reguläre Portion für 7,25 €.",
+    "Das Grilled Cheese Sandwich (7,75 €) und das Veggie Sandwich (6,45 €) sind die günstigsten Hauptgerichte."
+  ],
+  "history": "Five Guys verkauft Burger, Hot Dogs, Fries und Milkshakes. Die Burger werden nach Wunsch belegt, die Toppings kosten nichts extra. Normal hat ein Burger zwei Patties, die Little-Variante eines. Cajun Fries und Five Guys Style Fries kosten in jeder Größe gleich viel.",
   "menuCategories": [
     {
-      "categoryName": "Burger & Sandwiches (Inkl. alle Toppings)",
+      "categoryName": "Burger",
       "items": [
         {
-          "name": "Hamburger (2 Patties)",
-          "price": "10,95 €",
-          "calories": "3.510 kJ / 840 kcal",
-          "diet": "Frisches Rind"
+          "name": "Little Hamburger",
+          "price": "10,25 €",
+          "diet": "Rind"
         },
         {
-          "name": "Cheeseburger (2 Patties + Käse)",
-          "price": "11,95 €",
-          "calories": "4.100 kJ / 980 kcal",
-          "diet": "Frisches Rind"
+          "name": "Little Cheeseburger",
+          "price": "11,25 €",
+          "diet": "Rind"
         },
         {
-          "name": "Bacon Burger (2 Patties + Bacon)",
-          "price": "11,95 €",
-          "calories": "3.980 kJ / 950 kcal",
-          "diet": "Rind & Bacon"
+          "name": "Little Bacon Burger",
+          "price": "11,75 €",
+          "diet": "Rind"
         },
         {
-          "name": "Bacon Cheeseburger (2 Patties, Käse, Bacon)",
-          "price": "12,95 €",
-          "calories": "4.430 kJ / 1.060 kcal",
-          "diet": "Rind & Bacon"
+          "name": "Little Bacon Cheeseburger",
+          "price": "12,75 €",
+          "diet": "Rind"
         },
         {
-          "name": "Little Hamburger (1 Patty)",
+          "name": "Hamburger",
+          "price": "13,45 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": "14,45 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Bacon Burger",
+          "price": "14,95 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Bacon Cheeseburger",
+          "price": "15,95 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Hamburger im Salat-Wrap",
+          "price": "10,25 €",
+          "diet": "Rind"
+        }
+      ]
+    },
+    {
+      "categoryName": "Hot Dogs & Sandwiches",
+      "items": [
+        {
+          "name": "Veggie Sandwich",
+          "price": "6,45 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Veggie Sandwich mit Käse",
+          "price": "7,45 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Grilled Cheese Sandwich",
+          "price": "7,75 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "BLT",
+          "price": "8,95 €",
+          "diet": "Schwein"
+        },
+        {
+          "name": "Hot Dog",
           "price": "8,45 €",
-          "calories": "2.260 kJ / 540 kcal",
-          "diet": "Frisches Rind"
+          "diet": ""
         },
         {
-          "name": "Little Cheeseburger (1 Patty + Käse)",
+          "name": "Cheese Dog",
           "price": "9,45 €",
-          "calories": "2.550 kJ / 610 kcal",
-          "diet": "Frisches Rind"
+          "diet": ""
         },
         {
-          "name": "Veggie Sandwich (Gegrilltes Gemüse)",
-          "price": "6,95 €",
-          "calories": "1.840 kJ / 440 kcal",
-          "diet": "Vegetarisch"
+          "name": "Bacon Dog",
+          "price": "9,95 €",
+          "diet": ""
+        },
+        {
+          "name": "Bacon Cheese Dog",
+          "price": "10,95 €",
+          "diet": ""
         }
       ]
     },
     {
-      "categoryName": "Fries (In Erdnussöl frittiert)",
+      "categoryName": "Fries, Shakes & Kinder",
       "items": [
         {
-          "name": "Five Guys Style Fries (Little | Medium | Large)",
-          "price": "4,95 € | 6,45 € | 7,95 €",
-          "calories": "2.220 kJ / 530 kcal (L)",
-          "diet": "Vegan 🌱"
+          "name": "Fries little / regular / large (auch Cajun)",
+          "price": "6,25 € / 7,25 € / 8,45 €",
+          "diet": ""
         },
         {
-          "name": "Cajun Style Fries (Little | Medium | Large)",
-          "price": "4,95 € | 6,45 € | 7,95 €",
-          "calories": "2.220 kJ / 530 kcal (L)",
-          "diet": "Pikant / Vegan 🌱"
-        }
-      ]
-    },
-    {
-      "categoryName": "Five Guys Shakes",
-      "items": [
-        {
-          "name": "Five Guys Milkshake (Basis nach Wahl)",
-          "price": "6,95 €",
-          "calories": "2.800 kJ / 670 kcal",
-          "diet": "Vegetarisch"
+          "name": "Milkshake 0,2 l",
+          "price": "5,45 €",
+          "diet": ""
         },
         {
-          "name": "Mix-Ins (Erdbeere, Erdnussbutter, Bacon, Oreo)",
-          "price": "Kostenlos",
-          "calories": "variiert",
-          "diet": "Mix-In"
+          "name": "Milkshake 0,4 l",
+          "price": "8,25 €",
+          "diet": ""
+        },
+        {
+          "name": "Kids Menü (Burger, Hot Dog oder Grilled Cheese)",
+          "price": "9,00 €",
+          "diet": ""
+        },
+        {
+          "name": "Kids Menü mit Getränk",
+          "price": "11,50 €",
+          "diet": ""
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Warum ist Five Guys so teuer im Vergleich zu McDonald's?",
-      "a": "Five Guys positioniert sich im 'Better Burger' Segment: Es werden keine Tiefkühlpatties verwendet, Kartoffeln werden vor Ort frisch geschnitten und in 100 % Erdnussöl frittiert, und alle Toppings sind unbegrenzt inklusive."
+      "q": "Was kostet ein Burger bei Five Guys?",
+      "a": "Bei Five Guys Berlin Ku'damm kostet der Hamburger 13,45 €, der Cheeseburger 14,45 € und der Bacon Cheeseburger 15,95 € (Uber Eats, 16.10.2026). Die Little-Varianten kosten 10,25 € bis 12,75 €."
+    },
+    {
+      "q": "Was kosten Fries bei Five Guys?",
+      "a": "Little Fries kosten 6,25 €, regular 7,25 € und large 8,45 €. Cajun Fries kosten gleich viel."
+    },
+    {
+      "q": "Was kostet ein Milkshake bei Five Guys?",
+      "a": "Ein Milkshake kostet 8,25 € (0,4 l) oder 5,45 € (0,2 l)."
     }
   ],
-  "videoId": "dQw4w9WgXcQ",
   "tags": [
     "burger",
     "five guys",

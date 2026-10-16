@@ -2,56 +2,186 @@
   "slug": "dean-and-david-preise",
   "name": "Dean & David",
   "category": "fast-food",
-  "seoTitle": "Dean & David Speisekarte Preise 2026 – Salate, Bowls & Curries",
-  "metaDescription": "Aktuelle Dean & David Preise 2026: Frische Salate, Warm Bowls, Curries, Sandwiches & Smoothies im gesunden Tabellen-Überblick.",
-  "heroSubtitle": "Gesundes Fast Food mit Fokus auf Frische, Vitamine und Nachhaltigkeit.",
-  "quickAnswer": "Bei Dean & David kostet ein großer frischer Salat ca. 9,95 € bis 13,95 €, eine Warm Bowl liegt bei ca. 11,45 € bis 14,95 € und frisch gepresste Säfte / Smoothies kosten rund 4,95 €.",
-  "priceLevel": "€€ (Mittel)",
-  "breakfastInfo": {
-    "hasBreakfast": true,
-    "hoursWeekdays": "Ab 08:30 Uhr geöffnet",
-    "hoursWeekend": "Ab 10:00 Uhr geöffnet",
-    "note": "Porridge, Chia Pudding und frische Säfte am Morgen."
-  },
-  "savingTips": [
-    "Bringe eine eigene wiederverwendbare Schüssel mit und erhalte 0,50 € Rabatt."
+  "seoTitle": "dean&david Preise 2026: Bowls, Salate & Currys",
+  "metaDescription": "dean&david Preise, geprüft am 16.10.2026: Bowls ab 14,25 €, Salate ab 11,45 €, Currys ab 13,45 €, Mix Your Own ab 7,25 €. Lieferpreise aus Berlin.",
+  "heroSubtitle": "Bowls, Salate und Currys aus einer Berliner dean&david-Filiale, mit Quelle und Datum.",
+  "quickAnswerTitle": "Kurz gesagt: Preise bei Dean & David",
+  "quickAnswer": "Bei dean&david Berlin Schönhauser Allee kosten Bowls über Uber Eats meist 14,25 € bis 17,45 €, Salate 11,45 € bis 16,95 € und Currys 13,45 € bis 14,95 €. Die Chicken Teriyaki Bowl kostet regulär 15,95 €, war am 16.10.2026 aber im Angebot für 11,16 €.",
+  "pricesCheckedAt": "16.10.2026",
+  "sources": [
+    {
+      "label": "Uber Eats: dean&david Berlin Schönhauser Allee",
+      "url": "https://www.ubereats.com/de/brand-city/berlin-be/dean-and-david",
+      "note": "Lieferpreise, abgerufen am 16.10.2026"
+    }
   ],
-  "history": "Gegründet 2007 von David Baumgartner in München, entwickelte sich Dean & David zur führenden deutschen Kette für gesundes Fast-Casual-Essen.",
+  "priceNote": "Die Tabelle zeigt die Lieferpreise der Filiale dean&david Berlin Schönhauser Allee auf Uber Eats. Im Restaurant und in anderen Filialen können die Preise abweichen, oft sind sie dort niedriger.",
+  "priceLevel": "€€ (Mittel)",
+  "savingTips": [
+    "Auf Uber Eats laufen bei dean&david regelmäßig Aktionen. Am 16.10.2026 gab es die Chicken Teriyaki Bowl für 11,16 € statt 15,95 €.",
+    "Mix Your Own Bowl oder Salad startet bei 7,25 €, der Preis steigt mit jeder Zutat.",
+    "Der günstigste fertige Salat ist der Good Greens Salad für 11,45 €."
+  ],
+  "history": "dean&david verkauft Salate, Bowls und Currys, viele davon auch mit planted.chicken statt Hähnchen. Die Planted-Varianten kosten in dieser Filiale gleich viel wie die mit Fleisch. Im Herbst 2026 stehen zusätzlich Pumpkin-Spice-Gerichte auf der Karte.",
   "menuCategories": [
     {
-      "categoryName": "Salate & Bowls",
+      "categoryName": "Bowls",
       "items": [
         {
-          "name": "Chicken Caesar Salad",
-          "price": "11,95 €",
-          "calories": "1.890 kJ / 451 kcal",
+          "name": "Veggie Buddha Bowl",
+          "price": "14,25 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Avocado Chicken Bowl",
+          "price": "15,75 €",
           "diet": "Geflügel"
         },
         {
-          "name": "Avocado Superfood Salad",
-          "price": "12,45 €",
-          "calories": "1.750 kJ / 418 kcal",
-          "diet": "Vegan 🌱"
+          "name": "Crunchy Chicken Bowl",
+          "price": "15,75 €",
+          "diet": "Geflügel"
         },
         {
-          "name": "Salmon Avocado Bowl (Lachs, Quinoa, Edamame)",
-          "price": "14,95 €",
-          "calories": "2.680 kJ / 640 kcal",
+          "name": "Chicken Teriyaki Bowl",
+          "price": "15,95 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Planted Chicken Teriyaki Bowl",
+          "price": "15,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Japanese Beef Bowl",
+          "price": "16,75 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Salmon Avocado Bowl",
+          "price": "17,45 €",
           "diet": "Fisch"
         },
         {
-          "name": "Green Thai Curry mit Jasminreis",
-          "price": "10,95 €",
-          "calories": "2.350 kJ / 561 kcal",
-          "diet": "Vegan 🌱"
+          "name": "California Poke Bowl",
+          "price": "17,45 €",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Vegan Falafel Bowl",
+          "price": "11,95 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Acai Bowl",
+          "price": "4,45 €",
+          "diet": "Vegan"
+        }
+      ]
+    },
+    {
+      "categoryName": "Salate",
+      "items": [
+        {
+          "name": "Good Greens Salad",
+          "price": "11,45 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Paris Salad",
+          "price": "13,75 €",
+          "diet": ""
+        },
+        {
+          "name": "Caesar Chicken Salad",
+          "price": "15,25 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Chicken Vitality Salad",
+          "price": "15,25 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Falafel Tahini Salad",
+          "price": "15,25 €",
+          "diet": "Vegan"
+        },
+        {
+          "name": "Avocado Halloumi Salad",
+          "price": "15,25 €",
+          "diet": "Vegetarisch"
+        },
+        {
+          "name": "Big Easy Beef Salad",
+          "price": "16,25 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Salmon Spring Salad",
+          "price": "16,95 €",
+          "diet": "Fisch"
+        },
+        {
+          "name": "Mix Your Own Salad / Bowl",
+          "price": "ab 7,25 €",
+          "diet": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Currys & Saisonales",
+      "items": [
+        {
+          "name": "Red Thai Chicken Curry",
+          "price": "13,45 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Mango Chicken Curry",
+          "price": "13,45 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Asian Beef Curry",
+          "price": "14,45 €",
+          "diet": "Rind"
+        },
+        {
+          "name": "Pumpkin Spice Curry",
+          "price": "12,45 €",
+          "diet": ""
+        },
+        {
+          "name": "Pumpkin Spice Bowl mit Chicken",
+          "price": "16,95 €",
+          "diet": "Geflügel"
+        },
+        {
+          "name": "Pumpkin Spice Chai Latte",
+          "price": "5,45 €",
+          "diet": ""
+        },
+        {
+          "name": "Blueberry Muffin",
+          "price": "3,95 €",
+          "diet": "Vegetarisch"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Was kostet ein Salat bei Dean & David?",
-      "a": "Große Salate kosten je nach Topping zwischen 9,95 € und 13,95 €."
+      "q": "Was kostet eine Bowl bei dean&david?",
+      "a": "Bei dean&david Berlin Schönhauser Allee kosten die meisten Bowls 14,25 € bis 17,45 € (Uber Eats, 16.10.2026). Mix Your Own startet bei 7,25 €."
+    },
+    {
+      "q": "Was kostet ein Salat bei dean&david?",
+      "a": "Salate kosten 11,45 € (Good Greens) bis 16,95 € (Salmon Spring Salad). Die meisten Salate mit Hähnchen liegen bei 15,25 €."
+    },
+    {
+      "q": "Sind die Planted-Gerichte teurer?",
+      "a": "Nein, in dieser Filiale kosten die Planted-Varianten gleich viel wie die Gerichte mit Hähnchen."
     }
   ],
   "tags": [
