@@ -27,14 +27,7 @@
 
   
   
-  <!-- Google Analytics 4 (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQZ1FTE721"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-XQZ1FTE721', { 'anonymize_ip': true });
-  </script>
+  <!-- GA4: no gtag.js here. search.js loads it only after cookie consent. -->
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/assets/css/styles.css">
@@ -70,6 +63,9 @@
   </script>
 </head>
 <body>
+  <div class="release-block" role="status">
+    <strong>Blockiert, Entwurf.</strong> Veröffentlichung und Indexierung sind nicht freigegeben. Anbieter, Anschrift und Kontakt sind nicht bestätigt. Die Beschreibung als persönliches Projekt ersetzt diese Angaben nicht.
+  </div>
   <!-- Header -->
   <header class="site-header">
     <div class="container header-inner">
@@ -424,7 +420,7 @@
   <div id="cookieBanner" class="cookie-banner" role="dialog" aria-live="polite">
     <div class="cookie-banner-inner">
       <div>
-        <strong>🍪 Datenschutz & Cookies:</strong> Wir nutzen Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien bereitzustellen und Zugriffe auf unsere Website zu analysieren. Weitere Informationen finden Sie in unserer <a href="/datenschutz/" style="color: #ffffff; text-decoration: underline;">Datenschutzerklärung</a>.
+        <strong>🍪 Datenschutz & Cookies:</strong> Wir verwenden optionale Analyse-Cookies von Google Analytics 4, um Zugriffe auf diese Website auszuwerten. Das Analyse-Skript wird erst geladen, wenn Sie „Alle akzeptieren“ wählen. Ohne Auswahl oder bei „Nur essenzielle“ bleibt es aus. Details stehen in unserer <a href="/datenschutz/" style="color: #ffffff; text-decoration: underline;">Datenschutzerklärung</a>.
       </div>
       <div class="cookie-btn-group">
         <button id="cookieAcceptBtn" class="cookie-btn-accept">Alle akzeptieren</button>
@@ -433,7 +429,7 @@
     </div>
   </div>
 
-  <!-- Search & Interactive Scripts -->
-  <script src="/assets/js/search.js" defer></script>
+  <!-- Search, cookie banner, and consent-gated analytics -->
+  <script src="/assets/js/search.js" defer data-ga-measurement-id="G-XQZ1FTE721"></script>
 </body>
 </html>
