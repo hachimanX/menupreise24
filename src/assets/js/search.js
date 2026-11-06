@@ -1,29 +1,75 @@
 // MenüPreise24.de - Interactive Live Search, Table Filter & Cookie Consent Engine
+var MENUPREISE24_CONSENT_KEY = 'menupreise24_cookie_consent';
+
+function menupreise24ReadConsent() {
+  try {
+    return localStorage.getItem(MENUPREISE24_CONSENT_KEY);
+  } catch (e) {
+    return null;
+  }
+}
+
+// Shared by every generated page: loads gtag.js once, and only after accept.
+function menupreise24LoadGa4() {
+  if (window.__menupreise24GaStarted) return;
+  if (menupreise24ReadConsent() !== 'accepted') return;
+
+  var tag = document.querySelector('script[data-ga-measurement-id]');
+  var measurementId = tag && tag.getAttribute('data-ga-measurement-id');
+  if (!measurementId || !/^G-[A-Z0-9]+$/.test(measurementId)) return;
+
+  window.__menupreise24GaStarted = true;
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', measurementId, { anonymize_ip: true });
+
+  var script = document.createElement('script');
+  script.async = true;
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
+  document.head.appendChild(script);
+}
+
+window.menupreise24LoadGa4 = menupreise24LoadGa4;
+
 document.addEventListener('DOMContentLoaded', function () {
   // 1. Cookie Consent Banner (DSGVO / GDPR)
   const cookieBanner = document.getElementById('cookieBanner');
   const cookieAccept = document.getElementById('cookieAcceptBtn');
   const cookieDecline = document.getElementById('cookieDeclineBtn');
+  const hasConsent = menupreise24ReadConsent();
 
   if (cookieBanner) {
-    const hasConsent = localStorage.getItem('menupreise24_cookie_consent');
     if (!hasConsent) {
       cookieBanner.style.display = 'block';
     }
 
     if (cookieAccept) {
       cookieAccept.addEventListener('click', function () {
-        localStorage.setItem('menupreise24_cookie_consent', 'accepted');
+        try {
+          localStorage.setItem(MENUPREISE24_CONSENT_KEY, 'accepted');
+        } catch (e) {
+          return;
+        }
         cookieBanner.style.display = 'none';
+        menupreise24LoadGa4();
       });
     }
 
     if (cookieDecline) {
       cookieDecline.addEventListener('click', function () {
-        localStorage.setItem('menupreise24_cookie_consent', 'declined');
+        try {
+          localStorage.setItem(MENUPREISE24_CONSENT_KEY, 'declined');
+        } catch (e) {
+          /* banner still closes; analytics stays off */
+        }
         cookieBanner.style.display = 'none';
       });
     }
+  }
+
+  if (hasConsent === 'accepted') {
+    menupreise24LoadGa4();
   }
 
   // 2. Table Item Search & Filter

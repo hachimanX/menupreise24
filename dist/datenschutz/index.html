@@ -27,14 +27,7 @@
 
   
   
-  <!-- Google Analytics 4 (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQZ1FTE721"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-XQZ1FTE721', { 'anonymize_ip': true });
-  </script>
+  <!-- GA4: no gtag.js here. search.js loads it only after cookie consent. -->
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/assets/css/styles.css">
@@ -97,13 +90,18 @@
       <p>Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Nachfolgend informieren wir Sie über die Verarbeitung personenbezogener Daten bei Nutzung unserer Website.</p>
       
       <h3 style="margin-top: 1.5rem;">1. Verantwortliche Stelle</h3>
-      <p>Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte Betreiberin.</p>
+      <p>Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte Stelle. Solange dort nur Platzhalter stehen, ist die verantwortliche Person noch nicht eingetragen.</p>
 
       <h3 style="margin-top: 1.5rem;">2. Server-Log-Dateien</h3>
       <p>Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt (IP-Adresse, Browsertyp, Referrer URL, Uhrzeit). Diese Daten sind nicht bestimmten Personen zuordenbar.</p>
 
-      <h3 style="margin-top: 1.5rem;">3. Google AdSense & Cookies</h3>
-      <p>Diese Website nutzt Google AdSense, einen Dienst zum Einbinden von Werbeanzeigen der Google Ireland Limited. Google AdSense verwendet sog. 'Cookies', Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website ermöglichen. Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO bzw. Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).</p>
+      <h3 style="margin-top: 1.5rem;">3. Google Analytics 4</h3>
+      
+      <p>Sofern Sie einwilligen, nutzt diese Website Google Analytics 4, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Die Mess-ID ist G-XQZ1FTE721.</p>
+      <p>Google Analytics setzt Cookies, um die Nutzung der Website auszuwerten. In der Konfiguration ist die IP-Anonymisierung gesetzt (<code>anonymize_ip: true</code>). Google Analytics 4 kürzt IP-Adressen außerdem standardmäßig, bevor sie gespeichert werden.</p>
+      <p>Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO (Einwilligung). Das Skript gtag.js und der Aufruf <code>gtag('config', …)</code> laufen nur, wenn im Browser <code>menupreise24_cookie_consent</code> den Wert <code>accepted</code> hat. Das passiert ausschließlich über den Button „Alle akzeptieren“. Bei „Nur essenzielle“ oder ohne Entscheidung wird Google Analytics nicht geladen.</p>
+      <p>Informationen zur Verarbeitung bei Google: <a href="https://policies.google.com/privacy?hl=de" rel="noopener noreferrer">https://policies.google.com/privacy</a>.</p>
+      
 
       <h3 style="margin-top: 1.5rem;">4. Ihre Rechte</h3>
       <p>Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten.</p>
@@ -159,7 +157,7 @@
   <div id="cookieBanner" class="cookie-banner" role="dialog" aria-live="polite">
     <div class="cookie-banner-inner">
       <div>
-        <strong>🍪 Datenschutz & Cookies:</strong> Wir nutzen Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien bereitzustellen und Zugriffe auf unsere Website zu analysieren. Weitere Informationen finden Sie in unserer <a href="/datenschutz/" style="color: #ffffff; text-decoration: underline;">Datenschutzerklärung</a>.
+        <strong>🍪 Datenschutz & Cookies:</strong> Wir verwenden optionale Analyse-Cookies von Google Analytics 4, um Zugriffe auf diese Website auszuwerten. Das Analyse-Skript wird erst geladen, wenn Sie „Alle akzeptieren“ wählen. Ohne Auswahl oder bei „Nur essenzielle“ bleibt es aus. Details stehen in unserer <a href="/datenschutz/" style="color: #ffffff; text-decoration: underline;">Datenschutzerklärung</a>.
       </div>
       <div class="cookie-btn-group">
         <button id="cookieAcceptBtn" class="cookie-btn-accept">Alle akzeptieren</button>
@@ -168,7 +166,7 @@
     </div>
   </div>
 
-  <!-- Search & Interactive Scripts -->
-  <script src="/assets/js/search.js" defer></script>
+  <!-- Search, cookie banner, and consent-gated analytics -->
+  <script src="/assets/js/search.js" defer data-ga-measurement-id="G-XQZ1FTE721"></script>
 </body>
 </html>
