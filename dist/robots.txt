@@ -1,17 +1,7 @@
 User-agent: *
 Allow: /
 
-# AI Crawlers explicitly welcomed for citations & snippets
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
+# Indexing is not authorized. HTML pages send noindex.
+# Crawl is allowed so that noindex can be read.
 
 Sitemap: https://menupreise24.de/sitemap.xml

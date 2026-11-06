@@ -10,7 +10,8 @@
   "year": 2026,
   "currency": "EUR",
   "currencySymbol": "€",
-  "contactEmail": "kontakt@menupreise24.de",
+  "contactEmail": "",
+  "publicationAuthorized": false,
   "adSenseId": "ca-pub-XXXXXXXXXXXXXXXX",
   "metaDescription": "Aktuelle Speisekarten und Preise führender Restaurants und Fast-Food-Ketten in Deutschland: McDonald's, Burger King, Deutsche Bahn ICE Bordbistro, Subway, Starbucks & mehr mit Nährwerten.",
   "navLinks": [

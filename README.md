@@ -2,7 +2,7 @@
 
 Statische Website mit Speisekarten- und Preisübersichten für Restaurant- und Fast-Food-Ketten in Deutschland. `npm run build` erzeugt die Seiten aus den JSON-Dateien in `data/`. Es gibt keine Datenbank und kein serverseitiges Framework.
 
-Seiten mit gesetztem `pricesCheckedAt` werden indexiert und verlinkt. Seiten ohne Prüfdatum werden weiter ausgeliefert, tragen aber `noindex`.
+Seiten mit gesetztem `pricesCheckedAt` sind verlinkt. Dieselben Seiten wären bei einer späteren Freigabe die Index-Kandidaten. Solange `publicationAuthorized` nicht `true` ist, sendet jede HTML-Seite `noindex`. Seiten ohne Prüfdatum bleiben auch danach `noindex` und werden weiter ausgeliefert.
 
 ## Was die Seite kann
 
@@ -13,11 +13,15 @@ Seiten mit gesetztem `pricesCheckedAt` werden indexiert und verlinkt. Seiten ohn
 
 ## Rechtliches
 
-Das Impressum enthält die Platzhalter `{{OPERATOR_NAME}}`, `{{POSTAL_ADDRESS}}` und `{{RESPONSIBLE_PERSON}}` plus den Hinweis, dass die Angaben folgen und die Seite noch nicht rechtssicher freigegeben ist. Es ist keine fertige Anbieterkennzeichnung.
+**Status: blockiert, Entwurf.** `publicationAuthorized` in `data/site-meta.json` steht auf `false`. Der Build setzt deshalb auf jeder HTML-Seite `noindex, follow`, lässt `sitemap.xml` leer und gibt keine Anbieterdaten aus. Das ist keine Freigabe und keine Aussage, dass die Seite die Kennzeichnungspflichten erfüllt.
 
-Vor einer öffentlichen Nutzung müssen die echten Betreiberdaten eingetragen werden. Alternativ bleibt die Entscheidung, das Impressum offline zu nehmen oder auf `noindex` zu stellen.
+Nicht bestätigt und deshalb nicht eingesetzt: Name des Anbieters, ladungsfähige Anschrift, Kontakt, verantwortliche Person. Eine deutsche Anschrift ist nicht angegeben. Bekannt ist keine Niederlassung in Deutschland; dass keine besteht, ist nicht ausdrücklich bestätigt. Die Beschreibung als persönliches Projekt ersetzt diese Angaben nicht und entscheidet nicht, welches Kennzeichenrecht gilt. Ob deutsches Kennzeichenrecht gilt, ist ungeklärt. Leere Felder gelten nicht als erledigt.
 
-Die Datenschutzerklärung beschreibt Google Analytics 4 (Mess-ID aus `gaMeasurementId`, derzeit `G-XQZ1FTE721`, Verarbeitung durch Google Ireland Limited, Rechtsgrundlage Art. 6 Abs. 1 lit. a DSGVO). Werbe-Cookies werden dort nicht genannt, solange keine Anzeigen laufen.
+Keine E-Mail-Adresse. `contactEmail` bleibt leer, bis eine bestätigte Adresse zur Veröffentlichung vorliegt. Es wird keine Gesellschaft, kein Sitz und kein privater Ort ergänzt.
+
+Die Datenschutzerklärung beschreibt nur Google Analytics 4 (Mess-ID aus `gaMeasurementId`, derzeit `G-XQZ1FTE721`, Verarbeitung durch Google Ireland Limited, Rechtsgrundlage Art. 6 Abs. 1 lit. a DSGVO, Laden erst nach Einwilligung). Werbe-Cookies werden dort nicht genannt. In diesem Stand ist keine Werbung und kein Verkauf eingebunden. Ein Werbekonto wird erst wieder betrachtet, wenn Anzeigen tatsächlich hinzukommen.
+
+Veröffentlichung läuft weiter nur über `.github/workflows/deploy.yml` bei einem Push auf `main`. Dieser Stand ist dafür nicht freigegeben: nicht mergen, `main` nicht pushen, nicht deployen.
 
 ## Lokal bauen
 
